@@ -12,6 +12,7 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
             <th>Mahalle</th>
             <th>Sokak</th>
             <th>Posta Kodu</th>
+            <th>Alan Kodu</th>
         </tr>
     </thead>
     <tbody>
@@ -24,6 +25,7 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
             <td><p align="center">73.819</p></td>
             <td><p align="center">1.251.158</p></td>
             <td><p align="center">-</p></td>
+            <td><p align="center">82</p></td>
         </tr>
         <tr>
             <td>Dosya Sayısı</td>
@@ -32,6 +34,7 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
             <td colspan=3><p align="center">973</p></td>
             <td><p align="center">73.819</p></td>
             <td><p align="center">973</p></td>
+            <td><p align="center">1</p></td>
         </tr>
     </tbody>
 </table>
