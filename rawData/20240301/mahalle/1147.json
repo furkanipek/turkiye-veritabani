@@ -1,0 +1,902 @@
+[
+    {
+        "koyAdi": "ARILI",
+        "koyKayitNo": 3908,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "ARILI KÖYÜ, ISINALİ MEZRASI",
+        "adi": "ISINALİ",
+        "kimlikNo": 12055
+    },
+    {
+        "koyAdi": "ARILI",
+        "koyKayitNo": 3908,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ARILI KÖYÜ, KAMİLET  MEVKİİ",
+        "adi": "KAMİLET ",
+        "kimlikNo": 12054
+    },
+    {
+        "koyAdi": "ARILI",
+        "koyKayitNo": 3908,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ARILI KÖYÜ, KÖYİÇİ MEVKİİ",
+        "adi": "KÖYİÇİ",
+        "kimlikNo": 12053
+    },
+    {
+        "koyAdi": "ARILI",
+        "koyKayitNo": 3908,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ARILI KÖYÜ, ÖRNEK  MEVKİİ",
+        "adi": "ÖRNEK ",
+        "kimlikNo": 12056
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "AŞAĞI HACILAR MAHALLESİ",
+        "adi": "AŞAĞI HACILAR",
+        "kimlikNo": 9988
+    },
+    {
+        "koyAdi": "AŞAĞIŞAHİNLER",
+        "koyKayitNo": 3886,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "AŞAĞIŞAHİNLER KÖYÜ",
+        "adi": null,
+        "kimlikNo": 11990
+    },
+    {
+        "koyAdi": "BALIKLI",
+        "koyKayitNo": 3887,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BALIKLI KÖYÜ, GÜLTEPE  MEVKİİ",
+        "adi": "GÜLTEPE ",
+        "kimlikNo": 11991
+    },
+    {
+        "koyAdi": "BALIKLI",
+        "koyKayitNo": 3887,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BALIKLI KÖYÜ, GÜNEYCE  MEVKİİ",
+        "adi": "GÜNEYCE ",
+        "kimlikNo": 11993
+    },
+    {
+        "koyAdi": "BALIKLI",
+        "koyKayitNo": 3887,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BALIKLI KÖYÜ, KOZLUCA MEVKİİ",
+        "adi": "KOZLUCA",
+        "kimlikNo": 11992
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, AŞAĞI MERKEZ MEVKİİ",
+        "adi": "AŞAĞI MERKEZ",
+        "kimlikNo": 12057
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, ÇAMLICA MEVKİİ",
+        "adi": "ÇAMLICA",
+        "kimlikNo": 12062
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, MASTAKA  MEVKİİ",
+        "adi": "MASTAKA ",
+        "kimlikNo": 12061
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, MEZRA  MEZRASI",
+        "adi": "MEZRA ",
+        "kimlikNo": 12060
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, TAŞPINAR  MEVKİİ",
+        "adi": "TAŞPINAR ",
+        "kimlikNo": 12059
+    },
+    {
+        "koyAdi": "BAŞKÖY",
+        "koyKayitNo": 3909,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAŞKÖY KÖYÜ, YUKARI MERKEZ  MEVKİİ",
+        "adi": "YUKARI MERKEZ ",
+        "kimlikNo": 12058
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BOĞAZİÇİ MAHALLESİ",
+        "adi": "BOĞAZİÇİ",
+        "kimlikNo": 9989
+    },
+    {
+        "koyAdi": "BOYUNCUK",
+        "koyKayitNo": 3910,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "BOYUNCUK KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12063
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "CUMHURİYET MAHALLESİ",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 9990
+    },
+    {
+        "koyAdi": "DERECİK",
+        "koyKayitNo": 3888,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DERECİK KÖYÜ, BÜYÜK MEVKİİ",
+        "adi": "BÜYÜK",
+        "kimlikNo": 11996
+    },
+    {
+        "koyAdi": "DERECİK",
+        "koyKayitNo": 3888,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DERECİK KÖYÜ, HÜRRİYET  MEVKİİ",
+        "adi": "HÜRRİYET ",
+        "kimlikNo": 11998
+    },
+    {
+        "koyAdi": "DERECİK",
+        "koyKayitNo": 3888,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DERECİK KÖYÜ, İSMAİL ÇAĞ MEVKİİ",
+        "adi": "İSMAİL ÇAĞ",
+        "kimlikNo": 11997
+    },
+    {
+        "koyAdi": "DERECİK",
+        "koyKayitNo": 3888,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DERECİK KÖYÜ, KÜÇÜK MEVKİİ",
+        "adi": "KÜÇÜK",
+        "kimlikNo": 11994
+    },
+    {
+        "koyAdi": "DERECİK",
+        "koyKayitNo": 3888,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DERECİK KÖYÜ, MERKEZ  MEVKİİ",
+        "adi": "MERKEZ ",
+        "kimlikNo": 11995
+    },
+    {
+        "koyAdi": "DEREÜSTÜ",
+        "koyKayitNo": 3889,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREÜSTÜ KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 12002
+    },
+    {
+        "koyAdi": "DEREÜSTÜ",
+        "koyKayitNo": 3889,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREÜSTÜ KÖYÜ, GÜNAYDIN MEVKİİ",
+        "adi": "GÜNAYDIN",
+        "kimlikNo": 12001
+    },
+    {
+        "koyAdi": "DEREÜSTÜ",
+        "koyKayitNo": 3889,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREÜSTÜ KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 12000
+    },
+    {
+        "koyAdi": "DEREÜSTÜ",
+        "koyKayitNo": 3889,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREÜSTÜ KÖYÜ, SARIBAŞ MEVKİİ",
+        "adi": "SARIBAŞ",
+        "kimlikNo": 12003
+    },
+    {
+        "koyAdi": "DEREÜSTÜ",
+        "koyKayitNo": 3889,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREÜSTÜ KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 11999
+    },
+    {
+        "koyAdi": "DİKYAMAÇ",
+        "koyKayitNo": 3911,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DİKYAMAÇ KÖYÜ, AKINCILAR MEVKİİ",
+        "adi": "AKINCILAR",
+        "kimlikNo": 12064
+    },
+    {
+        "koyAdi": "DİKYAMAÇ",
+        "koyKayitNo": 3911,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DİKYAMAÇ KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12065
+    },
+    {
+        "koyAdi": "DİKYAMAÇ",
+        "koyKayitNo": 3911,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "DİKYAMAÇ KÖYÜ, MEZRA MEZRASI",
+        "adi": "MEZRA",
+        "kimlikNo": 12067
+    },
+    {
+        "koyAdi": "DİKYAMAÇ",
+        "koyKayitNo": 3911,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DİKYAMAÇ KÖYÜ, SOĞUKSU MEVKİİ",
+        "adi": "SOĞUKSU",
+        "kimlikNo": 12066
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, CENEVİZLER MEVKİİ",
+        "adi": "CENEVİZLER",
+        "kimlikNo": 12068
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, DEMİRCİLER  MEVKİİ",
+        "adi": "DEMİRCİLER ",
+        "kimlikNo": 12074
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, ESKUVAT MEVKİİ",
+        "adi": "ESKUVAT",
+        "kimlikNo": 12070
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, OMJORE MEVKİİ",
+        "adi": "OMJORE",
+        "kimlikNo": 12073
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, PEPERDİHA MEVKİİ",
+        "adi": "PEPERDİHA",
+        "kimlikNo": 12069
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, SUCUNA MEVKİİ",
+        "adi": "SUCUNA",
+        "kimlikNo": 12072
+    },
+    {
+        "koyAdi": "DÜLGERLİ",
+        "koyKayitNo": 3912,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜLGERLİ KÖYÜ, ŞAHİNLER MEVKİİ",
+        "adi": "ŞAHİNLER",
+        "kimlikNo": 12071
+    },
+    {
+        "koyAdi": "GÜNEŞLİ",
+        "koyKayitNo": 3890,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÜNEŞLİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12004
+    },
+    {
+        "koyAdi": "GÜNGÖREN",
+        "koyKayitNo": 3891,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÜNGÖREN KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12005
+    },
+    {
+        "koyAdi": "GÜRGENCİK",
+        "koyKayitNo": 3892,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÜRGENCİK KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12006
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KALE MAHALLESİ",
+        "adi": "KALE",
+        "kimlikNo": 9991
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, BERZENE  MEVKİİ",
+        "adi": "BERZENE ",
+        "kimlikNo": 12009
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, KÖROĞLU BÜYÜKLÜ MEVKİİ",
+        "adi": "KÖROĞLU BÜYÜKLÜ",
+        "kimlikNo": 12011
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, MERKEZ  MEVKİİ",
+        "adi": "MERKEZ ",
+        "kimlikNo": 12008
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 12007
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, TÜRKMENE  MEVKİİ",
+        "adi": "TÜRKMENE ",
+        "kimlikNo": 12010
+    },
+    {
+        "koyAdi": "KAVAK",
+        "koyKayitNo": 3893,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAVAK KÖYÜ, YUKARI  MEVKİİ",
+        "adi": "YUKARI ",
+        "kimlikNo": 12012
+    },
+    {
+        "koyAdi": "KEMERKÖPRÜ",
+        "koyKayitNo": 3894,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KEMERKÖPRÜ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12013
+    },
+    {
+        "koyAdi": "KESTANEALAN",
+        "koyKayitNo": 3895,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KESTANEALAN KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12014
+    },
+    {
+        "koyAdi": "KİREÇLİK",
+        "koyKayitNo": 3896,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KİREÇLİK KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12015
+    },
+    {
+        "koyAdi": "KONAKLI",
+        "koyKayitNo": 3897,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KONAKLI KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 12017
+    },
+    {
+        "koyAdi": "KONAKLI",
+        "koyKayitNo": 3897,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KONAKLI KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12016
+    },
+    {
+        "koyAdi": "KONAKLI",
+        "koyKayitNo": 3897,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KONAKLI KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 12018
+    },
+    {
+        "koyAdi": "KÜÇÜKKÖY",
+        "koyKayitNo": 3913,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KÜÇÜKKÖY KÖYÜ, BIYIKLIOĞLU MEVKİİ",
+        "adi": "BIYIKLIOĞLU",
+        "kimlikNo": 12075
+    },
+    {
+        "koyAdi": "KÜÇÜKKÖY",
+        "koyKayitNo": 3913,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KÜÇÜKKÖY KÖYÜ, GÜLLAVAT MEVKİİ",
+        "adi": "GÜLLAVAT",
+        "kimlikNo": 12076
+    },
+    {
+        "koyAdi": "KÜÇÜKKÖY",
+        "koyKayitNo": 3913,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "KÜÇÜKKÖY KÖYÜ, KAMİLET  MEZRASI",
+        "adi": "KAMİLET ",
+        "kimlikNo": 12078
+    },
+    {
+        "koyAdi": "KÜÇÜKKÖY",
+        "koyKayitNo": 3913,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KÜÇÜKKÖY KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 12077
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "MUSAZADE MAHALLESİ",
+        "adi": "MUSAZADE",
+        "kimlikNo": 9992
+    },
+    {
+        "koyAdi": "ORTACALAR",
+        "koyKayitNo": 3907,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ORTACALAR KÖYÜ, MERKEZ  MEVKİİ",
+        "adi": "MERKEZ ",
+        "kimlikNo": 12052
+    },
+    {
+        "koyAdi": "ORTACALAR",
+        "koyKayitNo": 3907,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "ORTACALAR KÖYÜ, MEZRA MEZRASI",
+        "adi": "MEZRA",
+        "kimlikNo": 12050
+    },
+    {
+        "koyAdi": "ORTACALAR",
+        "koyKayitNo": 3907,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ORTACALAR KÖYÜ, OYMALI MEVKİİ",
+        "adi": "OYMALI",
+        "kimlikNo": 12051
+    },
+    {
+        "koyAdi": "SIRTOBA",
+        "koyKayitNo": 3898,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SIRTOBA KÖYÜ, ASLANLAR MEVKİİ",
+        "adi": "ASLANLAR",
+        "kimlikNo": 12020
+    },
+    {
+        "koyAdi": "SIRTOBA",
+        "koyKayitNo": 3898,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SIRTOBA KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12019
+    },
+    {
+        "koyAdi": "SIRTOBA",
+        "koyKayitNo": 3898,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SIRTOBA KÖYÜ, TAŞLIK MEVKİİ",
+        "adi": "TAŞLIK",
+        "kimlikNo": 12021
+    },
+    {
+        "koyAdi": "SOĞUCAK",
+        "koyKayitNo": 3914,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOĞUCAK KÖYÜ, HACILAR MEVKİİ",
+        "adi": "HACILAR",
+        "kimlikNo": 12080
+    },
+    {
+        "koyAdi": "SOĞUCAK",
+        "koyKayitNo": 3914,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOĞUCAK KÖYÜ, KÖYİÇİ MEVKİİ",
+        "adi": "KÖYİÇİ",
+        "kimlikNo": 12082
+    },
+    {
+        "koyAdi": "SOĞUCAK",
+        "koyKayitNo": 3914,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOĞUCAK KÖYÜ, KUSLETA MEVKİİ",
+        "adi": "KUSLETA",
+        "kimlikNo": 12083
+    },
+    {
+        "koyAdi": "SOĞUCAK",
+        "koyKayitNo": 3914,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOĞUCAK KÖYÜ, NAPLAT MEVKİİ",
+        "adi": "NAPLAT",
+        "kimlikNo": 12079
+    },
+    {
+        "koyAdi": "SOĞUCAK",
+        "koyKayitNo": 3914,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOĞUCAK KÖYÜ, YENİ  MEVKİİ",
+        "adi": "YENİ ",
+        "kimlikNo": 12081
+    },
+    {
+        "koyAdi": "ŞENKÖY",
+        "koyKayitNo": 3899,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ŞENKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12023
+    },
+    {
+        "koyAdi": "TEPEYURT",
+        "koyKayitNo": 3900,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TEPEYURT KÖYÜ, KÖSEOĞLU MEVKİİ",
+        "adi": "KÖSEOĞLU",
+        "kimlikNo": 12026
+    },
+    {
+        "koyAdi": "TEPEYURT",
+        "koyKayitNo": 3900,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TEPEYURT KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12024
+    },
+    {
+        "koyAdi": "ULAŞ",
+        "koyKayitNo": 3901,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ULAŞ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12027
+    },
+    {
+        "koyAdi": "ULUKENT",
+        "koyKayitNo": 3902,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ULUKENT KÖYÜ, DEĞİRMENDERE MEVKİİ",
+        "adi": "DEĞİRMENDERE",
+        "kimlikNo": 12029
+    },
+    {
+        "koyAdi": "ULUKENT",
+        "koyKayitNo": 3902,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ULUKENT KÖYÜ, YEŞİLLİK MEVKİİ",
+        "adi": "YEŞİLLİK",
+        "kimlikNo": 12030
+    },
+    {
+        "koyAdi": "ULUKENT",
+        "koyKayitNo": 3902,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ULUKENT KÖYÜ, YUKARI ULUKENT MEVKİİ",
+        "adi": "YUKARI ULUKENT",
+        "kimlikNo": 12028
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, DERE İÇİ MEVKİİ",
+        "adi": "DERE İÇİ",
+        "kimlikNo": 12036
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, ESKUAT MEVKİİ",
+        "adi": "ESKUAT",
+        "kimlikNo": 12032
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, HATİNOĞLU MEVKİİ",
+        "adi": "HATİNOĞLU",
+        "kimlikNo": 12035
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, KUZEY MEVKİİ",
+        "adi": "KUZEY",
+        "kimlikNo": 12033
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12031
+    },
+    {
+        "koyAdi": "ÜÇIRMAK",
+        "koyKayitNo": 3903,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇIRMAK KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 12034
+    },
+    {
+        "koyAdi": "ÜÇLER",
+        "koyKayitNo": 3904,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇLER KÖYÜ, ALTILAR MEVKİİ",
+        "adi": "ALTILAR",
+        "kimlikNo": 12041
+    },
+    {
+        "koyAdi": "ÜÇLER",
+        "koyKayitNo": 3904,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇLER KÖYÜ, AŞAĞI ÜÇLER  MEVKİİ",
+        "adi": "AŞAĞI ÜÇLER ",
+        "kimlikNo": 12038
+    },
+    {
+        "koyAdi": "ÜÇLER",
+        "koyKayitNo": 3904,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇLER KÖYÜ, KURTULUŞ MEVKİİ",
+        "adi": "KURTULUŞ",
+        "kimlikNo": 12039
+    },
+    {
+        "koyAdi": "ÜÇLER",
+        "koyKayitNo": 3904,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇLER KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12040
+    },
+    {
+        "koyAdi": "ÜÇLER",
+        "koyKayitNo": 3904,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÜÇLER KÖYÜ, YILMAZLAR MEVKİİ",
+        "adi": "YILMAZLAR",
+        "kimlikNo": 12037
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YEMİŞLİK MAHALLESİ",
+        "adi": "YEMİŞLİK",
+        "kimlikNo": 9994
+    },
+    {
+        "koyAdi": "YILDIZLI",
+        "koyKayitNo": 3915,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "YILDIZLI KÖYÜ",
+        "adi": null,
+        "kimlikNo": 12084
+    },
+    {
+        "koyAdi": "YOLGEÇEN",
+        "koyKayitNo": 3905,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YOLGEÇEN KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 12042
+    },
+    {
+        "koyAdi": "YOLGEÇEN",
+        "koyKayitNo": 3905,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 3,
+        "bilesenAdi": "YOLGEÇEN KÖYÜ, NOPİNARE MEZRASI",
+        "adi": "NOPİNARE",
+        "kimlikNo": 12044
+    },
+    {
+        "koyAdi": "YOLGEÇEN",
+        "koyKayitNo": 3905,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YOLGEÇEN KÖYÜ, TÜRKMENE MEVKİİ",
+        "adi": "TÜRKMENE",
+        "kimlikNo": 12043
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 3885,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YUKARI HACILAR MAHALLESİ",
+        "adi": "YUKARI HACILAR",
+        "kimlikNo": 9993
+    },
+    {
+        "koyAdi": "YUKARIŞAHİNLER",
+        "koyKayitNo": 3906,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YUKARIŞAHİNLER KÖYÜ, AYDOĞDU  MEVKİİ",
+        "adi": "AYDOĞDU ",
+        "kimlikNo": 12046
+    },
+    {
+        "koyAdi": "YUKARIŞAHİNLER",
+        "koyKayitNo": 3906,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YUKARIŞAHİNLER KÖYÜ, DEREİÇİ 1 MEVKİİ",
+        "adi": "DEREİÇİ 1",
+        "kimlikNo": 12048
+    },
+    {
+        "koyAdi": "YUKARIŞAHİNLER",
+        "koyKayitNo": 3906,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YUKARIŞAHİNLER KÖYÜ, DEREİÇİ 2 MEVKİİ",
+        "adi": "DEREİÇİ 2",
+        "kimlikNo": 12049
+    },
+    {
+        "koyAdi": "YUKARIŞAHİNLER",
+        "koyKayitNo": 3906,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YUKARIŞAHİNLER KÖYÜ, GÜNDOĞDU MEVKİİ",
+        "adi": "GÜNDOĞDU",
+        "kimlikNo": 12045
+    },
+    {
+        "koyAdi": "YUKARIŞAHİNLER",
+        "koyKayitNo": 3906,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YUKARIŞAHİNLER KÖYÜ, YENİYOL MEVKİİ",
+        "adi": "YENİYOL",
+        "kimlikNo": 12047
+    }
+]

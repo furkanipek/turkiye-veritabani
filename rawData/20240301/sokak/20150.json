@@ -1,0 +1,828 @@
+[
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "10 AĞUSTOS 1915 (Sokak)",
+        "adi": "10 AĞUSTOS 1915",
+        "kimlikNo": 369575870
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "18 MART 1915 (Sokak)",
+        "adi": "18 MART 1915",
+        "kimlikNo": 394815440
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "57.ALAY (Sokak)",
+        "adi": "57.ALAY",
+        "kimlikNo": 540741
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "9 OCAK 1915 (Sokak)",
+        "adi": "9 OCAK 1915",
+        "kimlikNo": 622954230
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ABİDE (Sokak)",
+        "adi": "ABİDE",
+        "kimlikNo": 535739
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AĞADERESİ (Sokak)",
+        "adi": "AĞADERESİ",
+        "kimlikNo": 882763
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AHMET MERİÇ (Sokak)",
+        "adi": "AHMET MERİÇ",
+        "kimlikNo": 150976
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AHMET NACİ TINAZ (Sokak)",
+        "adi": "AHMET NACİ TINAZ",
+        "kimlikNo": 130146180
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AHMET TEVFİK (Sokak)",
+        "adi": "AHMET TEVFİK",
+        "kimlikNo": 448942770
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AHMET ZEKİ SOYDEMİR (Sokak)",
+        "adi": "AHMET ZEKİ SOYDEMİR",
+        "kimlikNo": 540742
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "AKBAŞ (Sokak)",
+        "adi": "AKBAŞ",
+        "kimlikNo": 410095
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "ALAY KOMUTANI YARBAY HÜSEYİN AVNİ (Cadde)",
+        "adi": "ALAY KOMUTANI YARBAY HÜSEYİN AVNİ",
+        "kimlikNo": 152288
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ALBAYRAK SIRTI (Sokak)",
+        "adi": "ALBAYRAK SIRTI",
+        "kimlikNo": 473500870
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ALİ FUAT CEBESOY (Sokak)",
+        "adi": "ALİ FUAT CEBESOY",
+        "kimlikNo": 813594990
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ALİ SAİP (Sokak)",
+        "adi": "ALİ SAİP",
+        "kimlikNo": 161250980
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ALİ ŞEFİK BEY (Sokak)",
+        "adi": "ALİ ŞEFİK BEY",
+        "kimlikNo": 150977
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "ANAFARTALAR (Cadde)",
+        "adi": "ANAFARTALAR",
+        "kimlikNo": 152280
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "ARİF HİKMET (Cadde)",
+        "adi": "ARİF HİKMET",
+        "kimlikNo": 152281
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ASIM GÜNDÜZ (Sokak)",
+        "adi": "ASIM GÜNDÜZ",
+        "kimlikNo": 585007370
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "ATATÜRK (Cadde)",
+        "adi": "ATATÜRK",
+        "kimlikNo": 410096
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "CAFER TAYYAR EĞİLMEZ (Sokak)",
+        "adi": "CAFER TAYYAR EĞİLMEZ",
+        "kimlikNo": 542019180
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "CEMİL CONK (Sokak)",
+        "adi": "CEMİL CONK",
+        "kimlikNo": 598002680
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "CEVAT ÇOBANLI (Sokak)",
+        "adi": "CEVAT ÇOBANLI",
+        "kimlikNo": 111907580
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "CEVATPAŞA (Sokak)",
+        "adi": "CEVATPAŞA",
+        "kimlikNo": 152282
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "CUMHURİYET (Cadde)",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 711711440
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 1,
+        "bilesenAdi": "CUMHURİYET1 (Meydan)",
+        "adi": "CUMHURİYET1",
+        "kimlikNo": 152283
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ÇAMBURNU (Sokak)",
+        "adi": "ÇAMBURNU",
+        "kimlikNo": 529081
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ÇAMTEKKE (Sokak)",
+        "adi": "ÇAMTEKKE",
+        "kimlikNo": 417389800
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 5,
+        "bilesenAdi": "ÇANOVASI MEVKİİ (Küme Evler)",
+        "adi": "ÇANOVASI MEVKİİ",
+        "kimlikNo": 534888
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 5,
+        "bilesenAdi": "ÇİFTLİK MEVKİİ (Küme Evler)",
+        "adi": "ÇİFTLİK MEVKİİ",
+        "kimlikNo": 117348941
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "DEĞİRMENLER (Sokak)",
+        "adi": "DEĞİRMENLER",
+        "kimlikNo": 112394150
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "DUMLUPINAR ŞEHİTLERİ (Sokak)",
+        "adi": "DUMLUPINAR ŞEHİTLERİ",
+        "kimlikNo": 410097
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ECE AYHAN (Sokak)",
+        "adi": "ECE AYHAN",
+        "kimlikNo": 196328190
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "EMEKLİLER (Sokak)",
+        "adi": "EMEKLİLER",
+        "kimlikNo": 152284
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "EMİN ÇÖL (Sokak)",
+        "adi": "EMİN ÇÖL",
+        "kimlikNo": 360236380
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ESATPAŞA (Sokak)",
+        "adi": "ESATPAŞA",
+        "kimlikNo": 152285
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "EVREN (Sokak)",
+        "adi": "EVREN",
+        "kimlikNo": 152286
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "FAHRETTİN ALTAY (Sokak)",
+        "adi": "FAHRETTİN ALTAY",
+        "kimlikNo": 642170110
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "FETHİ AKAY (Cadde)",
+        "adi": "FETHİ AKAY",
+        "kimlikNo": 410098
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HALİDE EDİP ADIVAR (Sokak)",
+        "adi": "HALİDE EDİP ADIVAR",
+        "kimlikNo": 379725280
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HALİME ÇAVUŞ (Sokak)",
+        "adi": "HALİME ÇAVUŞ",
+        "kimlikNo": 558666770
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HALİS ATAKSOR (Sokak)",
+        "adi": "HALİS ATAKSOR",
+        "kimlikNo": 713279770
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HASAN GENLİK (Sokak)",
+        "adi": "HASAN GENLİK",
+        "kimlikNo": 152287
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HİLMİ AKSOY (Sokak)",
+        "adi": "HİLMİ AKSOY",
+        "kimlikNo": 541307
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "HİLMİBEY (Sokak)",
+        "adi": "HİLMİBEY",
+        "kimlikNo": 152600
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "İBRAHİM NACİ (Sokak)",
+        "adi": "İBRAHİM NACİ",
+        "kimlikNo": 121125040
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "İBRAHİM RAFET BELE (Sokak)",
+        "adi": "İBRAHİM RAFET BELE",
+        "kimlikNo": 229322630
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "İSMAİL GÜL (Sokak)",
+        "adi": "İSMAİL GÜL",
+        "kimlikNo": 538996
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "İSMAİL HAKKI (Sokak)",
+        "adi": "İSMAİL HAKKI",
+        "kimlikNo": 76891563
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "İSTİKLAL (Cadde)",
+        "adi": "İSTİKLAL",
+        "kimlikNo": 150972
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "İZZETTİN ÇALIŞLAR (Sokak)",
+        "adi": "İZZETTİN ÇALIŞLAR",
+        "kimlikNo": 442604040
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KAHRAMANLAR (Sokak)",
+        "adi": "KAHRAMANLAR",
+        "kimlikNo": 541306
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KANLISIRT (Sokak)",
+        "adi": "KANLISIRT",
+        "kimlikNo": 410099
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KARA FATMA (Sokak)",
+        "adi": "KARA FATMA",
+        "kimlikNo": 74741646
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KARAYÖRÜK DERESİ (Sokak)",
+        "adi": "KARAYÖRÜK DERESİ",
+        "kimlikNo": 152604
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KAZIM İNANÇ (Sokak)",
+        "adi": "KAZIM İNANÇ",
+        "kimlikNo": 825650030
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KAZIM KARABEKİR (Sokak)",
+        "adi": "KAZIM KARABEKİR",
+        "kimlikNo": 558833420
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KEMALYERİ (Sokak)",
+        "adi": "KEMALYERİ",
+        "kimlikNo": 152601
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KEREVİZDERE (Sokak)",
+        "adi": "KEREVİZDERE",
+        "kimlikNo": 270281330
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KİREÇTEPE (Sokak)",
+        "adi": "KİREÇTEPE",
+        "kimlikNo": 152602
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KOCAÇİMENTEPE (Sokak)",
+        "adi": "KOCAÇİMENTEPE",
+        "kimlikNo": 732051140
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "KURTGEÇİDİ (Sokak)",
+        "adi": "KURTGEÇİDİ",
+        "kimlikNo": 245773480
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MAYDOS (Sokak)",
+        "adi": "MAYDOS",
+        "kimlikNo": 532439
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AKİF ERSOY (Sokak)",
+        "adi": "MEHMET AKİF ERSOY",
+        "kimlikNo": 152603
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MESUDİYE (Sokak)",
+        "adi": "MESUDİYE",
+        "kimlikNo": 309479720
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "MİMAR SİNAN (Cadde)",
+        "adi": "MİMAR SİNAN",
+        "kimlikNo": 925234
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MİRALAY (Sokak)",
+        "adi": "MİRALAY",
+        "kimlikNo": 410100
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MİRALAY/1 (Sokak)",
+        "adi": "MİRALAY/1",
+        "kimlikNo": 459068310
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MORTO KOYU (Sokak)",
+        "adi": "MORTO KOYU",
+        "kimlikNo": 494388980
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MUAVENET-İ MİLLİYE (Sokak)",
+        "adi": "MUAVENET-İ MİLLİYE",
+        "kimlikNo": 600923430
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MUHTAR SAMİ (Sokak)",
+        "adi": "MUHTAR SAMİ",
+        "kimlikNo": 362294330
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MUHTAR YAŞAR (Sokak)",
+        "adi": "MUHTAR YAŞAR",
+        "kimlikNo": 760180350
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "MÜSTECİP ONBAŞI (Sokak)",
+        "adi": "MÜSTECİP ONBAŞI",
+        "kimlikNo": 160443980
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "NAMAZGAH (Sokak)",
+        "adi": "NAMAZGAH",
+        "kimlikNo": 180687
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "NENE HATUN (Sokak)",
+        "adi": "NENE HATUN",
+        "kimlikNo": 192293920
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "NUSRET MAYIN (Cadde)",
+        "adi": "NUSRET MAYIN",
+        "kimlikNo": 194627380
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "OHRİLİ KEMAL (Sokak)",
+        "adi": "OHRİLİ KEMAL",
+        "kimlikNo": 643516530
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "PİRİ REİS (Cadde)",
+        "adi": "PİRİ REİS",
+        "kimlikNo": 925233
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "SADETTİN ATALAY (Sokak)",
+        "adi": "SADETTİN ATALAY",
+        "kimlikNo": 541310
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "SAMİ EMEN (Sokak)",
+        "adi": "SAMİ EMEN",
+        "kimlikNo": 975473
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "SARGIYERİ (Sokak)",
+        "adi": "SARGIYERİ",
+        "kimlikNo": 152605
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 5,
+        "bilesenAdi": "SU TAKSİMİ MEVKİİ (Küme Evler)",
+        "adi": "SU TAKSİMİ MEVKİİ",
+        "kimlikNo": 262222810
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "SU TAKSİMİ MEVKİİ/1 (Sokak)",
+        "adi": "SU TAKSİMİ MEVKİİ/1",
+        "kimlikNo": 196094780
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞAHİNDERE (Sokak)",
+        "adi": "ŞAHİNDERE",
+        "kimlikNo": 650513770
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT ER İSMAİL (Sokak)",
+        "adi": "ŞEHİT ER İSMAİL",
+        "kimlikNo": 276204420
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT ER VEDAT KURULAR (Sokak)",
+        "adi": "ŞEHİT ER VEDAT KURULAR",
+        "kimlikNo": 205377180
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT MEHMET ONBAŞI (Sokak)",
+        "adi": "ŞEHİT MEHMET ONBAŞI",
+        "kimlikNo": 150973
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER RECEP ALDIKAÇTI (Sokak)",
+        "adi": "ŞEHİT PİYADE ER RECEP ALDIKAÇTI",
+        "kimlikNo": 1507943
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT POLİS SİNAN TOPAÇ (Sokak)",
+        "adi": "ŞEHİT POLİS SİNAN TOPAÇ",
+        "kimlikNo": 410094
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT TEĞMEN OKTAY TUNA (Sokak)",
+        "adi": "ŞEHİT TEĞMEN OKTAY TUNA",
+        "kimlikNo": 150974
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT TEĞMEN OSMAN GÜNAY TURAN (Sokak)",
+        "adi": "ŞEHİT TEĞMEN OSMAN GÜNAY TURAN",
+        "kimlikNo": 150975
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞERİFE BACI (Sokak)",
+        "adi": "ŞERİFE BACI",
+        "kimlikNo": 111096420
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ŞEVKİ PAŞA (Sokak)",
+        "adi": "ŞEVKİ PAŞA",
+        "kimlikNo": 294146790
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/10 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/10",
+        "kimlikNo": 267385340
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/11 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/11",
+        "kimlikNo": 110838470
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/3 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/3",
+        "kimlikNo": 695875170
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/4 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/4",
+        "kimlikNo": 251418880
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/5 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/5",
+        "kimlikNo": 122630420
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/6 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/6",
+        "kimlikNo": 162796300
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/7 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/7",
+        "kimlikNo": 585632300
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/8 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/8",
+        "kimlikNo": 362525340
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOP ZEYTİNLİK MEVKİİ/9 (Sokak)",
+        "adi": "TOP ZEYTİNLİK MEVKİİ/9",
+        "kimlikNo": 479351760
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOPÇULAR (Sokak)",
+        "adi": "TOPÇULAR",
+        "kimlikNo": 410101
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOPÇULAR/3 (Sokak)",
+        "adi": "TOPÇULAR/3",
+        "kimlikNo": 499588530
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TOPHANELİ HAKKI (Sokak)",
+        "adi": "TOPHANELİ HAKKI",
+        "kimlikNo": 240763580
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TUNA (Sokak)",
+        "adi": "TUNA",
+        "kimlikNo": 925239
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TURGUT ÖZAL/3 (Sokak)",
+        "adi": "TURGUT ÖZAL/3",
+        "kimlikNo": 885364460
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TURGUT ÖZAL/4 (Sokak)",
+        "adi": "TURGUT ÖZAL/4",
+        "kimlikNo": 496181350
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "TURGUT ÖZAL/5 (Sokak)",
+        "adi": "TURGUT ÖZAL/5",
+        "kimlikNo": 123352120
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 3,
+        "bilesenAdi": "TURGUT ÖZAL/İSMETPAŞADA KALAN KISMI (Cadde)",
+        "adi": "TURGUT ÖZAL/İSMETPAŞADA KALAN KISMI",
+        "kimlikNo": 524834
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "YAHYA ÇAVUŞ (Sokak)",
+        "adi": "YAHYA ÇAVUŞ",
+        "kimlikNo": 152606
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "YAKUP ŞEVKİ SUBAŞI (Sokak)",
+        "adi": "YAKUP ŞEVKİ SUBAŞI",
+        "kimlikNo": 292529210
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF KENAN (Sokak)",
+        "adi": "YUSUF KENAN",
+        "kimlikNo": 367955990
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "YÜZBAŞI FAİK (Sokak)",
+        "adi": "YÜZBAŞI FAİK",
+        "kimlikNo": 427998820
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ZAFER (Sokak)",
+        "adi": "ZAFER",
+        "kimlikNo": 152607
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ZIĞINDERE (Sokak)",
+        "adi": "ZIĞINDERE",
+        "kimlikNo": 152608
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 4,
+        "bilesenAdi": "ZİVERBEY (Sokak)",
+        "adi": "ZİVERBEY",
+        "kimlikNo": 152609
+    },
+    {
+        "mahalleKayitNo": 20150,
+        "turKod": 1,
+        "bilesenAdi": "ZÜBEYDE HANIM (Meydan)",
+        "adi": "ZÜBEYDE HANIM",
+        "kimlikNo": 410102
+    }
+]

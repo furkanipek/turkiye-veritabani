@@ -1,0 +1,632 @@
+[
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "2. İBRAHİM HAKKI (Cadde)",
+        "adi": "2. İBRAHİM HAKKI",
+        "kimlikNo": 775810
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "2. İBRAHİM HAKKI/1 (Sokak)",
+        "adi": "2. İBRAHİM HAKKI/1",
+        "kimlikNo": 503870420
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "2. İBRAHİM HAKKI/2 (Sokak)",
+        "adi": "2. İBRAHİM HAKKI/2",
+        "kimlikNo": 359631980
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "2. İBRAHİM HAKKI/3 (Sokak)",
+        "adi": "2. İBRAHİM HAKKI/3",
+        "kimlikNo": 837225870
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "AĞIRBAKIM (Cadde)",
+        "adi": "AĞIRBAKIM",
+        "kimlikNo": 773493
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "AK (Sokak)",
+        "adi": "AK",
+        "kimlikNo": 21250
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "AK/1 (Sokak)",
+        "adi": "AK/1",
+        "kimlikNo": 850333710
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "AK/2 (Sokak)",
+        "adi": "AK/2",
+        "kimlikNo": 262434930
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "ATATÜRK (Cadde)",
+        "adi": "ATATÜRK",
+        "kimlikNo": 363863
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK/1 (Sokak)",
+        "adi": "ATATÜRK/1",
+        "kimlikNo": 149625590
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK/2 (Sokak)",
+        "adi": "ATATÜRK/2",
+        "kimlikNo": 211347130
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK/3 (Sokak)",
+        "adi": "ATATÜRK/3",
+        "kimlikNo": 797865700
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "AY (Sokak)",
+        "adi": "AY",
+        "kimlikNo": 294293
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "BOSNA (Cadde)",
+        "adi": "BOSNA",
+        "kimlikNo": 448485
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "BOSNA/1 (Sokak)",
+        "adi": "BOSNA/1",
+        "kimlikNo": 670283990
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "BOSNA/2 (Sokak)",
+        "adi": "BOSNA/2",
+        "kimlikNo": 548377940
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "BOSNA/3 (Sokak)",
+        "adi": "BOSNA/3",
+        "kimlikNo": 114477940
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "BUĞRA (Sokak)",
+        "adi": "BUĞRA",
+        "kimlikNo": 666776341
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "CAMİ (Sokak)",
+        "adi": "CAMİ",
+        "kimlikNo": 378132
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "CAMİ/1 (Sokak)",
+        "adi": "CAMİ/1",
+        "kimlikNo": 369517700
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "CAMİ/2 (Sokak)",
+        "adi": "CAMİ/2",
+        "kimlikNo": 846032730
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 2,
+        "bilesenAdi": "ÇEVRE YOLU (Bulvar)",
+        "adi": "ÇEVRE YOLU",
+        "kimlikNo": 829510
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ÇİFTLİK YOLU (Sokak)",
+        "adi": "ÇİFTLİK YOLU",
+        "kimlikNo": 590635780
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞ (Sokak)",
+        "adi": "DADAŞ",
+        "kimlikNo": 259330
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "DADAŞ KÖYÜ YOLU (Cadde)",
+        "adi": "DADAŞ KÖYÜ YOLU",
+        "kimlikNo": 115161431
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞ/1 (Sokak)",
+        "adi": "DADAŞ/1",
+        "kimlikNo": 159848590
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞ/2 (Sokak)",
+        "adi": "DADAŞ/2",
+        "kimlikNo": 448454440
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 1.- (Sokak)",
+        "adi": "DADAŞKÖY 1.-",
+        "kimlikNo": 444614
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 1./1 (Sokak)",
+        "adi": "DADAŞKÖY 1./1",
+        "kimlikNo": 816359550
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 2. (Sokak)",
+        "adi": "DADAŞKÖY 2.",
+        "kimlikNo": 444615
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 3. (Sokak)",
+        "adi": "DADAŞKÖY 3.",
+        "kimlikNo": 193934
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 4. (Sokak)",
+        "adi": "DADAŞKÖY 4.",
+        "kimlikNo": 773983
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY 5. (Sokak)",
+        "adi": "DADAŞKÖY 5.",
+        "kimlikNo": 193933
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "DADAŞKÖY FATİH (Cadde)",
+        "adi": "DADAŞKÖY FATİH",
+        "kimlikNo": 193932
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY LOJMANLAR (Sokak)",
+        "adi": "DADAŞKÖY LOJMANLAR",
+        "kimlikNo": 773489
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY LOJMANLAR/2 (Sokak)",
+        "adi": "DADAŞKÖY LOJMANLAR/2",
+        "kimlikNo": 180805560
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY LOJMANLAR/3 (Sokak)",
+        "adi": "DADAŞKÖY LOJMANLAR/3",
+        "kimlikNo": 311909600
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "DADAŞKÖY YAVUZ (Cadde)",
+        "adi": "DADAŞKÖY YAVUZ",
+        "kimlikNo": 773491
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY YAVUZ/1 (Sokak)",
+        "adi": "DADAŞKÖY YAVUZ/1",
+        "kimlikNo": 608562910
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖY YAVUZ/2 (Sokak)",
+        "adi": "DADAŞKÖY YAVUZ/2",
+        "kimlikNo": 140226930
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "DADAŞKÖYÜ MENDERES (Cadde)",
+        "adi": "DADAŞKÖYÜ MENDERES",
+        "kimlikNo": 219745
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖYÜ MENDERES/1 (Sokak)",
+        "adi": "DADAŞKÖYÜ MENDERES/1",
+        "kimlikNo": 226271450
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DADAŞKÖYÜ MENDERES/2 (Sokak)",
+        "adi": "DADAŞKÖYÜ MENDERES/2",
+        "kimlikNo": 610538490
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DAR (Sokak)",
+        "adi": "DAR",
+        "kimlikNo": 220823
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "DAR/1 (Sokak)",
+        "adi": "DAR/1",
+        "kimlikNo": 576552680
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ERDEM (Sokak)",
+        "adi": "ERDEM",
+        "kimlikNo": 331314831
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ESER (Sokak)",
+        "adi": "ESER",
+        "kimlikNo": 980700481
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "FİGEN (Sokak)",
+        "adi": "FİGEN",
+        "kimlikNo": 440428931
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "İSTİKLAL (Cadde)",
+        "adi": "İSTİKLAL",
+        "kimlikNo": 294301
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "İSTİKLAL/1 (Sokak)",
+        "adi": "İSTİKLAL/1",
+        "kimlikNo": 196107320
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "İSTİKLAL/3 (Sokak)",
+        "adi": "İSTİKLAL/3",
+        "kimlikNo": 855329190
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "İSTİKLAL/5 (Sokak)",
+        "adi": "İSTİKLAL/5",
+        "kimlikNo": 173873820
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "İSTİKLAL/6 (Sokak)",
+        "adi": "İSTİKLAL/6",
+        "kimlikNo": 811967430
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 5,
+        "bilesenAdi": "KAMER (Küme Evler)",
+        "adi": "KAMER",
+        "kimlikNo": 220821
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KAMER/1 (Sokak)",
+        "adi": "KAMER/1",
+        "kimlikNo": 613039700
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KAMER/2 (Sokak)",
+        "adi": "KAMER/2",
+        "kimlikNo": 681688710
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KAMER/3 (Sokak)",
+        "adi": "KAMER/3",
+        "kimlikNo": 816148850
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "KARASU (Cadde)",
+        "adi": "KARASU",
+        "kimlikNo": 426420
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KARASU/1 (Sokak)",
+        "adi": "KARASU/1",
+        "kimlikNo": 393344610
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KARASU/2 (Sokak)",
+        "adi": "KARASU/2",
+        "kimlikNo": 827335360
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KARASU/3 (Sokak)",
+        "adi": "KARASU/3",
+        "kimlikNo": 392653760
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KIR (Sokak)",
+        "adi": "KIR",
+        "kimlikNo": 218435
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "KONUK (Sokak)",
+        "adi": "KONUK",
+        "kimlikNo": 390428581
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MEVLANA (Sokak)",
+        "adi": "MEVLANA",
+        "kimlikNo": 430811
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MEVLANA/1 (Sokak)",
+        "adi": "MEVLANA/1",
+        "kimlikNo": 352384010
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MEVLANA/2 (Sokak)",
+        "adi": "MEVLANA/2",
+        "kimlikNo": 510437500
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MEVLANA/3 (Sokak)",
+        "adi": "MEVLANA/3",
+        "kimlikNo": 907784730
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MEZARLIK (Sokak)",
+        "adi": "MEZARLIK",
+        "kimlikNo": 296713
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "MİLLET (Cadde)",
+        "adi": "MİLLET",
+        "kimlikNo": 219662
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "MİLLET/1 (Sokak)",
+        "adi": "MİLLET/1",
+        "kimlikNo": 463366080
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 2,
+        "bilesenAdi": "NAFİZ KOTAN (Bulvar)",
+        "adi": "NAFİZ KOTAN",
+        "kimlikNo": 242673530
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 5,
+        "bilesenAdi": "OBA (Küme Evler)",
+        "adi": "OBA",
+        "kimlikNo": 229458
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 5,
+        "bilesenAdi": "OVA (Küme Evler)",
+        "adi": "OVA",
+        "kimlikNo": 304468
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 5,
+        "bilesenAdi": "OVA/1 (Küme Evler)",
+        "adi": "OVA/1",
+        "kimlikNo": 152466300
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ÖREN (Sokak)",
+        "adi": "ÖREN",
+        "kimlikNo": 172251371
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ÖRENCİK (Sokak)",
+        "adi": "ÖRENCİK",
+        "kimlikNo": 848600481
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ÖZAL (Sokak)",
+        "adi": "ÖZAL",
+        "kimlikNo": 773490
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ÖZEN (Sokak)",
+        "adi": "ÖZEN",
+        "kimlikNo": 758135271
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "SÜMBÜL (Sokak)",
+        "adi": "SÜMBÜL",
+        "kimlikNo": 770528
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT AHMET ÖGCÜ (Cadde)",
+        "adi": "ŞEHİT AHMET ÖGCÜ",
+        "kimlikNo": 780220
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT ALİ BENTOĞLU (Cadde)",
+        "adi": "ŞEHİT ALİ BENTOĞLU",
+        "kimlikNo": 220858
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT ALİ BENTOĞLU/1 (Sokak)",
+        "adi": "ŞEHİT ALİ BENTOĞLU/1",
+        "kimlikNo": 440876660
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT ALİ BENTOĞLU/2 (Sokak)",
+        "adi": "ŞEHİT ALİ BENTOĞLU/2",
+        "kimlikNo": 675523310
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT ALİ BENTOĞLU/3 (Sokak)",
+        "adi": "ŞEHİT ALİ BENTOĞLU/3",
+        "kimlikNo": 810405450
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "TERFİ MERKEZİ (Sokak)",
+        "adi": "TERFİ MERKEZİ",
+        "kimlikNo": 868500
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "TERMİNAL YOLU (Sokak)",
+        "adi": "TERMİNAL YOLU",
+        "kimlikNo": 154672440
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "VATAN/1 (Cadde)",
+        "adi": "VATAN/1",
+        "kimlikNo": 357071990
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 3,
+        "bilesenAdi": "YAVUZ SULTAN SELİM (Cadde)",
+        "adi": "YAVUZ SULTAN SELİM",
+        "kimlikNo": 145350
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "YAVUZ SULTAN SELİM/1 (Sokak)",
+        "adi": "YAVUZ SULTAN SELİM/1",
+        "kimlikNo": 667423390
+    },
+    {
+        "mahalleKayitNo": 21740,
+        "turKod": 4,
+        "bilesenAdi": "YUNUSEMRE (Sokak)",
+        "adi": "YUNUSEMRE",
+        "kimlikNo": 157705
+    }
+]

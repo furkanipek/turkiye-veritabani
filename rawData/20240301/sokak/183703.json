@@ -1,0 +1,667 @@
+[
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "1.BODUR (Sokak)",
+        "adi": "1.BODUR",
+        "kimlikNo": 144070
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "1.CEMRE (Sokak)",
+        "adi": "1.CEMRE",
+        "kimlikNo": 688472
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "2.FULYA (Sokak)",
+        "adi": "2.FULYA",
+        "kimlikNo": 321211
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "AÇELYA ÇIKMAZI (Sokak)",
+        "adi": "AÇELYA ÇIKMAZI",
+        "kimlikNo": 91107
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "AKHASAN (Sokak)",
+        "adi": "AKHASAN",
+        "kimlikNo": 361451
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ARI ÇIKMAZI (Sokak)",
+        "adi": "ARI ÇIKMAZI",
+        "kimlikNo": 361453
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ASMAALTI ÇIKMAZI (Sokak)",
+        "adi": "ASMAALTI ÇIKMAZI",
+        "kimlikNo": 144067
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ASMALI (Sokak)",
+        "adi": "ASMALI",
+        "kimlikNo": 993887
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "AVCI ÇIKMAZI (Sokak)",
+        "adi": "AVCI ÇIKMAZI",
+        "kimlikNo": 144068
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "AYAZ ÇIKMAZI (Sokak)",
+        "adi": "AYAZ ÇIKMAZI",
+        "kimlikNo": 401475
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "BABAALİ ÇIKMAZI (Sokak)",
+        "adi": "BABAALİ ÇIKMAZI",
+        "kimlikNo": 144069
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "BAHÇELİ (Sokak)",
+        "adi": "BAHÇELİ",
+        "kimlikNo": 703798
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "BEŞEVLER (Sokak)",
+        "adi": "BEŞEVLER",
+        "kimlikNo": 144065
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 5,
+        "bilesenAdi": "BİLAL (Küme Evler)",
+        "adi": "BİLAL",
+        "kimlikNo": 822146
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "BOĞAZ (Cadde)",
+        "adi": "BOĞAZ",
+        "kimlikNo": 401474
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "CEVİZ YOLU (Sokak)",
+        "adi": "CEVİZ YOLU",
+        "kimlikNo": 688890
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÇAKICI (Sokak)",
+        "adi": "ÇAKICI",
+        "kimlikNo": 144064
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÇALIM ÇIKMAZI (Sokak)",
+        "adi": "ÇALIM ÇIKMAZI",
+        "kimlikNo": 361457
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÇINAR ÇIKMAZI (Sokak)",
+        "adi": "ÇINAR ÇIKMAZI",
+        "kimlikNo": 638911
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "ÇİLEK (Cadde)",
+        "adi": "ÇİLEK",
+        "kimlikNo": 144055
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "ÇİTLİ (Cadde)",
+        "adi": "ÇİTLİ",
+        "kimlikNo": 401480
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ELMA (Sokak)",
+        "adi": "ELMA",
+        "kimlikNo": 910069
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "EROĞLU ÇIKMAZI (Sokak)",
+        "adi": "EROĞLU ÇIKMAZI",
+        "kimlikNo": 144071
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "ESKİ BELEDİYE (Cadde)",
+        "adi": "ESKİ BELEDİYE",
+        "kimlikNo": 361452
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "ESKİŞEHİR (Cadde)",
+        "adi": "ESKİŞEHİR",
+        "kimlikNo": 144047
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "GÜL ÇIKMAZI (Sokak)",
+        "adi": "GÜL ÇIKMAZI",
+        "kimlikNo": 321216
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "GÜLDALI (Sokak)",
+        "adi": "GÜLDALI",
+        "kimlikNo": 1533861
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HACI SELİM (Sokak)",
+        "adi": "HACI SELİM",
+        "kimlikNo": 401468
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HACIHASAN (Sokak)",
+        "adi": "HACIHASAN",
+        "kimlikNo": 401477
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HAKİM ÇIKMAZI (Sokak)",
+        "adi": "HAKİM ÇIKMAZI",
+        "kimlikNo": 361455
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HAMAM (Sokak)",
+        "adi": "HAMAM",
+        "kimlikNo": 144073
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HAMAMCILAR ÇIKMAZI (Sokak)",
+        "adi": "HAMAMCILAR ÇIKMAZI",
+        "kimlikNo": 144049
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HAMZA (Sokak)",
+        "adi": "HAMZA",
+        "kimlikNo": 21769
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "HASANPAŞA KURŞUNLU (Cadde)",
+        "adi": "HASANPAŞA KURŞUNLU",
+        "kimlikNo": 733246911
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "HIZAR ÇIKMAZI (Sokak)",
+        "adi": "HIZAR ÇIKMAZI",
+        "kimlikNo": 144074
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KADIOĞLU (Sokak)",
+        "adi": "KADIOĞLU",
+        "kimlikNo": 144050
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KARAHASAN (Sokak)",
+        "adi": "KARAHASAN",
+        "kimlikNo": 144052
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KAVGALAR ÇIKMAZI (Sokak)",
+        "adi": "KAVGALAR ÇIKMAZI",
+        "kimlikNo": 144075
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KOCAAĞA ÇIKMAZI (Sokak)",
+        "adi": "KOCAAĞA ÇIKMAZI",
+        "kimlikNo": 144053
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KÖSELER ÇIKMAZI (Sokak)",
+        "adi": "KÖSELER ÇIKMAZI",
+        "kimlikNo": 144076
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "KURŞUNLU OKUL (Sokak)",
+        "adi": "KURŞUNLU OKUL",
+        "kimlikNo": 144054
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "KURŞUNLU SANAYİ (Cadde)",
+        "adi": "KURŞUNLU SANAYİ",
+        "kimlikNo": 144062
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "LALE ÇIKMAZI (Sokak)",
+        "adi": "LALE ÇIKMAZI",
+        "kimlikNo": 637376
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "MERCAN ÇIKMAZI (Sokak)",
+        "adi": "MERCAN ÇIKMAZI",
+        "kimlikNo": 361450
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "NEBİOĞLU ÇIKMAZI (Sokak)",
+        "adi": "NEBİOĞLU ÇIKMAZI",
+        "kimlikNo": 144077
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "NERGİS ÇIKMAZI (Sokak)",
+        "adi": "NERGİS ÇIKMAZI",
+        "kimlikNo": 21756
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ONBAŞI ÇIKMAZI (Sokak)",
+        "adi": "ONBAŞI ÇIKMAZI",
+        "kimlikNo": 144051
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ORMAN YOLU (Sokak)",
+        "adi": "ORMAN YOLU",
+        "kimlikNo": 686917
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÖMEROĞLU ÇIKMAZI (Sokak)",
+        "adi": "ÖMEROĞLU ÇIKMAZI",
+        "kimlikNo": 401469
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÖREN ÇIKMAZI (Sokak)",
+        "adi": "ÖREN ÇIKMAZI",
+        "kimlikNo": 144081
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÖZBAHAR (Sokak)",
+        "adi": "ÖZBAHAR",
+        "kimlikNo": 144060
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ÖZBAŞAK (Sokak)",
+        "adi": "ÖZBAŞAK",
+        "kimlikNo": 682937
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "PAPATYA ÇIKMAZI (Sokak)",
+        "adi": "PAPATYA ÇIKMAZI",
+        "kimlikNo": 692293
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "PİR SULTAN ABDAL (Sokak)",
+        "adi": "PİR SULTAN ABDAL",
+        "kimlikNo": 863343
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "RABİA (Sokak)",
+        "adi": "RABİA",
+        "kimlikNo": 144078
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "SANDIKBAŞI (Cadde)",
+        "adi": "SANDIKBAŞI",
+        "kimlikNo": 361456
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "SARI ÇİÇEK (Sokak)",
+        "adi": "SARI ÇİÇEK",
+        "kimlikNo": 682938
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "SARIALİ ÇIKMAZI (Sokak)",
+        "adi": "SARIALİ ÇIKMAZI",
+        "kimlikNo": 401479
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "SARILAR ÇIKMAZI (Sokak)",
+        "adi": "SARILAR ÇIKMAZI",
+        "kimlikNo": 401470
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "SÜMBÜL ÇIKMAZI (Sokak)",
+        "adi": "SÜMBÜL ÇIKMAZI",
+        "kimlikNo": 21764
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT TNK.ÇVŞ.EROL MEMİŞ (Sokak)",
+        "adi": "ŞEHİT TNK.ÇVŞ.EROL MEMİŞ",
+        "kimlikNo": 682927
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "TETİK ÇIKMAZI (Sokak)",
+        "adi": "TETİK ÇIKMAZI",
+        "kimlikNo": 144056
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "TOMURCUK ÇIKMAZI (Sokak)",
+        "adi": "TOMURCUK ÇIKMAZI",
+        "kimlikNo": 691961
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "TOSUNCUK (Sokak)",
+        "adi": "TOSUNCUK",
+        "kimlikNo": 144057
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "ULU ÖNDER ATATÜRK (Cadde)",
+        "adi": "ULU ÖNDER ATATÜRK",
+        "kimlikNo": 144046
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "VERANLAR (Cadde)",
+        "adi": "VERANLAR",
+        "kimlikNo": 144079
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ BADEM (Sokak)",
+        "adi": "YENİ BADEM",
+        "kimlikNo": 701475
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ BAĞLAR (Sokak)",
+        "adi": "YENİ BAĞLAR",
+        "kimlikNo": 144063
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ BAHÇELİEVLER (Sokak)",
+        "adi": "YENİ BAHÇELİEVLER",
+        "kimlikNo": 361454
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "YENİ BARIŞ (Cadde)",
+        "adi": "YENİ BARIŞ",
+        "kimlikNo": 401473
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ ÇİĞDEM (Sokak)",
+        "adi": "YENİ ÇİĞDEM",
+        "kimlikNo": 21772
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ ELMAS (Sokak)",
+        "adi": "YENİ ELMAS",
+        "kimlikNo": 711025
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ GELİNCİK (Sokak)",
+        "adi": "YENİ GELİNCİK",
+        "kimlikNo": 21773
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "YENİ GÜNDOĞAN (Cadde)",
+        "adi": "YENİ GÜNDOĞAN",
+        "kimlikNo": 144048
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ IŞIK (Sokak)",
+        "adi": "YENİ IŞIK",
+        "kimlikNo": 682944
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "YENİ İPEKYOLU (Cadde)",
+        "adi": "YENİ İPEKYOLU",
+        "kimlikNo": 401472
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ KARANFİL (Sokak)",
+        "adi": "YENİ KARANFİL",
+        "kimlikNo": 682928
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ KARDELEN (Sokak)",
+        "adi": "YENİ KARDELEN",
+        "kimlikNo": 21774
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ MANOLYA (Sokak)",
+        "adi": "YENİ MANOLYA",
+        "kimlikNo": 21770
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ MENEKŞE (Sokak)",
+        "adi": "YENİ MENEKŞE",
+        "kimlikNo": 1296007
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ ORKİDE (Sokak)",
+        "adi": "YENİ ORKİDE",
+        "kimlikNo": 682940
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ PETEK (Sokak)",
+        "adi": "YENİ PETEK",
+        "kimlikNo": 682933
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ SARMAŞIK (Sokak)",
+        "adi": "YENİ SARMAŞIK",
+        "kimlikNo": 144059
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ SEÇKİN (Sokak)",
+        "adi": "YENİ SEÇKİN",
+        "kimlikNo": 682935
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ SEYRAN (Sokak)",
+        "adi": "YENİ SEYRAN",
+        "kimlikNo": 682934
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ ŞELALE (Sokak)",
+        "adi": "YENİ ŞELALE",
+        "kimlikNo": 682936
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ ŞİRİN (Sokak)",
+        "adi": "YENİ ŞİRİN",
+        "kimlikNo": 692292
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ YASEMİN (Sokak)",
+        "adi": "YENİ YASEMİN",
+        "kimlikNo": 682939
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YENİ YILDIZ (Sokak)",
+        "adi": "YENİ YILDIZ",
+        "kimlikNo": 144061
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL PALMİYE (Sokak)",
+        "adi": "YEŞİL PALMİYE",
+        "kimlikNo": 682941
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL YAPRAK (Sokak)",
+        "adi": "YEŞİL YAPRAK",
+        "kimlikNo": 21766
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 3,
+        "bilesenAdi": "YILDIRIM CAMİ (Cadde)",
+        "adi": "YILDIRIM CAMİ",
+        "kimlikNo": 144058
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ZAMBAK ÇIKMAZI (Sokak)",
+        "adi": "ZAMBAK ÇIKMAZI",
+        "kimlikNo": 40109
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ZENGİN ÇIKMAZI (Sokak)",
+        "adi": "ZENGİN ÇIKMAZI",
+        "kimlikNo": 144080
+    },
+    {
+        "mahalleKayitNo": 183703,
+        "turKod": 4,
+        "bilesenAdi": "ZERAFET ÇIKMAZI (Sokak)",
+        "adi": "ZERAFET ÇIKMAZI",
+        "kimlikNo": 239251
+    }
+]

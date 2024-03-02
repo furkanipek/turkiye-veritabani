@@ -1,0 +1,786 @@
+[
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "8101 (Sokak)",
+        "adi": "8101",
+        "kimlikNo": 530489061
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ADA (Sokak)",
+        "adi": "ADA",
+        "kimlikNo": 418123
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "AFYON (Cadde)",
+        "adi": "AFYON",
+        "kimlikNo": 167474
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "AHMET ÖZMUTLU (Sokak)",
+        "adi": "AHMET ÖZMUTLU",
+        "kimlikNo": 167445
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "ALPARSLAN TÜRKEŞ (Cadde)",
+        "adi": "ALPARSLAN TÜRKEŞ",
+        "kimlikNo": 34462
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ALTUN (Sokak)",
+        "adi": "ALTUN",
+        "kimlikNo": 167446
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ARSLAN (Sokak)",
+        "adi": "ARSLAN",
+        "kimlikNo": 34467
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ATMACA (Sokak)",
+        "adi": "ATMACA",
+        "kimlikNo": 418112
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "AYDINLIK EVLER (Küme Evler)",
+        "adi": "AYDINLIK EVLER",
+        "kimlikNo": 167447
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "AYHAN ÇAKIR (Sokak)",
+        "adi": "AYHAN ÇAKIR",
+        "kimlikNo": 167475
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "BAĞ (Sokak)",
+        "adi": "BAĞ",
+        "kimlikNo": 418124
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "BARIŞ_1 (Cadde)",
+        "adi": "BARIŞ_1",
+        "kimlikNo": 588074
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "BEYAZIT (Sokak)",
+        "adi": "BEYAZIT",
+        "kimlikNo": 167448
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "BORAKS (Cadde)",
+        "adi": "BORAKS",
+        "kimlikNo": 167449
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "BÜYÜKAKSEKİ- (Küme Evler)",
+        "adi": "BÜYÜKAKSEKİ-",
+        "kimlikNo": 1526249
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "CAN (Sokak)",
+        "adi": "CAN",
+        "kimlikNo": 308061
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "CUMHURİYET_1 (Cadde)",
+        "adi": "CUMHURİYET_1",
+        "kimlikNo": 418118
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇAM (Sokak)",
+        "adi": "ÇAM",
+        "kimlikNo": 167825
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK (Sokak)",
+        "adi": "ÇELİK",
+        "kimlikNo": 167826
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇIKMAZ (Sokak)",
+        "adi": "ÇIKMAZ",
+        "kimlikNo": 167440
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇINAR (Sokak)",
+        "adi": "ÇINAR",
+        "kimlikNo": 418122
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇITLIK (Sokak)",
+        "adi": "ÇITLIK",
+        "kimlikNo": 167441
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇİĞDEM_1 (Sokak)",
+        "adi": "ÇİĞDEM_1",
+        "kimlikNo": 167442
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÇİMEN (Sokak)",
+        "adi": "ÇİMEN",
+        "kimlikNo": 167828
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "ÇÖREZ (Cadde)",
+        "adi": "ÇÖREZ",
+        "kimlikNo": 418131
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "ÇÖREZ ÇİFTLİĞİ (Küme Evler)",
+        "adi": "ÇÖREZ ÇİFTLİĞİ",
+        "kimlikNo": 167827
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "DAĞCI (Sokak)",
+        "adi": "DAĞCI",
+        "kimlikNo": 167462
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "DALMIŞ (Sokak)",
+        "adi": "DALMIŞ",
+        "kimlikNo": 418113
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "DEMİRLİ (Sokak)",
+        "adi": "DEMİRLİ",
+        "kimlikNo": 167450
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "DERYA (Sokak)",
+        "adi": "DERYA",
+        "kimlikNo": 167451
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "DR.OSMAN AKBULUT (Cadde)",
+        "adi": "DR.OSMAN AKBULUT",
+        "kimlikNo": 418114
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "DR.OSMAN AKBULUT (IŞIK) (Cadde)",
+        "adi": "DR.OSMAN AKBULUT (IŞIK)",
+        "kimlikNo": 167464
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "DURMUŞ (Sokak)",
+        "adi": "DURMUŞ",
+        "kimlikNo": 167452
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "EKREM TEPE (Sokak)",
+        "adi": "EKREM TEPE",
+        "kimlikNo": 418119
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "EMİR (Sokak)",
+        "adi": "EMİR",
+        "kimlikNo": 391718
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "EMİRLER (Cadde)",
+        "adi": "EMİRLER",
+        "kimlikNo": 418125
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ER_1 (Sokak)",
+        "adi": "ER_1",
+        "kimlikNo": 167453
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ERGENEKON- (Sokak)",
+        "adi": "ERGENEKON-",
+        "kimlikNo": 34465
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ERKARA (Sokak)",
+        "adi": "ERKARA",
+        "kimlikNo": 167454
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "EROL (Sokak)",
+        "adi": "EROL",
+        "kimlikNo": 418115
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "ERSOY (Cadde)",
+        "adi": "ERSOY",
+        "kimlikNo": 167455
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ERYILMAZ (Sokak)",
+        "adi": "ERYILMAZ",
+        "kimlikNo": 557814
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "ETİBANK (Küme Evler)",
+        "adi": "ETİBANK",
+        "kimlikNo": 167456
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "FATİH (Sokak)",
+        "adi": "FATİH",
+        "kimlikNo": 167477
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "FAZLI GÜNDOĞDU (Cadde)",
+        "adi": "FAZLI GÜNDOĞDU",
+        "kimlikNo": 418116
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "FEVZİ ÇAKMAK (Cadde)",
+        "adi": "FEVZİ ÇAKMAK",
+        "kimlikNo": 167457
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GAZİ (Sokak)",
+        "adi": "GAZİ",
+        "kimlikNo": 552046
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "GEMİÇ (Cadde)",
+        "adi": "GEMİÇ",
+        "kimlikNo": 167458
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GENÇ (Sokak)",
+        "adi": "GENÇ",
+        "kimlikNo": 167459
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GÜL_1 (Sokak)",
+        "adi": "GÜL_1",
+        "kimlikNo": 418117
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GÜLLÜ (Sokak)",
+        "adi": "GÜLLÜ",
+        "kimlikNo": 167478
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GÜMÜŞ (Sokak)",
+        "adi": "GÜMÜŞ",
+        "kimlikNo": 552038
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "GÜRLÜ (Sokak)",
+        "adi": "GÜRLÜ",
+        "kimlikNo": 167460
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "GÜRSÖZ (Cadde)",
+        "adi": "GÜRSÖZ",
+        "kimlikNo": 167479
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "H.MEHMET ÇÖREZ (Sokak)",
+        "adi": "H.MEHMET ÇÖREZ",
+        "kimlikNo": 553198
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "HACI SEYDİ ÇAKIR (Cadde)",
+        "adi": "HACI SEYDİ ÇAKIR",
+        "kimlikNo": 418126
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "HAMAM YOLU (Cadde)",
+        "adi": "HAMAM YOLU",
+        "kimlikNo": 167480
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "HATİP (Sokak)",
+        "adi": "HATİP",
+        "kimlikNo": 167461
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "HOŞ (Sokak)",
+        "adi": "HOŞ",
+        "kimlikNo": 167481
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "HÜSEYİN SEVİM (Cadde)",
+        "adi": "HÜSEYİN SEVİM",
+        "kimlikNo": 166058
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KALKAN (Sokak)",
+        "adi": "KALKAN",
+        "kimlikNo": 167465
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KANAL_1 (Sokak)",
+        "adi": "KANAL_1",
+        "kimlikNo": 167466
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KARAKOL (Sokak)",
+        "adi": "KARAKOL",
+        "kimlikNo": 34464
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KAYA_1 (Sokak)",
+        "adi": "KAYA_1",
+        "kimlikNo": 166059
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KİMZAN (Sokak)",
+        "adi": "KİMZAN",
+        "kimlikNo": 166061
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KÖSE_1 (Sokak)",
+        "adi": "KÖSE_1",
+        "kimlikNo": 418127
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KURT (Sokak)",
+        "adi": "KURT",
+        "kimlikNo": 418120
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KUTLU (Sokak)",
+        "adi": "KUTLU",
+        "kimlikNo": 167467
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "KÜÇÜK (Sokak)",
+        "adi": "KÜÇÜK",
+        "kimlikNo": 167483
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "LALE (Sokak)",
+        "adi": "LALE",
+        "kimlikNo": 166062
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "M.ALİ HOŞ (Cadde)",
+        "adi": "M.ALİ HOŞ",
+        "kimlikNo": 167468
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "MEHMET ALİ HOŞ (Cadde)",
+        "adi": "MEHMET ALİ HOŞ",
+        "kimlikNo": 418128
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "MERCAN (Sokak)",
+        "adi": "MERCAN",
+        "kimlikNo": 166063
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "MERT_1 (Sokak)",
+        "adi": "MERT_1",
+        "kimlikNo": 167485
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "MİMAR SİNAN (Cadde)",
+        "adi": "MİMAR SİNAN",
+        "kimlikNo": 166066
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "MUSTAFA KEMAL (Cadde)",
+        "adi": "MUSTAFA KEMAL",
+        "kimlikNo": 166064
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "MUT (Sokak)",
+        "adi": "MUT",
+        "kimlikNo": 166065
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "NECİP (Sokak)",
+        "adi": "NECİP",
+        "kimlikNo": 166067
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "NİLAY (Sokak)",
+        "adi": "NİLAY",
+        "kimlikNo": 540673
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "ÖKSÜZ (Cadde)",
+        "adi": "ÖKSÜZ",
+        "kimlikNo": 418132
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÖZDEMİR (Sokak)",
+        "adi": "ÖZDEMİR",
+        "kimlikNo": 167472
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÖZKAN (Sokak)",
+        "adi": "ÖZKAN",
+        "kimlikNo": 557818
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "SAKİN (Sokak)",
+        "adi": "SAKİN",
+        "kimlikNo": 166068
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "SAMİ ÖZKAN (Cadde)",
+        "adi": "SAMİ ÖZKAN",
+        "kimlikNo": 418121
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "SARIKAYA (Cadde)",
+        "adi": "SARIKAYA",
+        "kimlikNo": 167431
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "SELVİ (Sokak)",
+        "adi": "SELVİ",
+        "kimlikNo": 167432
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "SEYHAN (Sokak)",
+        "adi": "SEYHAN",
+        "kimlikNo": 167470
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "SİTELER (Küme Evler)",
+        "adi": "SİTELER",
+        "kimlikNo": 414658
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "STADYUM (Sokak)",
+        "adi": "STADYUM",
+        "kimlikNo": 583737
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "SÜLEYMAN KILIÇ (Cadde)",
+        "adi": "SÜLEYMAN KILIÇ",
+        "kimlikNo": 167433
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "SÜMER (Sokak)",
+        "adi": "SÜMER",
+        "kimlikNo": 167434
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ŞAHİN (Sokak)",
+        "adi": "ŞAHİN",
+        "kimlikNo": 167443
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ŞANLI (Sokak)",
+        "adi": "ŞANLI",
+        "kimlikNo": 167444
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT HALİL KARA (Cadde)",
+        "adi": "ŞEHİT HALİL KARA",
+        "kimlikNo": 418110
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ŞELALE (Sokak)",
+        "adi": "ŞELALE",
+        "kimlikNo": 418111
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 5,
+        "bilesenAdi": "TEPE (KÜLTÜR) (Küme Evler)",
+        "adi": "TEPE (KÜLTÜR)",
+        "kimlikNo": 418129
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "TEPE (Sokak)",
+        "adi": "TEPE",
+        "kimlikNo": 167486
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "TEYMEN (Sokak)",
+        "adi": "TEYMEN",
+        "kimlikNo": 561357
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "TURHAN DURUEL (Cadde)",
+        "adi": "TURHAN DURUEL",
+        "kimlikNo": 167435
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "UYSAL_1 (Sokak)",
+        "adi": "UYSAL_1",
+        "kimlikNo": 563049
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÜLKÜ (Sokak)",
+        "adi": "ÜLKÜ",
+        "kimlikNo": 567425
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÜNAL (Sokak)",
+        "adi": "ÜNAL",
+        "kimlikNo": 167473
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "ÜNLÜ (Sokak)",
+        "adi": "ÜNLÜ",
+        "kimlikNo": 167829
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "VATAN (Sokak)",
+        "adi": "VATAN",
+        "kimlikNo": 167436
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "YAHYA KEMAL (Cadde)",
+        "adi": "YAHYA KEMAL",
+        "kimlikNo": 167437
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "YARBASAN (Cadde)",
+        "adi": "YARBASAN",
+        "kimlikNo": 167487
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL (Sokak)",
+        "adi": "YEŞİL",
+        "kimlikNo": 418130
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "YILDIZ_1 (Sokak)",
+        "adi": "YILDIZ_1",
+        "kimlikNo": 414659
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "YILMAZ (Sokak)",
+        "adi": "YILMAZ",
+        "kimlikNo": 167438
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "YILMAZ DOĞU (Sokak)",
+        "adi": "YILMAZ DOĞU",
+        "kimlikNo": 167439
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 3,
+        "bilesenAdi": "YUNUS EMRE_1 (Cadde)",
+        "adi": "YUNUS EMRE_1",
+        "kimlikNo": 409592
+    },
+    {
+        "mahalleKayitNo": 191315,
+        "turKod": 4,
+        "bilesenAdi": "YÜKSEL (Sokak)",
+        "adi": "YÜKSEL",
+        "kimlikNo": 167471
+    }
+]

@@ -1,0 +1,479 @@
+[
+    {
+        "koyAdi": "AĞAYERİ",
+        "koyKayitNo": 19514,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "AĞAYERİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52838
+    },
+    {
+        "koyAdi": "ALPULLU",
+        "koyKayitNo": 19515,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "ALPULLU BELDESİ, GÜLBAHÇE MAHALLESİ",
+        "adi": "GÜLBAHÇE",
+        "kimlikNo": 49918
+    },
+    {
+        "koyAdi": "ALPULLU",
+        "koyKayitNo": 19515,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "ALPULLU BELDESİ, ŞEKER MAHALLESİ",
+        "adi": "ŞEKER",
+        "kimlikNo": 49919
+    },
+    {
+        "koyAdi": "ALPULLU",
+        "koyKayitNo": 19515,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "ALPULLU BELDESİ, YENİ MAHALLESİ",
+        "adi": "YENİ",
+        "kimlikNo": 49920
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ATATÜRK MAHALLESİ",
+        "adi": "ATATÜRK",
+        "kimlikNo": 49909
+    },
+    {
+        "koyAdi": "BÜYÜKMANDIRA",
+        "koyKayitNo": 19526,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKMANDIRA BELDESİ, HATİP MAHALLESİ",
+        "adi": "HATİP",
+        "kimlikNo": 49921
+    },
+    {
+        "koyAdi": "BÜYÜKMANDIRA",
+        "koyKayitNo": 19526,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKMANDIRA BELDESİ, HÜRRİYET MAHALLESİ",
+        "adi": "HÜRRİYET",
+        "kimlikNo": 49922
+    },
+    {
+        "koyAdi": "BÜYÜKMANDIRA",
+        "koyKayitNo": 19526,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKMANDIRA BELDESİ, PAŞA MAHALLESİ",
+        "adi": "PAŞA",
+        "kimlikNo": 49923
+    },
+    {
+        "koyAdi": "BÜYÜKMANDIRA",
+        "koyKayitNo": 19526,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKMANDIRA BELDESİ, ŞAMDANİ MAHALLESİ",
+        "adi": "ŞAMDANİ",
+        "kimlikNo": 49924
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "CUMHURİYET MAHALLESİ",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 49910
+    },
+    {
+        "koyAdi": "ÇAVUŞKÖY",
+        "koyKayitNo": 19516,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ÇAVUŞKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52839
+    },
+    {
+        "koyAdi": "ÇENGERLİ",
+        "koyKayitNo": 19517,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ÇENGERLİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52840
+    },
+    {
+        "koyAdi": "ÇİĞDEMLİ",
+        "koyKayitNo": 19518,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ÇİĞDEMLİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52841
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "DİNDOĞRU MAHALLESİ",
+        "adi": "DİNDOĞRU",
+        "kimlikNo": 49911
+    },
+    {
+        "koyAdi": "DÜĞÜNCÜLÜ",
+        "koyKayitNo": 19519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "DÜĞÜNCÜLÜ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52842
+    },
+    {
+        "koyAdi": "ERİKLERYURDU",
+        "koyKayitNo": 19537,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ERİKLERYURDU KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52858
+    },
+    {
+        "koyAdi": "ERTUĞRULKÖY",
+        "koyKayitNo": 19520,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ERTUĞRULKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52843
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "FEVZİ ÇAKMAK MAHALLESİ",
+        "adi": "FEVZİ ÇAKMAK",
+        "kimlikNo": 49912
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GAZİKEMAL MAHALLESİ",
+        "adi": "GAZİKEMAL",
+        "kimlikNo": 49916
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GAZİOSMANPAŞA MAHALLESİ",
+        "adi": "GAZİOSMANPAŞA",
+        "kimlikNo": 49917
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "HACIHASAN MAHALLESİ",
+        "adi": "HACIHASAN",
+        "kimlikNo": 49913
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "HAMİDİYE MAHALLESİ",
+        "adi": "HAMİDİYE",
+        "kimlikNo": 49914
+    },
+    {
+        "koyAdi": "HAZİNEDAR",
+        "koyKayitNo": 49534,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "HAZİNEDAR KÖYÜ",
+        "adi": null,
+        "kimlikNo": 183262
+    },
+    {
+        "koyAdi": "KADIKÖY",
+        "koyKayitNo": 19521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KADIKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52844
+    },
+    {
+        "koyAdi": "KARABAYIR",
+        "koyKayitNo": 19539,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KARABAYIR KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52860
+    },
+    {
+        "koyAdi": "KARACAOĞLAN",
+        "koyKayitNo": 19540,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KARACAOĞLAN KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52861
+    },
+    {
+        "koyAdi": "KARAHALİL",
+        "koyKayitNo": 19541,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAHALİL BELDESİ, BİRLİK MAHALLESİ",
+        "adi": "BİRLİK",
+        "kimlikNo": 49927
+    },
+    {
+        "koyAdi": "KARAHALİL",
+        "koyKayitNo": 19541,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAHALİL BELDESİ, DEMİRKAPI MAHALLESİ",
+        "adi": "DEMİRKAPI",
+        "kimlikNo": 49931
+    },
+    {
+        "koyAdi": "KARAHALİL",
+        "koyKayitNo": 19541,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAHALİL BELDESİ, FEVZİ ÇAKMAK MAHALLESİ",
+        "adi": "FEVZİ ÇAKMAK",
+        "kimlikNo": 49928
+    },
+    {
+        "koyAdi": "KARAHALİL",
+        "koyKayitNo": 19541,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAHALİL BELDESİ, HALİLPAŞA MAHALLESİ",
+        "adi": "HALİLPAŞA",
+        "kimlikNo": 49929
+    },
+    {
+        "koyAdi": "KARAHALİL",
+        "koyKayitNo": 19541,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAHALİL BELDESİ, KEMAL PAŞA MAHALLESİ",
+        "adi": "KEMAL PAŞA",
+        "kimlikNo": 49930
+    },
+    {
+        "koyAdi": "KARAMESUTLU",
+        "koyKayitNo": 19522,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KARAMESUTLU KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52845
+    },
+    {
+        "koyAdi": "KATRANCA",
+        "koyKayitNo": 19523,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KATRANCA KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52846
+    },
+    {
+        "koyAdi": "KULELİ",
+        "koyKayitNo": 19524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KULELİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52847
+    },
+    {
+        "koyAdi": "KUMRULAR",
+        "koyKayitNo": 19525,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KUMRULAR KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52848
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 19513,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KURTULUŞ MAHALLESİ",
+        "adi": "KURTULUŞ",
+        "kimlikNo": 49915
+    },
+    {
+        "koyAdi": "KUZUÇARDAĞI",
+        "koyKayitNo": 19542,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KUZUÇARDAĞI KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52862
+    },
+    {
+        "koyAdi": "MİNNETLER",
+        "koyKayitNo": 19527,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "MİNNETLER KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52849
+    },
+    {
+        "koyAdi": "MUTLU",
+        "koyKayitNo": 19528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "MUTLU KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52850
+    },
+    {
+        "koyAdi": "MÜSELLİM",
+        "koyKayitNo": 19529,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "MÜSELLİM KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52851
+    },
+    {
+        "koyAdi": "NACAK",
+        "koyKayitNo": 19543,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "NACAK KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52863
+    },
+    {
+        "koyAdi": "NADIRLI",
+        "koyKayitNo": 19530,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "NADIRLI KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52852
+    },
+    {
+        "koyAdi": "ORUÇLU",
+        "koyKayitNo": 19544,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ORUÇLU KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52864
+    },
+    {
+        "koyAdi": "OSMANİYE",
+        "koyKayitNo": 19531,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "OSMANİYE KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52853
+    },
+    {
+        "koyAdi": "PANCARKÖY",
+        "koyKayitNo": 19532,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "PANCARKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52854
+    },
+    {
+        "koyAdi": "SİNANLI",
+        "koyKayitNo": 19533,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SİNANLI KÖYÜ, ATATÜRK MEVKİİ",
+        "adi": "ATATÜRK",
+        "kimlikNo": 49926
+    },
+    {
+        "koyAdi": "SİNANLI",
+        "koyKayitNo": 19533,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SİNANLI KÖYÜ, CUMHURİYET MEVKİİ",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 49925
+    },
+    {
+        "koyAdi": "SOFUHALİL",
+        "koyKayitNo": 19534,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "SOFUHALİL KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52855
+    },
+    {
+        "koyAdi": "TAŞAĞIL BUCAK MERKEZİ",
+        "koyKayitNo": 19536,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "TAŞAĞIL BUCAK MERKEZİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52857
+    },
+    {
+        "koyAdi": "TAŞKÖPRÜ",
+        "koyKayitNo": 19535,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "TAŞKÖPRÜ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52856
+    },
+    {
+        "koyAdi": "TERZİLİ",
+        "koyKayitNo": 19545,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "TERZİLİ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52865
+    },
+    {
+        "koyAdi": "YENİKÖY",
+        "koyKayitNo": 19546,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "YENİKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52866
+    },
+    {
+        "koyAdi": "YENİMAHALLE",
+        "koyKayitNo": 19547,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "YENİMAHALLE KÖYÜ",
+        "adi": null,
+        "kimlikNo": 52867
+    }
+]

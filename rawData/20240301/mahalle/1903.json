@@ -1,0 +1,146 @@
+[
+    {
+        "koyAdi": "BAĞSARAY",
+        "koyKayitNo": 7200,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAĞSARAY KÖYÜ, YAKA MEVKİİ",
+        "adi": "YAKA",
+        "kimlikNo": 11053
+    },
+    {
+        "koyAdi": "BAĞSARAY",
+        "koyKayitNo": 7200,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAĞSARAY KÖYÜ, YUKARI  MEVKİİ",
+        "adi": "YUKARI ",
+        "kimlikNo": 11054
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 7199,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "CAMİİ MAHALLESİ",
+        "adi": "CAMİİ",
+        "kimlikNo": 11051
+    },
+    {
+        "koyAdi": "ÇEBİŞ",
+        "koyKayitNo": 7201,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇEBİŞ KÖYÜ, BUCAK ÇAY KENARI MEVKİİ",
+        "adi": "BUCAK ÇAY KENARI",
+        "kimlikNo": 19524
+    },
+    {
+        "koyAdi": "ÇEBİŞ",
+        "koyKayitNo": 7201,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇEBİŞ KÖYÜ, EN İÇİ MEVKİİ",
+        "adi": "EN İÇİ",
+        "kimlikNo": 19525
+    },
+    {
+        "koyAdi": "ÇEBİŞ",
+        "koyKayitNo": 7201,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇEBİŞ KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19526
+    },
+    {
+        "koyAdi": "ÇEBİŞ",
+        "koyKayitNo": 7201,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇEBİŞ KÖYÜ, ORTAYOL MEVKİİ",
+        "adi": "ORTAYOL",
+        "kimlikNo": 19522
+    },
+    {
+        "koyAdi": "ÇEBİŞ",
+        "koyKayitNo": 7201,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇEBİŞ KÖYÜ, SAROT KAYALI YOLU MEVKİİ",
+        "adi": "SAROT KAYALI YOLU",
+        "kimlikNo": 19523
+    },
+    {
+        "koyAdi": "GÜVENLİ",
+        "koyKayitNo": 7202,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "GÜVENLİ KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 19528
+    },
+    {
+        "koyAdi": "GÜVENLİ",
+        "koyKayitNo": 7202,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "GÜVENLİ KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19527
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 7199,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KONAK MAHALLESİ",
+        "adi": "KONAK",
+        "kimlikNo": 11052
+    },
+    {
+        "koyAdi": "KUZKÖY",
+        "koyKayitNo": 7203,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZKÖY KÖYÜ, DEĞİRMENÖNÜ MEVKİİ",
+        "adi": "DEĞİRMENÖNÜ",
+        "kimlikNo": 19531
+    },
+    {
+        "koyAdi": "KUZKÖY",
+        "koyKayitNo": 7203,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZKÖY KÖYÜ, GÜNEY MEVKİİ",
+        "adi": "GÜNEY",
+        "kimlikNo": 19529
+    },
+    {
+        "koyAdi": "KUZKÖY",
+        "koyKayitNo": 7203,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZKÖY KÖYÜ, KUZEY MEVKİİ",
+        "adi": "KUZEY",
+        "kimlikNo": 19530
+    },
+    {
+        "koyAdi": "OVACIK",
+        "koyKayitNo": 7204,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "OVACIK KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19532
+    },
+    {
+        "koyAdi": "TEKKEKÖY",
+        "koyKayitNo": 7205,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "TEKKEKÖY KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19533
+    }
+]

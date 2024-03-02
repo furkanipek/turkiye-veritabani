@@ -1,0 +1,578 @@
+[
+    {
+        "koyAdi": "AKKÖY",
+        "koyKayitNo": 14518,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "AKKÖY KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 35247
+    },
+    {
+        "koyAdi": "AKKÖY",
+        "koyKayitNo": 14518,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "AKKÖY KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 35246
+    },
+    {
+        "koyAdi": "BAKIMLI",
+        "koyKayitNo": 14519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAKIMLI KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 35250
+    },
+    {
+        "koyAdi": "BAKIMLI",
+        "koyKayitNo": 14519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAKIMLI KÖYÜ, GÜZÖREN MEVKİİ",
+        "adi": "GÜZÖREN",
+        "kimlikNo": 35252
+    },
+    {
+        "koyAdi": "BAKIMLI",
+        "koyKayitNo": 14519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAKIMLI KÖYÜ, KAŞDİBİ MEVKİİ",
+        "adi": "KAŞDİBİ",
+        "kimlikNo": 35249
+    },
+    {
+        "koyAdi": "BAKIMLI",
+        "koyKayitNo": 14519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAKIMLI KÖYÜ, KONAK MEVKİİ",
+        "adi": "KONAK",
+        "kimlikNo": 35251
+    },
+    {
+        "koyAdi": "BAKIMLI",
+        "koyKayitNo": 14519,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BAKIMLI KÖYÜ, ÖTE MEVKİİ",
+        "adi": "ÖTE",
+        "kimlikNo": 35248
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 14517,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BEYLİ MAHALLESİ",
+        "adi": "BEYLİ",
+        "kimlikNo": 30774
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 14517,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "CAMİ YANI MAHALLESİ",
+        "adi": "CAMİ YANI",
+        "kimlikNo": 30771
+    },
+    {
+        "koyAdi": "ÇAĞLAYAN",
+        "koyKayitNo": 14520,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ÇAĞLAYAN KÖYÜ",
+        "adi": null,
+        "kimlikNo": 35254
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, CAMİ MEVKİİ",
+        "adi": "CAMİ",
+        "kimlikNo": 35259
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, ÇORAK MEVKİİ",
+        "adi": "ÇORAK",
+        "kimlikNo": 35263
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, ERİKBÜKÜ MEVKİİ",
+        "adi": "ERİKBÜKÜ",
+        "kimlikNo": 35261
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, GÜCER MEVKİİ",
+        "adi": "GÜCER",
+        "kimlikNo": 35264
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, GÜREGERİŞ MEVKİİ",
+        "adi": "GÜREGERİŞ",
+        "kimlikNo": 35256
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, KAVAK MEVKİİ",
+        "adi": "KAVAK",
+        "kimlikNo": 35258
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, KİRAZÖREN MEVKİİ",
+        "adi": "KİRAZÖREN",
+        "kimlikNo": 35265
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 35257
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, SEKÜ MEVKİİ",
+        "adi": "SEKÜ",
+        "kimlikNo": 35262
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, YAPLU MEVKİİ",
+        "adi": "YAPLU",
+        "kimlikNo": 35260
+    },
+    {
+        "koyAdi": "DEREGÖZÜ",
+        "koyKayitNo": 14521,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREGÖZÜ KÖYÜ, YAZLIK MEVKİİ",
+        "adi": "YAZLIK",
+        "kimlikNo": 35255
+    },
+    {
+        "koyAdi": "DOĞANKÖY",
+        "koyKayitNo": 14522,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞANKÖY KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 35266
+    },
+    {
+        "koyAdi": "DOĞANKÖY",
+        "koyKayitNo": 14522,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞANKÖY KÖYÜ, KIRAN MEVKİİ",
+        "adi": "KIRAN",
+        "kimlikNo": 35268
+    },
+    {
+        "koyAdi": "DOĞANKÖY",
+        "koyKayitNo": 14522,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞANKÖY KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 35267
+    },
+    {
+        "koyAdi": "DÜZKÖY",
+        "koyKayitNo": 14523,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜZKÖY KÖYÜ, ARMUTDÜZÜ MEVKİİ",
+        "adi": "ARMUTDÜZÜ",
+        "kimlikNo": 35271
+    },
+    {
+        "koyAdi": "DÜZKÖY",
+        "koyKayitNo": 14523,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜZKÖY KÖYÜ, CÜCÜKLÜ MEVKİİ",
+        "adi": "CÜCÜKLÜ",
+        "kimlikNo": 35269
+    },
+    {
+        "koyAdi": "DÜZKÖY",
+        "koyKayitNo": 14523,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DÜZKÖY KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 35270
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, BEKÜŞLÜ MEVKİİ",
+        "adi": "BEKÜŞLÜ",
+        "kimlikNo": 35272
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, BOZTOPRAK MEVKİİ",
+        "adi": "BOZTOPRAK",
+        "kimlikNo": 35278
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, DALMANLI MEVKİİ",
+        "adi": "DALMANLI",
+        "kimlikNo": 35273
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, EGE MEVKİİ",
+        "adi": "EGE",
+        "kimlikNo": 35274
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, HARMAN KIRANI MEVKİİ",
+        "adi": "HARMAN KIRANI",
+        "kimlikNo": 35277
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, KIRIKLI MEVKİİ",
+        "adi": "KIRIKLI",
+        "kimlikNo": 35276
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, ÖMERLİ MEVKİİ",
+        "adi": "ÖMERLİ",
+        "kimlikNo": 35275
+    },
+    {
+        "koyAdi": "EGEKÖY",
+        "koyKayitNo": 14524,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "EGEKÖY KÖYÜ, ŞIHLI MEVKİİ",
+        "adi": "ŞIHLI",
+        "kimlikNo": 35279
+    },
+    {
+        "koyAdi": "ERENKÖY",
+        "koyKayitNo": 14525,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ERENKÖY KÖYÜ, KÖSEKIRANI MEVKİİ",
+        "adi": "KÖSEKIRANI",
+        "kimlikNo": 35281
+    },
+    {
+        "koyAdi": "ERENKÖY",
+        "koyKayitNo": 14525,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ERENKÖY KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 35282
+    },
+    {
+        "koyAdi": "KAHRAMAN",
+        "koyKayitNo": 14531,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAHRAMAN KÖYÜ, KARAÇATAK MEVKİİ",
+        "adi": "KARAÇATAK",
+        "kimlikNo": 35300
+    },
+    {
+        "koyAdi": "KAHRAMAN",
+        "koyKayitNo": 14531,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAHRAMAN KÖYÜ, TEKDORUK MEVKİİ",
+        "adi": "TEKDORUK",
+        "kimlikNo": 35302
+    },
+    {
+        "koyAdi": "KAHRAMAN",
+        "koyKayitNo": 14531,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAHRAMAN KÖYÜ, TEZDERESİ MEVKİİ",
+        "adi": "TEZDERESİ",
+        "kimlikNo": 35301
+    },
+    {
+        "koyAdi": "KALEDİBİ",
+        "koyKayitNo": 14526,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KALEDİBİ KÖYÜ, GÜNEY MEVKİİ",
+        "adi": "GÜNEY",
+        "kimlikNo": 35284
+    },
+    {
+        "koyAdi": "KALEDİBİ",
+        "koyKayitNo": 14526,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KALEDİBİ KÖYÜ, KALE MEVKİİ",
+        "adi": "KALE",
+        "kimlikNo": 35285
+    },
+    {
+        "koyAdi": "KALEDİBİ",
+        "koyKayitNo": 14526,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KALEDİBİ KÖYÜ, KUZ MEVKİİ",
+        "adi": "KUZ",
+        "kimlikNo": 35283
+    },
+    {
+        "koyAdi": "KARABÖRK",
+        "koyKayitNo": 14527,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KARABÖRK KÖYÜ, ÇÖCEN MEVKİİ",
+        "adi": "ÇÖCEN",
+        "kimlikNo": 30777
+    },
+    {
+        "koyAdi": "KARABÖRK",
+        "koyKayitNo": 14527,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KARABÖRK KÖYÜ, KUZ MEVKİİ",
+        "adi": "KUZ",
+        "kimlikNo": 30776
+    },
+    {
+        "koyAdi": "KARABÖRK",
+        "koyKayitNo": 14527,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KARABÖRK KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 30775
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, GÜREBÜKÜ 2 MEVKİİ",
+        "adi": "GÜREBÜKÜ 2",
+        "kimlikNo": 35293
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, GÜREBÜKÜ MEVKİİ",
+        "adi": "GÜREBÜKÜ",
+        "kimlikNo": 35290
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, GÜVENDE ÇUBUĞU MEVKİİ",
+        "adi": "GÜVENDE ÇUBUĞU",
+        "kimlikNo": 35291
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, İZZETLİ MEVKİİ",
+        "adi": "İZZETLİ",
+        "kimlikNo": 35292
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, KİSE 2 MEVKİİ",
+        "adi": "KİSE 2",
+        "kimlikNo": 35289
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, KİSE MEVKİİ",
+        "adi": "KİSE",
+        "kimlikNo": 35288
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, MERKEZ ALT MEVKİİ",
+        "adi": "MERKEZ ALT",
+        "kimlikNo": 35286
+    },
+    {
+        "koyAdi": "KUŞKÖY",
+        "koyKayitNo": 14528,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUŞKÖY KÖYÜ, MERKEZ ÜST MEVKİİ",
+        "adi": "MERKEZ ÜST",
+        "kimlikNo": 35287
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 14517,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "MERKEZ MAHALLESİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 30772
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 14517,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ORTA MAHALLESİ",
+        "adi": "ORTA",
+        "kimlikNo": 30773
+    },
+    {
+        "koyAdi": "SARAYKÖY",
+        "koyKayitNo": 14529,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SARAYKÖY KÖYÜ, KIRAN MEVKİİ",
+        "adi": "KIRAN",
+        "kimlikNo": 35294
+    },
+    {
+        "koyAdi": "SARAYKÖY",
+        "koyKayitNo": 14529,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SARAYKÖY KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 35295
+    },
+    {
+        "koyAdi": "SARAYKÖY",
+        "koyKayitNo": 14529,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SARAYKÖY KÖYÜ, ÜST MEVKİİ",
+        "adi": "ÜST",
+        "kimlikNo": 35296
+    },
+    {
+        "koyAdi": "YENİŞADI",
+        "koyKayitNo": 49456,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "YENİŞADI KÖYÜ",
+        "adi": null,
+        "kimlikNo": 182260
+    },
+    {
+        "koyAdi": "YEŞİLKÖY",
+        "koyKayitNo": 14530,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YEŞİLKÖY KÖYÜ, KUZ MEVKİİ",
+        "adi": "KUZ",
+        "kimlikNo": 35298
+    },
+    {
+        "koyAdi": "YEŞİLKÖY",
+        "koyKayitNo": 14530,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YEŞİLKÖY KÖYÜ, YAKUPLU MEVKİİ",
+        "adi": "YAKUPLU",
+        "kimlikNo": 35299
+    },
+    {
+        "koyAdi": "YEŞİLKÖY",
+        "koyKayitNo": 14530,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YEŞİLKÖY KÖYÜ, YARGELİŞ MEVKİİ",
+        "adi": "YARGELİŞ",
+        "kimlikNo": 35297
+    },
+    {
+        "koyAdi": "YEŞİLVADİ",
+        "koyKayitNo": 435453,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 6,
+        "bilesenAdi": "YEŞİLVADİ KÖYÜ, KÖYÜN KENDİSİ MEVKİİ",
+        "adi": "KÖYÜN KENDİSİ",
+        "kimlikNo": 35280
+    }
+]

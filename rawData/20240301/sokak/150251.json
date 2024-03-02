@@ -1,0 +1,597 @@
+[
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "AŞIKLAR (Sokak)",
+        "adi": "AŞIKLAR",
+        "kimlikNo": 40381
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "AŞİYAN (Sokak)",
+        "adi": "AŞİYAN",
+        "kimlikNo": 378494
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "AŞİYAN/1 (Sokak)",
+        "adi": "AŞİYAN/1",
+        "kimlikNo": 715492160
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "AŞİYAN/2 (Sokak)",
+        "adi": "AŞİYAN/2",
+        "kimlikNo": 620258040
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "AŞİYAN/3 (Sokak)",
+        "adi": "AŞİYAN/3",
+        "kimlikNo": 969942150
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK/3 (Sokak)",
+        "adi": "ATATÜRK/3",
+        "kimlikNo": 530458940
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "ATATÜRK_5 (Cadde)",
+        "adi": "ATATÜRK_5",
+        "kimlikNo": 579187
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BAHÇE (Sokak)",
+        "adi": "BAHÇE",
+        "kimlikNo": 85795
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BAHÇE/1 (Sokak)",
+        "adi": "BAHÇE/1",
+        "kimlikNo": 178267020
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BAHÇE/2 (Sokak)",
+        "adi": "BAHÇE/2",
+        "kimlikNo": 314872830
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/10 (Sokak)",
+        "adi": "BELEVİ/10",
+        "kimlikNo": 185549720
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/15 (Sokak)",
+        "adi": "BELEVİ/15",
+        "kimlikNo": 579774800
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/16 (Sokak)",
+        "adi": "BELEVİ/16",
+        "kimlikNo": 648196260
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/17 (Sokak)",
+        "adi": "BELEVİ/17",
+        "kimlikNo": 724456870
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/2 (Sokak)",
+        "adi": "BELEVİ/2",
+        "kimlikNo": 854962060
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/5 (Sokak)",
+        "adi": "BELEVİ/5",
+        "kimlikNo": 270550940
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/6 (Sokak)",
+        "adi": "BELEVİ/6",
+        "kimlikNo": 542319640
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/8 (Sokak)",
+        "adi": "BELEVİ/8",
+        "kimlikNo": 115572200
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "BELEVİ/9 (Sokak)",
+        "adi": "BELEVİ/9",
+        "kimlikNo": 358878680
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 2,
+        "bilesenAdi": "DENİZLİ ÇAL YOLU (Bulvar)",
+        "adi": "DENİZLİ ÇAL YOLU",
+        "kimlikNo": 131937760
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 2,
+        "bilesenAdi": "DENİZLİ UŞAK YOLU (Bulvar)",
+        "adi": "DENİZLİ UŞAK YOLU",
+        "kimlikNo": 500613810
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "DENİZLİ UŞAK YOLU/6 (Sokak)",
+        "adi": "DENİZLİ UŞAK YOLU/6",
+        "kimlikNo": 619370660
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "EFLATUN (Sokak)",
+        "adi": "EFLATUN",
+        "kimlikNo": 40382
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "EFLATUN/1 (Sokak)",
+        "adi": "EFLATUN/1",
+        "kimlikNo": 255121610
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "EFLATUN/2 (Sokak)",
+        "adi": "EFLATUN/2",
+        "kimlikNo": 115402670
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "EFLATUN/3 (Sokak)",
+        "adi": "EFLATUN/3",
+        "kimlikNo": 277592990
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "ERDAL İNÖNÜ (Cadde)",
+        "adi": "ERDAL İNÖNÜ",
+        "kimlikNo": 40383
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/1 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/1",
+        "kimlikNo": 977946060
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/10 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/10",
+        "kimlikNo": 248391690
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/11 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/11",
+        "kimlikNo": 625577310
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/12 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/12",
+        "kimlikNo": 667846790
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/13 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/13",
+        "kimlikNo": 284323590
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/14 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/14",
+        "kimlikNo": 886833960
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/15 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/15",
+        "kimlikNo": 919501130
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/2 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/2",
+        "kimlikNo": 227993080
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/3 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/3",
+        "kimlikNo": 230892950
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/4 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/4",
+        "kimlikNo": 682504710
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/5 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/5",
+        "kimlikNo": 165792780
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/6 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/6",
+        "kimlikNo": 777325500
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/7 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/7",
+        "kimlikNo": 995541310
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/8 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/8",
+        "kimlikNo": 242877240
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERDAL İNÖNÜ/9 (Sokak)",
+        "adi": "ERDAL İNÖNÜ/9",
+        "kimlikNo": 135283280
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ERENLER (Sokak)",
+        "adi": "ERENLER",
+        "kimlikNo": 40371
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 5,
+        "bilesenAdi": "FABRİKALAR (Küme Evler)",
+        "adi": "FABRİKALAR",
+        "kimlikNo": 86545
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "FENER (Sokak)",
+        "adi": "FENER",
+        "kimlikNo": 40372
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "GÜL (Sokak)",
+        "adi": "GÜL",
+        "kimlikNo": 378490
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "HALİL İBRAHİM TOPUZ (Cadde)",
+        "adi": "HALİL İBRAHİM TOPUZ",
+        "kimlikNo": 40373
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "HALİL İBRAHİM TOPUZ/1 (Sokak)",
+        "adi": "HALİL İBRAHİM TOPUZ/1",
+        "kimlikNo": 581988470
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "HALİL İBRAHİM TOPUZ/2 (Sokak)",
+        "adi": "HALİL İBRAHİM TOPUZ/2",
+        "kimlikNo": 633745730
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "İSMET PAŞA (Cadde)",
+        "adi": "İSMET PAŞA",
+        "kimlikNo": 378493
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "İSMET PAŞA/1 (Sokak)",
+        "adi": "İSMET PAŞA/1",
+        "kimlikNo": 198023130
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "İSMET PAŞA/2 (Sokak)",
+        "adi": "İSMET PAŞA/2",
+        "kimlikNo": 648911530
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "KARANFİL_1 (Sokak)",
+        "adi": "KARANFİL_1",
+        "kimlikNo": 86546
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "LALE (Sokak)",
+        "adi": "LALE",
+        "kimlikNo": 40374
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 5,
+        "bilesenAdi": "LOJMANLAR (Küme Evler)",
+        "adi": "LOJMANLAR",
+        "kimlikNo": 378491
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "MADENCİLER (Cadde)",
+        "adi": "MADENCİLER",
+        "kimlikNo": 101046690
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "MANOLYA (Sokak)",
+        "adi": "MANOLYA",
+        "kimlikNo": 40375
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "MENEKŞE (Sokak)",
+        "adi": "MENEKŞE",
+        "kimlikNo": 40376
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "MENEKŞE/1 (Sokak)",
+        "adi": "MENEKŞE/1",
+        "kimlikNo": 685384870
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "RAŞİT ÇAVUŞ (Cadde)",
+        "adi": "RAŞİT ÇAVUŞ",
+        "kimlikNo": 86547
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "SARAY_1 (Sokak)",
+        "adi": "SARAY_1",
+        "kimlikNo": 378492
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "SEVGİ (Sokak)",
+        "adi": "SEVGİ",
+        "kimlikNo": 40377
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "SÜLEYMAN ACAR (Cadde)",
+        "adi": "SÜLEYMAN ACAR",
+        "kimlikNo": 125535660
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "SÜLEYMAN ACAR/1 (Sokak)",
+        "adi": "SÜLEYMAN ACAR/1",
+        "kimlikNo": 196883240
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "SÜLEYMAN ACAR/2 (Sokak)",
+        "adi": "SÜLEYMAN ACAR/2",
+        "kimlikNo": 495380850
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "SÜMBÜL_1 (Sokak)",
+        "adi": "SÜMBÜL_1",
+        "kimlikNo": 40378
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN (Cadde)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN",
+        "kimlikNo": 40380
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/1 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/1",
+        "kimlikNo": 201161330
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/2 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/2",
+        "kimlikNo": 819347960
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/3 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/3",
+        "kimlikNo": 256124170
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/4 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/4",
+        "kimlikNo": 975681410
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/5 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/5",
+        "kimlikNo": 408576170
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/6 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/6",
+        "kimlikNo": 658281700
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT PİYADE ER BİLAL ARSLAN/7 (Sokak)",
+        "adi": "ŞEHİT PİYADE ER BİLAL ARSLAN/7",
+        "kimlikNo": 701804840
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 5,
+        "bilesenAdi": "TAŞOCAKLARI (Küme Evler)",
+        "adi": "TAŞOCAKLARI",
+        "kimlikNo": 40379
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "UŞAK- (Cadde)",
+        "adi": "UŞAK-",
+        "kimlikNo": 913552
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YOKUŞBAŞI/4 (Sokak)",
+        "adi": "YOKUŞBAŞI/4",
+        "kimlikNo": 923232780
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 3,
+        "bilesenAdi": "YUSUF BAŞKAYA (Cadde)",
+        "adi": "YUSUF BAŞKAYA",
+        "kimlikNo": 390090
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/1 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/1",
+        "kimlikNo": 803982170
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/2 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/2",
+        "kimlikNo": 913498860
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/3 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/3",
+        "kimlikNo": 557103960
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/4 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/4",
+        "kimlikNo": 872357920
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/5 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/5",
+        "kimlikNo": 872554440
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/6 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/6",
+        "kimlikNo": 500392130
+    },
+    {
+        "mahalleKayitNo": 150251,
+        "turKod": 4,
+        "bilesenAdi": "YUSUF BAŞKAYA/7 (Sokak)",
+        "adi": "YUSUF BAŞKAYA/7",
+        "kimlikNo": 626616160
+    }
+]

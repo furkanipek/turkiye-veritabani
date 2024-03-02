@@ -1,0 +1,632 @@
+[
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "7EYLÜL MAHALLESİ",
+        "adi": "7EYLÜL",
+        "kimlikNo": 10525
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "AKÇAL MAHALLESİ",
+        "adi": "AKÇAL",
+        "kimlikNo": 148041
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "AŞAĞIKALEOBA MAHALLESİ",
+        "adi": "AŞAĞIKALEOBA",
+        "kimlikNo": 148043
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "AYAKLI MAHALLESİ",
+        "adi": "AYAKLI",
+        "kimlikNo": 148113
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BAHÇELİEVLER MAHALLESİ",
+        "adi": "BAHÇELİEVLER",
+        "kimlikNo": 133371
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BEDRETTİN MAHALLESİ",
+        "adi": "BEDRETTİN",
+        "kimlikNo": 10522
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BOZÖREN MAHALLESİ",
+        "adi": "BOZÖREN",
+        "kimlikNo": 148045
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKFINDIK MAHALLESİ",
+        "adi": "BÜYÜKFINDIK",
+        "kimlikNo": 148047
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKILICA MAHALLESİ",
+        "adi": "BÜYÜKILICA",
+        "kimlikNo": 148115
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BÜYÜKYENİCE MAHALLESİ",
+        "adi": "BÜYÜKYENİCE",
+        "kimlikNo": 148039
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇARKACI MAHALLESİ",
+        "adi": "ÇARKACI",
+        "kimlikNo": 148117
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇATALAN MAHALLESİ",
+        "adi": "ÇATALAN",
+        "kimlikNo": 148097
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇELİMLER MAHALLESİ",
+        "adi": "ÇELİMLER",
+        "kimlikNo": 148119
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇİÇEKLİ MAHALLESİ",
+        "adi": "ÇİÇEKLİ",
+        "kimlikNo": 148099
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇOBANLAR MAHALLESİ",
+        "adi": "ÇOBANLAR",
+        "kimlikNo": 148121
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇUKURLAR MAHALLESİ",
+        "adi": "ÇUKURLAR",
+        "kimlikNo": 148101
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇUKUROBA MAHALLESİ",
+        "adi": "ÇUKUROBA",
+        "kimlikNo": 148049
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "DEĞİRMENBAŞI MAHALLESİ",
+        "adi": "DEĞİRMENBAŞI",
+        "kimlikNo": 148123
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "DEMİRCİLER MAHALLESİ",
+        "adi": "DEMİRCİLER",
+        "kimlikNo": 148125
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "DÖŞEME MAHALLESİ",
+        "adi": "DÖŞEME",
+        "kimlikNo": 148127
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ERDEL MAHALLESİ",
+        "adi": "ERDEL",
+        "kimlikNo": 148051
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ERİKLİKÖMÜRCÜ MAHALLESİ",
+        "adi": "ERİKLİKÖMÜRCÜ",
+        "kimlikNo": 148053
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "EVCİLER MAHALLESİ",
+        "adi": "EVCİLER",
+        "kimlikNo": 148087
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GEBEÇINAR MAHALLESİ",
+        "adi": "GEBEÇINAR",
+        "kimlikNo": 148129
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GEÇMİŞ MAHALLESİ",
+        "adi": "GEÇMİŞ",
+        "kimlikNo": 148055
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GÖKÇELER MAHALLESİ",
+        "adi": "GÖKÇELER",
+        "kimlikNo": 148057
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GÖKÇEYAZI MAHALLESİ",
+        "adi": "GÖKÇEYAZI",
+        "kimlikNo": 148033
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GÖMENİÇ MAHALLESİ",
+        "adi": "GÖMENİÇ",
+        "kimlikNo": 148089
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GÖZLÜÇAYIR MAHALLESİ",
+        "adi": "GÖZLÜÇAYIR",
+        "kimlikNo": 148059
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "GÜMELİ MAHALLESİ",
+        "adi": "GÜMELİ",
+        "kimlikNo": 148131
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "HACIAHMETLER MAHALLESİ",
+        "adi": "HACIAHMETLER",
+        "kimlikNo": 148133
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "HAYDAR MAHALLESİ",
+        "adi": "HAYDAR",
+        "kimlikNo": 148135
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "HÜSEYİNBEYOBASI MAHALLESİ",
+        "adi": "HÜSEYİNBEYOBASI",
+        "kimlikNo": 148061
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ILICAKPINAR MAHALLESİ",
+        "adi": "ILICAKPINAR",
+        "kimlikNo": 148103
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "İKİZCE MAHALLESİ",
+        "adi": "İKİZCE",
+        "kimlikNo": 148137
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KARAÇEPİŞ MAHALLESİ",
+        "adi": "KARAÇEPİŞ",
+        "kimlikNo": 148065
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KAŞAĞIL MAHALLESİ",
+        "adi": "KAŞAĞIL",
+        "kimlikNo": 148139
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KAYAPA MAHALLESİ",
+        "adi": "KAYAPA",
+        "kimlikNo": 148035
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KILCILAR MAHALLESİ",
+        "adi": "KILCILAR",
+        "kimlikNo": 148141
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KINA MAHALLESİ",
+        "adi": "KINA",
+        "kimlikNo": 148143
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KINIK MAHALLESİ",
+        "adi": "KINIK",
+        "kimlikNo": 148067
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KIPIKLAR MAHALLESİ",
+        "adi": "KIPIKLAR",
+        "kimlikNo": 148145
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KIŞLADERE MAHALLESİ",
+        "adi": "KIŞLADERE",
+        "kimlikNo": 148147
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KİRAZ ÖREN MAHALLESİ",
+        "adi": "KİRAZ ÖREN",
+        "kimlikNo": 197735
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KOCAELİ MAHALLESİ",
+        "adi": "KOCAELİ",
+        "kimlikNo": 148069
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KOCAOBA MAHALLESİ",
+        "adi": "KOCAOBA",
+        "kimlikNo": 148071
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KORUCU MAHALLESİ",
+        "adi": "KORUCU",
+        "kimlikNo": 148037
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KURTULUŞ MAHALLESİ",
+        "adi": "KURTULUŞ",
+        "kimlikNo": 10523
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KUŞDERE MAHALLESİ",
+        "adi": "KUŞDERE",
+        "kimlikNo": 148149
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KÜÇÜKFINDIK MAHALLESİ",
+        "adi": "KÜÇÜKFINDIK",
+        "kimlikNo": 148073
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KÜÇÜKILICA MAHALLESİ",
+        "adi": "KÜÇÜKILICA",
+        "kimlikNo": 148151
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KÜÇÜKYENİCE MAHALLESİ",
+        "adi": "KÜÇÜKYENİCE",
+        "kimlikNo": 148075
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "MALLICA MAHALLESİ",
+        "adi": "MALLICA",
+        "kimlikNo": 148153
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "OKÇULAR MAHALLESİ",
+        "adi": "OKÇULAR",
+        "kimlikNo": 181426
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "OSMANKÖY MAHALLESİ",
+        "adi": "OSMANKÖY",
+        "kimlikNo": 148105
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "OSMANLAR MAHALLESİ",
+        "adi": "OSMANLAR",
+        "kimlikNo": 148077
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "PELİTÖREN MAHALLESİ",
+        "adi": "PELİTÖREN",
+        "kimlikNo": 148107
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SAKARYA MAHALLESİ",
+        "adi": "SAKARYA",
+        "kimlikNo": 10524
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SARICA MAHALLESİ",
+        "adi": "SARICA",
+        "kimlikNo": 148079
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SARIPINAR MAHALLESİ",
+        "adi": "SARIPINAR",
+        "kimlikNo": 148109
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SOFULAR MAHALLESİ",
+        "adi": "SOFULAR",
+        "kimlikNo": 148091
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SOĞANBÜKÜ MAHALLESİ",
+        "adi": "SOĞANBÜKÜ",
+        "kimlikNo": 148093
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "SUSUZYAYLA MAHALLESİ",
+        "adi": "SUSUZYAYLA",
+        "kimlikNo": 148111
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "TAŞDİBİ MAHALLESİ",
+        "adi": "TAŞDİBİ",
+        "kimlikNo": 148155
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "TOPUZLAR MAHALLESİ",
+        "adi": "TOPUZLAR",
+        "kimlikNo": 148081
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAĞLILAR MAHALLESİ",
+        "adi": "YAĞLILAR",
+        "kimlikNo": 148083
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAREN MAHALLESİ",
+        "adi": "YAREN",
+        "kimlikNo": 148095
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YEŞİLKÖY MAHALLESİ",
+        "adi": "YEŞİLKÖY",
+        "kimlikNo": 148085
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YUKARIKALEOBA MAHALLESİ",
+        "adi": "YUKARIKALEOBA",
+        "kimlikNo": 148063
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 5266,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YÜREKLİ MAHALLESİ",
+        "adi": "YÜREKLİ",
+        "kimlikNo": 148157
+    }
+]

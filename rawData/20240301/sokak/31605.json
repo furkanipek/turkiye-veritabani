@@ -1,0 +1,611 @@
+[
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 3,
+        "bilesenAdi": "15 TEMMUZ ŞEHİTLER (Cadde)",
+        "adi": "15 TEMMUZ ŞEHİTLER",
+        "kimlikNo": 190118
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 3,
+        "bilesenAdi": "ABDULHAMİD (Cadde)",
+        "adi": "ABDULHAMİD",
+        "kimlikNo": 341784
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 3,
+        "bilesenAdi": "ATATÜRK (Cadde)",
+        "adi": "ATATÜRK",
+        "kimlikNo": 190116
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "BAYRAM AYDEMİR (Sokak)",
+        "adi": "BAYRAM AYDEMİR",
+        "kimlikNo": 87992343
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "BİLİNMEYEN (Sokak)",
+        "adi": "BİLİNMEYEN",
+        "kimlikNo": 41459744
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "ÇAY (Sokak)",
+        "adi": "ÇAY",
+        "kimlikNo": 72059892
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "DELİ AHMET SOKAK (Sokak)",
+        "adi": "DELİ AHMET SOKAK",
+        "kimlikNo": 58878703
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "DERVİŞ AÇAR (Sokak)",
+        "adi": "DERVİŞ AÇAR",
+        "kimlikNo": 19003193
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "DR MEHMET KARATAŞ (Sokak)",
+        "adi": "DR MEHMET KARATAŞ",
+        "kimlikNo": 92820489
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "EFE (Sokak)",
+        "adi": "EFE",
+        "kimlikNo": 362281
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "GAZİ İBİŞ TUNÇ SOKAK (Sokak)",
+        "adi": "GAZİ İBİŞ TUNÇ SOKAK",
+        "kimlikNo": 416915
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "GÜNDÜZ (Sokak)",
+        "adi": "GÜNDÜZ",
+        "kimlikNo": 185350
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "HASAN BÜLBÜL (Sokak)",
+        "adi": "HASAN BÜLBÜL",
+        "kimlikNo": 82015181
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KADILAR ÇIKMAZI (Sokak)",
+        "adi": "KADILAR ÇIKMAZI",
+        "kimlikNo": 416916
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 3,
+        "bilesenAdi": "KAZIM KARA BEKİR (Cadde)",
+        "adi": "KAZIM KARA BEKİR",
+        "kimlikNo": 190120
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KAZIM KARA BEKİR 1 (Sokak)",
+        "adi": "KAZIM KARA BEKİR 1",
+        "kimlikNo": 58987413
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KEMAL ÖZDEMİR (Sokak)",
+        "adi": "KEMAL ÖZDEMİR",
+        "kimlikNo": 70073515
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILDAĞ (Sokak)",
+        "adi": "KIZILDAĞ",
+        "kimlikNo": 362282
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILDAĞ 1 (Sokak)",
+        "adi": "KIZILDAĞ 1",
+        "kimlikNo": 25134313
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 1 (Sokak)",
+        "adi": "KIZILKIR 1",
+        "kimlikNo": 190117
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 10 (Sokak)",
+        "adi": "KIZILKIR 10",
+        "kimlikNo": 1223263
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 11. (Sokak)",
+        "adi": "KIZILKIR 11.",
+        "kimlikNo": 1223265
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 12. (Sokak)",
+        "adi": "KIZILKIR 12.",
+        "kimlikNo": 1223267
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 13 (Sokak)",
+        "adi": "KIZILKIR 13",
+        "kimlikNo": 1223269
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 14 (Sokak)",
+        "adi": "KIZILKIR 14",
+        "kimlikNo": 1223271
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 15 (Sokak)",
+        "adi": "KIZILKIR 15",
+        "kimlikNo": 1223273
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 16 (Sokak)",
+        "adi": "KIZILKIR 16",
+        "kimlikNo": 1223275
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 17 (Sokak)",
+        "adi": "KIZILKIR 17",
+        "kimlikNo": 1223277
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 18 (Sokak)",
+        "adi": "KIZILKIR 18",
+        "kimlikNo": 1223279
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 19 (Sokak)",
+        "adi": "KIZILKIR 19",
+        "kimlikNo": 1223281
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 2 (Sokak)",
+        "adi": "KIZILKIR 2",
+        "kimlikNo": 190119
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 20 (Sokak)",
+        "adi": "KIZILKIR 20",
+        "kimlikNo": 1223283
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 21 (Sokak)",
+        "adi": "KIZILKIR 21",
+        "kimlikNo": 1223285
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 22 (Sokak)",
+        "adi": "KIZILKIR 22",
+        "kimlikNo": 1223287
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 23 (Sokak)",
+        "adi": "KIZILKIR 23",
+        "kimlikNo": 1223289
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 24 (Sokak)",
+        "adi": "KIZILKIR 24",
+        "kimlikNo": 1223291
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 25 (Sokak)",
+        "adi": "KIZILKIR 25",
+        "kimlikNo": 1223293
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 26 (Sokak)",
+        "adi": "KIZILKIR 26",
+        "kimlikNo": 1223295
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 27 (Sokak)",
+        "adi": "KIZILKIR 27",
+        "kimlikNo": 1223297
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 28 (Sokak)",
+        "adi": "KIZILKIR 28",
+        "kimlikNo": 1223299
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 29 (Sokak)",
+        "adi": "KIZILKIR 29",
+        "kimlikNo": 1223301
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 3 (Sokak)",
+        "adi": "KIZILKIR 3",
+        "kimlikNo": 612341
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 30 (Sokak)",
+        "adi": "KIZILKIR 30",
+        "kimlikNo": 1223305
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 31 (Sokak)",
+        "adi": "KIZILKIR 31",
+        "kimlikNo": 1223307
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 32 (Sokak)",
+        "adi": "KIZILKIR 32",
+        "kimlikNo": 1223309
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 33 (Sokak)",
+        "adi": "KIZILKIR 33",
+        "kimlikNo": 1223311
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 34 (Sokak)",
+        "adi": "KIZILKIR 34",
+        "kimlikNo": 1223313
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 35 (Sokak)",
+        "adi": "KIZILKIR 35",
+        "kimlikNo": 1223315
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 36 (Sokak)",
+        "adi": "KIZILKIR 36",
+        "kimlikNo": 1223317
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 37 (Sokak)",
+        "adi": "KIZILKIR 37",
+        "kimlikNo": 1223319
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 38 (Sokak)",
+        "adi": "KIZILKIR 38",
+        "kimlikNo": 1223329
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 39 (Sokak)",
+        "adi": "KIZILKIR 39",
+        "kimlikNo": 1223331
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 4 (Sokak)",
+        "adi": "KIZILKIR 4",
+        "kimlikNo": 190121
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 40 (Sokak)",
+        "adi": "KIZILKIR 40",
+        "kimlikNo": 1223333
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 41 (Sokak)",
+        "adi": "KIZILKIR 41",
+        "kimlikNo": 1223335
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 42 (Sokak)",
+        "adi": "KIZILKIR 42",
+        "kimlikNo": 1223337
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 43 (Sokak)",
+        "adi": "KIZILKIR 43",
+        "kimlikNo": 1223339
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 44 (Sokak)",
+        "adi": "KIZILKIR 44",
+        "kimlikNo": 1223341
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 45 (Sokak)",
+        "adi": "KIZILKIR 45",
+        "kimlikNo": 1223343
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 46 (Sokak)",
+        "adi": "KIZILKIR 46",
+        "kimlikNo": 735743291
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 47 (Sokak)",
+        "adi": "KIZILKIR 47",
+        "kimlikNo": 519242981
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 48 (Sokak)",
+        "adi": "KIZILKIR 48",
+        "kimlikNo": 555416921
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 49 (Sokak)",
+        "adi": "KIZILKIR 49",
+        "kimlikNo": 151045731
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 5 (Sokak)",
+        "adi": "KIZILKIR 5",
+        "kimlikNo": 190122
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 50 (Sokak)",
+        "adi": "KIZILKIR 50",
+        "kimlikNo": 995172781
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 51 (Sokak)",
+        "adi": "KIZILKIR 51",
+        "kimlikNo": 272380131
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 52. (Sokak)",
+        "adi": "KIZILKIR 52.",
+        "kimlikNo": 470326511
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 6 (Sokak)",
+        "adi": "KIZILKIR 6",
+        "kimlikNo": 190123
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 7 (Sokak)",
+        "adi": "KIZILKIR 7",
+        "kimlikNo": 341780
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 8. (Sokak)",
+        "adi": "KIZILKIR 8.",
+        "kimlikNo": 1221389
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KIZILKIR 9. (Sokak)",
+        "adi": "KIZILKIR 9.",
+        "kimlikNo": 1223261
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "KOCA HENDEK (Sokak)",
+        "adi": "KOCA HENDEK",
+        "kimlikNo": 185349
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AKBUĞA (Sokak)",
+        "adi": "MEHMET AKBUĞA",
+        "kimlikNo": 77802338
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "OĞUZHAN (Sokak)",
+        "adi": "OĞUZHAN",
+        "kimlikNo": 190124
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "OĞUZHAN 1 (Sokak)",
+        "adi": "OĞUZHAN 1",
+        "kimlikNo": 45822350
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "OĞUZHAN 2 (Sokak)",
+        "adi": "OĞUZHAN 2",
+        "kimlikNo": 37100179
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "OĞUZHAN 3 (Sokak)",
+        "adi": "OĞUZHAN 3",
+        "kimlikNo": 55322390
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "SANAYİ SİTESİ (Sokak)",
+        "adi": "SANAYİ SİTESİ",
+        "kimlikNo": 127327
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "SANAYİ SİTESİ 1 (Sokak)",
+        "adi": "SANAYİ SİTESİ 1",
+        "kimlikNo": 43293158
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "SIRA SÖĞÜT (Sokak)",
+        "adi": "SIRA SÖĞÜT",
+        "kimlikNo": 190125
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT HÜSEYİN ŞEKER (Sokak)",
+        "adi": "ŞEHİT HÜSEYİN ŞEKER",
+        "kimlikNo": 190127
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "TUNÇ ÇIKMAZI (Sokak)",
+        "adi": "TUNÇ ÇIKMAZI",
+        "kimlikNo": 46129672
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "UMACIK (Sokak)",
+        "adi": "UMACIK",
+        "kimlikNo": 190126
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "UMACIK 1 (Sokak)",
+        "adi": "UMACIK 1",
+        "kimlikNo": 25289935
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL (Sokak)",
+        "adi": "YEŞİL",
+        "kimlikNo": 190128
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "YILANLI (Sokak)",
+        "adi": "YILANLI",
+        "kimlikNo": 1268797
+    },
+    {
+        "mahalleKayitNo": 31605,
+        "turKod": 4,
+        "bilesenAdi": "YILDIRIM GEÇİDİ (Sokak)",
+        "adi": "YILDIRIM GEÇİDİ",
+        "kimlikNo": 190129
+    }
+]

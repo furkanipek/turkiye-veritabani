@@ -1,0 +1,308 @@
+[
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BAŞ MAHALLESİ",
+        "adi": "BAŞ",
+        "kimlikNo": 60510
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "BAYRAMLI MAHALLESİ",
+        "adi": "BAYRAMLI",
+        "kimlikNo": 60511
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "CUMHURİYET MAHALLESİ",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 60512
+    },
+    {
+        "koyAdi": "ÇAKILLI",
+        "koyKayitNo": 25065,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇAKILLI KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 64806
+    },
+    {
+        "koyAdi": "ÇAKILLI",
+        "koyKayitNo": 25065,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇAKILLI KÖYÜ, ERZURUM MEVKİİ",
+        "adi": "ERZURUM",
+        "kimlikNo": 64807
+    },
+    {
+        "koyAdi": "ÇAKILLI",
+        "koyKayitNo": 25065,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇAKILLI KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 64805
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "DEMİRCİ MAHALLESİ",
+        "adi": "DEMİRCİ",
+        "kimlikNo": 60513
+    },
+    {
+        "koyAdi": "DOĞALA",
+        "koyKayitNo": 25066,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞALA KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 64809
+    },
+    {
+        "koyAdi": "DOĞALA",
+        "koyKayitNo": 25066,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞALA KÖYÜ, ÇAKMAK MEVKİİ",
+        "adi": "ÇAKMAK",
+        "kimlikNo": 64808
+    },
+    {
+        "koyAdi": "DOĞALA",
+        "koyKayitNo": 25066,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞALA KÖYÜ, ÇAY MEVKİİ",
+        "adi": "ÇAY",
+        "kimlikNo": 64811
+    },
+    {
+        "koyAdi": "DOĞALA",
+        "koyKayitNo": 25066,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DOĞALA KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 64810
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ESENTEPE MAHALLESİ",
+        "adi": "ESENTEPE",
+        "kimlikNo": 197251
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "FATİH MAHALLESİ",
+        "adi": "FATİH",
+        "kimlikNo": 198193
+    },
+    {
+        "koyAdi": "GÜNEYCE",
+        "koyKayitNo": 25067,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÜNEYCE KÖYÜ",
+        "adi": null,
+        "kimlikNo": 64812
+    },
+    {
+        "koyAdi": "KUYULUTATLAR",
+        "koyKayitNo": 25068,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUYULUTATLAR KÖYÜ, GÖL MEVKİİ",
+        "adi": "GÖL",
+        "kimlikNo": 64814
+    },
+    {
+        "koyAdi": "KUYULUTATLAR",
+        "koyKayitNo": 25068,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUYULUTATLAR KÖYÜ, KALE MEVKİİ",
+        "adi": "KALE",
+        "kimlikNo": 64813
+    },
+    {
+        "koyAdi": "KUYULUTATLAR",
+        "koyKayitNo": 25068,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUYULUTATLAR KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 64816
+    },
+    {
+        "koyAdi": "KUYULUTATLAR",
+        "koyKayitNo": 25068,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUYULUTATLAR KÖYÜ, YENİ MEVKİİ",
+        "adi": "YENİ",
+        "kimlikNo": 64815
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "NAMIK KEMAL MAHALLESİ",
+        "adi": "NAMIK KEMAL",
+        "kimlikNo": 198195
+    },
+    {
+        "koyAdi": "ÖZLÜCE",
+        "koyKayitNo": 25069,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÖZLÜCE KÖYÜ, KAYMAKLI YOLU MEVKİİ",
+        "adi": "KAYMAKLI YOLU",
+        "kimlikNo": 64817
+    },
+    {
+        "koyAdi": "ÖZLÜCE",
+        "koyKayitNo": 25069,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÖZLÜCE KÖYÜ, OKUL MEVKİİ",
+        "adi": "OKUL",
+        "kimlikNo": 64818
+    },
+    {
+        "koyAdi": "ÖZLÜCE",
+        "koyKayitNo": 25069,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÖZLÜCE KÖYÜ, YENİCAMİ MEVKİİ",
+        "adi": "YENİCAMİ",
+        "kimlikNo": 64820
+    },
+    {
+        "koyAdi": "ÖZLÜCE",
+        "koyKayitNo": 25069,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÖZLÜCE KÖYÜ, YENİDOĞAN MEVKİİ",
+        "adi": "YENİDOĞAN",
+        "kimlikNo": 64819
+    },
+    {
+        "koyAdi": "SUVERMEZ",
+        "koyKayitNo": 25070,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SUVERMEZ KÖYÜ, KALE MEVKİİ",
+        "adi": "KALE",
+        "kimlikNo": 60514
+    },
+    {
+        "koyAdi": "SUVERMEZ",
+        "koyKayitNo": 25070,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SUVERMEZ KÖYÜ, YENİ MEVKİİ",
+        "adi": "YENİ",
+        "kimlikNo": 60515
+    },
+    {
+        "koyAdi": "TİL",
+        "koyKayitNo": 25071,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TİL KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 64821
+    },
+    {
+        "koyAdi": "TİL",
+        "koyKayitNo": 25071,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TİL KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 64822
+    },
+    {
+        "koyAdi": "TİL",
+        "koyKayitNo": 25071,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TİL KÖYÜ, UZUNSAY MEVKİİ",
+        "adi": "UZUNSAY",
+        "kimlikNo": 64824
+    },
+    {
+        "koyAdi": "TİL",
+        "koyKayitNo": 25071,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TİL KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 64823
+    },
+    {
+        "koyAdi": "YAZIHÜYÜK",
+        "koyKayitNo": 25072,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAZIHÜYÜK BELDESİ, ALPARSLAN MAHALLESİ",
+        "adi": "ALPARSLAN",
+        "kimlikNo": 201303
+    },
+    {
+        "koyAdi": "YAZIHÜYÜK",
+        "koyKayitNo": 25072,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAZIHÜYÜK BELDESİ, BOZKIR MAHALLESİ",
+        "adi": "BOZKIR",
+        "kimlikNo": 60516
+    },
+    {
+        "koyAdi": "YAZIHÜYÜK",
+        "koyKayitNo": 25072,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAZIHÜYÜK BELDESİ, GÖKTÜRK MAHALLESİ",
+        "adi": "GÖKTÜRK",
+        "kimlikNo": 201301
+    },
+    {
+        "koyAdi": "YAZIHÜYÜK",
+        "koyKayitNo": 25072,
+        "koyKurumBelediyeTur": 4,
+        "mahalleTur": 1,
+        "bilesenAdi": "YAZIHÜYÜK BELDESİ, POLATKAN MAHALLESİ",
+        "adi": "POLATKAN",
+        "kimlikNo": 60517
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 25064,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "YENİ MAHALLESİ",
+        "adi": "YENİ",
+        "kimlikNo": 198191
+    }
+]

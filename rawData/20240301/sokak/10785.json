@@ -1,0 +1,618 @@
+[
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "1 NOLU (Sokak)",
+        "adi": "1 NOLU",
+        "kimlikNo": 847969
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "2 NOLU (Sokak)",
+        "adi": "2 NOLU",
+        "kimlikNo": 850315
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "BİLİNMEYEN19 (Sokak)",
+        "adi": "BİLİNMEYEN19",
+        "kimlikNo": 493963101
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "BİLİNMEYEN38 (Sokak)",
+        "adi": "BİLİNMEYEN38",
+        "kimlikNo": 307525620
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "BİLİNMEYEN50 (Sokak)",
+        "adi": "BİLİNMEYEN50",
+        "kimlikNo": 179686781
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "BUĞATAY (Sokak)",
+        "adi": "BUĞATAY",
+        "kimlikNo": 134191
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CAMİİ KARŞISI (Sokak)",
+        "adi": "CAMİİ KARŞISI",
+        "kimlikNo": 532246
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CAMİİ KARŞISI 1 (Sokak)",
+        "adi": "CAMİİ KARŞISI 1",
+        "kimlikNo": 434264101
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CEZA EVİ (Sokak)",
+        "adi": "CEZA EVİ",
+        "kimlikNo": 533019
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CEZA EVİ 1 (Sokak)",
+        "adi": "CEZA EVİ 1",
+        "kimlikNo": 131052000
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CEZA EVİ 2 (Sokak)",
+        "adi": "CEZA EVİ 2",
+        "kimlikNo": 542292320
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "CEZA EVİ1 (Sokak)",
+        "adi": "CEZA EVİ1",
+        "kimlikNo": 177150871
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇEÇEN DERESİ (Sokak)",
+        "adi": "ÇEÇEN DERESİ",
+        "kimlikNo": 532149
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇEÇEN DERESİ 1 (Sokak)",
+        "adi": "ÇEÇEN DERESİ 1",
+        "kimlikNo": 579649180
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇEÇEN DERESİ 2 (Sokak)",
+        "adi": "ÇEÇEN DERESİ 2",
+        "kimlikNo": 793854071
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇUBUKLU (Sokak)",
+        "adi": "ÇUBUKLU",
+        "kimlikNo": 538984
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇUBUKLU 2. (Sokak)",
+        "adi": "ÇUBUKLU 2.",
+        "kimlikNo": 533916
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇUBUKLU ÇIKMAZ (Sokak)",
+        "adi": "ÇUBUKLU ÇIKMAZ",
+        "kimlikNo": 534757
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇUBUKLU ÇIKMAZ/2 (Sokak)",
+        "adi": "ÇUBUKLU ÇIKMAZ/2",
+        "kimlikNo": 630290031
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ÇUBUKLU1 (Sokak)",
+        "adi": "ÇUBUKLU1",
+        "kimlikNo": 229135941
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEDE MAKSUT (Sokak)",
+        "adi": "DEDE MAKSUT",
+        "kimlikNo": 401940
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEDE MAKSUT 1 (Sokak)",
+        "adi": "DEDE MAKSUT 1",
+        "kimlikNo": 791330211
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 2,
+        "bilesenAdi": "DEVLET BAHÇELİ (Bulvar)",
+        "adi": "DEVLET BAHÇELİ",
+        "kimlikNo": 576249
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEVLET BAHÇELİ 10 (Sokak)",
+        "adi": "DEVLET BAHÇELİ 10",
+        "kimlikNo": 939415651
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEVLET BAHÇELİ 7 (Sokak)",
+        "adi": "DEVLET BAHÇELİ 7",
+        "kimlikNo": 944861071
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEVLET BAHÇELİ 9 (Sokak)",
+        "adi": "DEVLET BAHÇELİ 9",
+        "kimlikNo": 607568711
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "DEVLET BAHÇELİ/11 (Sokak)",
+        "adi": "DEVLET BAHÇELİ/11",
+        "kimlikNo": 550399110
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İKİ KUBBE İYİLER (Sokak)",
+        "adi": "İKİ KUBBE İYİLER",
+        "kimlikNo": 537744
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İYİLER  2 (Sokak)",
+        "adi": "İYİLER  2",
+        "kimlikNo": 532157
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İYİLER 1 NOLU ÇIKMAZ (Sokak)",
+        "adi": "İYİLER 1 NOLU ÇIKMAZ",
+        "kimlikNo": 533028
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İYİLER B1.1 (Sokak)",
+        "adi": "İYİLER B1.1",
+        "kimlikNo": 370943981
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İYİLER B2 (Sokak)",
+        "adi": "İYİLER B2",
+        "kimlikNo": 632813310
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "İYİLER1 (Sokak)",
+        "adi": "İYİLER1",
+        "kimlikNo": 472017690
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "KALE 1. (Cadde)",
+        "adi": "KALE 1.",
+        "kimlikNo": 533917
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "KALE İYİLER B1 (Sokak)",
+        "adi": "KALE İYİLER B1",
+        "kimlikNo": 441551170
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "KULAKSIZ 1 NOLU SK (Sokak)",
+        "adi": "KULAKSIZ 1 NOLU SK",
+        "kimlikNo": 274507901
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "KULAKSIZ YENİ YOL (Sokak)",
+        "adi": "KULAKSIZ YENİ YOL",
+        "kimlikNo": 129849280
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "KULAKSIZ YENİ YOL 1 (Sokak)",
+        "adi": "KULAKSIZ YENİ YOL 1",
+        "kimlikNo": 295476761
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİD SAHİL.12 (Sokak)",
+        "adi": "MESCİD SAHİL.12",
+        "kimlikNo": 501465470
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT DÜZÜ/2 (Sokak)",
+        "adi": "MESCİT DÜZÜ/2",
+        "kimlikNo": 598607671
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT DÜZÜ/3 (Sokak)",
+        "adi": "MESCİT DÜZÜ/3",
+        "kimlikNo": 883570741
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "MESCİT SAHİL (Cadde)",
+        "adi": "MESCİT SAHİL",
+        "kimlikNo": 912159
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.1 (Sokak)",
+        "adi": "MESCİT SAHİL.1",
+        "kimlikNo": 684387121
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.10 (Sokak)",
+        "adi": "MESCİT SAHİL.10",
+        "kimlikNo": 858924610
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.11 (Sokak)",
+        "adi": "MESCİT SAHİL.11",
+        "kimlikNo": 717792270
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.2 (Sokak)",
+        "adi": "MESCİT SAHİL.2",
+        "kimlikNo": 815747250
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.3 (Sokak)",
+        "adi": "MESCİT SAHİL.3",
+        "kimlikNo": 603145980
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.4 (Sokak)",
+        "adi": "MESCİT SAHİL.4",
+        "kimlikNo": 650766301
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.5 (Sokak)",
+        "adi": "MESCİT SAHİL.5",
+        "kimlikNo": 103908470
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.6 (Sokak)",
+        "adi": "MESCİT SAHİL.6",
+        "kimlikNo": 151173850
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.7 (Sokak)",
+        "adi": "MESCİT SAHİL.7",
+        "kimlikNo": 499686210
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.8 (Sokak)",
+        "adi": "MESCİT SAHİL.8",
+        "kimlikNo": 750585371
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MESCİT SAHİL.9 (Sokak)",
+        "adi": "MESCİT SAHİL.9",
+        "kimlikNo": 687789351
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "MEYDANLIK (Cadde)",
+        "adi": "MEYDANLIK",
+        "kimlikNo": 532152
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK 1 NOLU (Sokak)",
+        "adi": "MEYDANLIK 1 NOLU",
+        "kimlikNo": 765210611
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK 1 NOLU ÇIKMAZ (Sokak)",
+        "adi": "MEYDANLIK 1 NOLU ÇIKMAZ",
+        "kimlikNo": 534469
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK 2 NOLU (Sokak)",
+        "adi": "MEYDANLIK 2 NOLU",
+        "kimlikNo": 331374310
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK 2 NOLU ÇIKMAZ (Sokak)",
+        "adi": "MEYDANLIK 2 NOLU ÇIKMAZ",
+        "kimlikNo": 534470
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK A1 (Sokak)",
+        "adi": "MEYDANLIK A1",
+        "kimlikNo": 538979
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "MEYDANLIK B1 (Sokak)",
+        "adi": "MEYDANLIK B1",
+        "kimlikNo": 417617501
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ORTA (Sokak)",
+        "adi": "ORTA",
+        "kimlikNo": 134194
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ORTA 1 (Sokak)",
+        "adi": "ORTA 1",
+        "kimlikNo": 594509731
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "ORTA 2 (Sokak)",
+        "adi": "ORTA 2",
+        "kimlikNo": 358516090
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "OVAKIŞLA (Cadde)",
+        "adi": "OVAKIŞLA",
+        "kimlikNo": 573769
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "SADULLAH GENCER (Cadde)",
+        "adi": "SADULLAH GENCER",
+        "kimlikNo": 533915
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 1 (Sokak)",
+        "adi": "SADULLAH GENCER 1",
+        "kimlikNo": 410154390
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 2 (Sokak)",
+        "adi": "SADULLAH GENCER 2",
+        "kimlikNo": 374596091
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 4 (Sokak)",
+        "adi": "SADULLAH GENCER 4",
+        "kimlikNo": 116696451
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 5 (Sokak)",
+        "adi": "SADULLAH GENCER 5",
+        "kimlikNo": 262823501
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 6 (Sokak)",
+        "adi": "SADULLAH GENCER 6",
+        "kimlikNo": 200488151
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 7 (Sokak)",
+        "adi": "SADULLAH GENCER 7",
+        "kimlikNo": 685520660
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SADULLAH GENCER 8 (Sokak)",
+        "adi": "SADULLAH GENCER 8",
+        "kimlikNo": 161218160
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SAĞLIK OCAĞI B1 (Sokak)",
+        "adi": "SAĞLIK OCAĞI B1",
+        "kimlikNo": 321946561
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SAĞLIK OCAĞI B1 1 (Sokak)",
+        "adi": "SAĞLIK OCAĞI B1 1",
+        "kimlikNo": 367315600
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SELÇUKLU (Sokak)",
+        "adi": "SELÇUKLU",
+        "kimlikNo": 160777111
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "SULTAN SEYİT.1 (Sokak)",
+        "adi": "SULTAN SEYİT.1",
+        "kimlikNo": 610304410
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT MURAT SARIGÜL (Cadde)",
+        "adi": "ŞEHİT MURAT SARIGÜL",
+        "kimlikNo": 542605
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "USTA ŞAGİRT KÜMBET (Cadde)",
+        "adi": "USTA ŞAGİRT KÜMBET",
+        "kimlikNo": 534466
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "USTA ŞAGİRT KÜMBET 1 (Sokak)",
+        "adi": "USTA ŞAGİRT KÜMBET 1",
+        "kimlikNo": 590274331
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "USTA ŞAGİRT KÜMBET 2 (Sokak)",
+        "adi": "USTA ŞAGİRT KÜMBET 2",
+        "kimlikNo": 295845130
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "USTA ŞAGİRT KÜMBET 3 (Sokak)",
+        "adi": "USTA ŞAGİRT KÜMBET 3",
+        "kimlikNo": 529136471
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "VAKIFBANK İLKÖĞRETİM OKUL (Cadde)",
+        "adi": "VAKIFBANK İLKÖĞRETİM OKUL",
+        "kimlikNo": 533459
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "VAKIFBANK İLKÖĞRETİM OKUL 6 (Sokak)",
+        "adi": "VAKIFBANK İLKÖĞRETİM OKUL 6",
+        "kimlikNo": 946707830
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 3,
+        "bilesenAdi": "YEŞİL KÜMBET (Cadde)",
+        "adi": "YEŞİL KÜMBET",
+        "kimlikNo": 541106
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL KÜMBET 3 NOLU (Sokak)",
+        "adi": "YEŞİL KÜMBET 3 NOLU",
+        "kimlikNo": 536518
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL KÜMBET 4 NOLU (Sokak)",
+        "adi": "YEŞİL KÜMBET 4 NOLU",
+        "kimlikNo": 538746
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "YEŞİL KÜMBET ÇIKMAZ (Sokak)",
+        "adi": "YEŞİL KÜMBET ÇIKMAZ",
+        "kimlikNo": 541871
+    },
+    {
+        "mahalleKayitNo": 10785,
+        "turKod": 4,
+        "bilesenAdi": "YILDIZ BAKKALİYESİ KARŞISI (Sokak)",
+        "adi": "YILDIZ BAKKALİYESİ KARŞISI",
+        "kimlikNo": 576252
+    }
+]

@@ -1,0 +1,919 @@
+[
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKDOĞAN (Sokak)",
+        "adi": "AKDOĞAN",
+        "kimlikNo": 923800
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "AKSARAY (Cadde)",
+        "adi": "AKSARAY",
+        "kimlikNo": 369828
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/1 (Sokak)",
+        "adi": "AKSARAY/1",
+        "kimlikNo": 659534400
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/10 (Sokak)",
+        "adi": "AKSARAY/10",
+        "kimlikNo": 485269170
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/11 (Sokak)",
+        "adi": "AKSARAY/11",
+        "kimlikNo": 187669980
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/12 (Sokak)",
+        "adi": "AKSARAY/12",
+        "kimlikNo": 910070050
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/2 (Sokak)",
+        "adi": "AKSARAY/2",
+        "kimlikNo": 383014610
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/3 (Sokak)",
+        "adi": "AKSARAY/3",
+        "kimlikNo": 473967750
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/4 (Sokak)",
+        "adi": "AKSARAY/4",
+        "kimlikNo": 685727000
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/5 (Sokak)",
+        "adi": "AKSARAY/5",
+        "kimlikNo": 359686840
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "AKSARAY/6 (Cadde)",
+        "adi": "AKSARAY/6",
+        "kimlikNo": 223508470
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "AKSARAY/7 (Cadde)",
+        "adi": "AKSARAY/7",
+        "kimlikNo": 661343700
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "AKSARAY/8 (Sokak)",
+        "adi": "AKSARAY/8",
+        "kimlikNo": 512151920
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "AKSARAY/9 (Cadde)",
+        "adi": "AKSARAY/9",
+        "kimlikNo": 568792320
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "BİLİNMEYEN (Sokak)",
+        "adi": "BİLİNMEYEN",
+        "kimlikNo": 942732400
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "CULLAZ (Sokak)",
+        "adi": "CULLAZ",
+        "kimlikNo": 923846
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "CUMHURİYET (Sokak)",
+        "adi": "CUMHURİYET",
+        "kimlikNo": 494999
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇAYIR (Sokak)",
+        "adi": "ÇAYIR",
+        "kimlikNo": 363533571
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK (Sokak)",
+        "adi": "ÇELİK",
+        "kimlikNo": 33576
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK/1 (Sokak)",
+        "adi": "ÇELİK/1",
+        "kimlikNo": 302150730
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK/2 (Sokak)",
+        "adi": "ÇELİK/2",
+        "kimlikNo": 263183370
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK/3 (Sokak)",
+        "adi": "ÇELİK/3",
+        "kimlikNo": 809635980
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇELİK/4 (Sokak)",
+        "adi": "ÇELİK/4",
+        "kimlikNo": 754097630
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÇINAR (Sokak)",
+        "adi": "ÇINAR",
+        "kimlikNo": 33577
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI (Sokak)",
+        "adi": "DIVARLI",
+        "kimlikNo": 704921940
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI 22 (Sokak)",
+        "adi": "DIVARLI 22",
+        "kimlikNo": 105922440
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/10 (Sokak)",
+        "adi": "DIVARLI/10",
+        "kimlikNo": 758506510
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/2 (Sokak)",
+        "adi": "DIVARLI/2",
+        "kimlikNo": 759061980
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/23 (Sokak)",
+        "adi": "DIVARLI/23",
+        "kimlikNo": 893644590
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/4 (Sokak)",
+        "adi": "DIVARLI/4",
+        "kimlikNo": 174510630
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/5 (Sokak)",
+        "adi": "DIVARLI/5",
+        "kimlikNo": 238762610
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/6 (Sokak)",
+        "adi": "DIVARLI/6",
+        "kimlikNo": 422321730
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/7 (Sokak)",
+        "adi": "DIVARLI/7",
+        "kimlikNo": 610159390
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/8 (Sokak)",
+        "adi": "DIVARLI/8",
+        "kimlikNo": 233878300
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DIVARLI/9 (Sokak)",
+        "adi": "DIVARLI/9",
+        "kimlikNo": 245465090
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "DİVARLI/2 (Sokak)",
+        "adi": "DİVARLI/2",
+        "kimlikNo": 347515291
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ERDOĞAN (Sokak)",
+        "adi": "ERDOĞAN",
+        "kimlikNo": 923845
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "FEVZİ ÇAKMAK (Sokak)",
+        "adi": "FEVZİ ÇAKMAK",
+        "kimlikNo": 923793
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖBEN (Sokak)",
+        "adi": "GÖBEN",
+        "kimlikNo": 32280
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖBEN/1 (Sokak)",
+        "adi": "GÖBEN/1",
+        "kimlikNo": 398909420
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖBEN/2 (Sokak)",
+        "adi": "GÖBEN/2",
+        "kimlikNo": 804964820
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ (Sokak)",
+        "adi": "GÖKTAŞ",
+        "kimlikNo": 32281
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 1. (Sokak)",
+        "adi": "GÖKTAŞ 1.",
+        "kimlikNo": 923794
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 10. (Sokak)",
+        "adi": "GÖKTAŞ 10.",
+        "kimlikNo": 923804
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 11. (Sokak)",
+        "adi": "GÖKTAŞ 11.",
+        "kimlikNo": 923805
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 12. (Sokak)",
+        "adi": "GÖKTAŞ 12.",
+        "kimlikNo": 923806
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 13. (Sokak)",
+        "adi": "GÖKTAŞ 13.",
+        "kimlikNo": 923809
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 14. (Sokak)",
+        "adi": "GÖKTAŞ 14.",
+        "kimlikNo": 923810
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 15. (Sokak)",
+        "adi": "GÖKTAŞ 15.",
+        "kimlikNo": 923811
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 16. (Sokak)",
+        "adi": "GÖKTAŞ 16.",
+        "kimlikNo": 923812
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 17. (Sokak)",
+        "adi": "GÖKTAŞ 17.",
+        "kimlikNo": 923835
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 18. (Sokak)",
+        "adi": "GÖKTAŞ 18.",
+        "kimlikNo": 923836
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 19. (Sokak)",
+        "adi": "GÖKTAŞ 19.",
+        "kimlikNo": 923838
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 2. (Sokak)",
+        "adi": "GÖKTAŞ 2.",
+        "kimlikNo": 923795
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 20. (Sokak)",
+        "adi": "GÖKTAŞ 20.",
+        "kimlikNo": 923839
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 21. (Sokak)",
+        "adi": "GÖKTAŞ 21.",
+        "kimlikNo": 923840
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 22. (Sokak)",
+        "adi": "GÖKTAŞ 22.",
+        "kimlikNo": 923841
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 23. (Sokak)",
+        "adi": "GÖKTAŞ 23.",
+        "kimlikNo": 923842
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 24. (Sokak)",
+        "adi": "GÖKTAŞ 24.",
+        "kimlikNo": 923843
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 25. (Sokak)",
+        "adi": "GÖKTAŞ 25.",
+        "kimlikNo": 923844
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 26. (Sokak)",
+        "adi": "GÖKTAŞ 26.",
+        "kimlikNo": 923847
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 27. (Sokak)",
+        "adi": "GÖKTAŞ 27.",
+        "kimlikNo": 923848
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 28. (Sokak)",
+        "adi": "GÖKTAŞ 28.",
+        "kimlikNo": 923849
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 29. (Sokak)",
+        "adi": "GÖKTAŞ 29.",
+        "kimlikNo": 923850
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 3. (Sokak)",
+        "adi": "GÖKTAŞ 3.",
+        "kimlikNo": 923796
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 30. (Sokak)",
+        "adi": "GÖKTAŞ 30.",
+        "kimlikNo": 923851
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 31. (Sokak)",
+        "adi": "GÖKTAŞ 31.",
+        "kimlikNo": 923852
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 32. (Sokak)",
+        "adi": "GÖKTAŞ 32.",
+        "kimlikNo": 923853
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 33. (Sokak)",
+        "adi": "GÖKTAŞ 33.",
+        "kimlikNo": 923855
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 4. (Sokak)",
+        "adi": "GÖKTAŞ 4.",
+        "kimlikNo": 923797
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 5. (Sokak)",
+        "adi": "GÖKTAŞ 5.",
+        "kimlikNo": 923798
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 6. (Sokak)",
+        "adi": "GÖKTAŞ 6.",
+        "kimlikNo": 923799
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 7. (Sokak)",
+        "adi": "GÖKTAŞ 7.",
+        "kimlikNo": 923801
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 8. (Sokak)",
+        "adi": "GÖKTAŞ 8.",
+        "kimlikNo": 923802
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ 9. (Sokak)",
+        "adi": "GÖKTAŞ 9.",
+        "kimlikNo": 923803
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/1 (Sokak)",
+        "adi": "GÖKTAŞ/1",
+        "kimlikNo": 392493880
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/2 (Sokak)",
+        "adi": "GÖKTAŞ/2",
+        "kimlikNo": 398406570
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/3 (Sokak)",
+        "adi": "GÖKTAŞ/3",
+        "kimlikNo": 333871680
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/34 (Sokak)",
+        "adi": "GÖKTAŞ/34",
+        "kimlikNo": 282953430
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/4 (Sokak)",
+        "adi": "GÖKTAŞ/4",
+        "kimlikNo": 128369380
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/5 (Sokak)",
+        "adi": "GÖKTAŞ/5",
+        "kimlikNo": 371135110
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÖKTAŞ/6 (Sokak)",
+        "adi": "GÖKTAŞ/6",
+        "kimlikNo": 133941760
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "GÜL (Sokak)",
+        "adi": "GÜL",
+        "kimlikNo": 923837
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "KAVAKLIOĞLU (Sokak)",
+        "adi": "KAVAKLIOĞLU",
+        "kimlikNo": 923737
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AKİF (Sokak)",
+        "adi": "MEHMET AKİF",
+        "kimlikNo": 923807
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "MERKEZ (Cadde)",
+        "adi": "MERKEZ",
+        "kimlikNo": 32282
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "MUSTAFA KEMAL (Sokak)",
+        "adi": "MUSTAFA KEMAL",
+        "kimlikNo": 923808
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "OKUL (Cadde)",
+        "adi": "OKUL",
+        "kimlikNo": 369829
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "OKUL/1 (Cadde)",
+        "adi": "OKUL/1",
+        "kimlikNo": 589161980
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 3,
+        "bilesenAdi": "OVALIBAĞ (Cadde)",
+        "adi": "OVALIBAĞ",
+        "kimlikNo": 369830
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "OVALIBAĞ/1 (Sokak)",
+        "adi": "OVALIBAĞ/1",
+        "kimlikNo": 299435290
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÖREN 1 NOLU (Sokak)",
+        "adi": "ÖREN 1 NOLU",
+        "kimlikNo": 32283
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÖREN 2.NOLU (Sokak)",
+        "adi": "ÖREN 2.NOLU",
+        "kimlikNo": 32284
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ÖREN 2.NOLU/1 (Sokak)",
+        "adi": "ÖREN 2.NOLU/1",
+        "kimlikNo": 495559720
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SELVİ (Sokak)",
+        "adi": "SELVİ",
+        "kimlikNo": 923854
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU (Sokak)",
+        "adi": "SU DEPOSU",
+        "kimlikNo": 503611
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/1 (Sokak)",
+        "adi": "SU DEPOSU/1",
+        "kimlikNo": 241091340
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/2 (Sokak)",
+        "adi": "SU DEPOSU/2",
+        "kimlikNo": 167848030
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/3 (Sokak)",
+        "adi": "SU DEPOSU/3",
+        "kimlikNo": 651490800
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/4 (Sokak)",
+        "adi": "SU DEPOSU/4",
+        "kimlikNo": 396332010
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/5 (Sokak)",
+        "adi": "SU DEPOSU/5",
+        "kimlikNo": 282995010
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "SU DEPOSU/6 (Sokak)",
+        "adi": "SU DEPOSU/6",
+        "kimlikNo": 588811940
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ŞEYHLER (Sokak)",
+        "adi": "ŞEYHLER",
+        "kimlikNo": 369832
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ŞEYHLER/1 (Sokak)",
+        "adi": "ŞEYHLER/1",
+        "kimlikNo": 749121890
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ŞEYHLER/2 (Sokak)",
+        "adi": "ŞEYHLER/2",
+        "kimlikNo": 184244400
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "ŞEYHLER/3 (Sokak)",
+        "adi": "ŞEYHLER/3",
+        "kimlikNo": 492002720
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA (Sokak)",
+        "adi": "TUZLA",
+        "kimlikNo": 32285
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/1 (Sokak)",
+        "adi": "TUZLA/1",
+        "kimlikNo": 794622550
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/10 (Sokak)",
+        "adi": "TUZLA/10",
+        "kimlikNo": 608462840
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/11 (Sokak)",
+        "adi": "TUZLA/11",
+        "kimlikNo": 642420010
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/12 (Sokak)",
+        "adi": "TUZLA/12",
+        "kimlikNo": 840868910
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/13 (Sokak)",
+        "adi": "TUZLA/13",
+        "kimlikNo": 775939520
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/14 (Sokak)",
+        "adi": "TUZLA/14",
+        "kimlikNo": 753521530
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/15 (Sokak)",
+        "adi": "TUZLA/15",
+        "kimlikNo": 274477390
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/16 (Sokak)",
+        "adi": "TUZLA/16",
+        "kimlikNo": 803598880
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/17 (Sokak)",
+        "adi": "TUZLA/17",
+        "kimlikNo": 303752650
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/2 (Sokak)",
+        "adi": "TUZLA/2",
+        "kimlikNo": 869519770
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/3 (Sokak)",
+        "adi": "TUZLA/3",
+        "kimlikNo": 286563120
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/4 (Sokak)",
+        "adi": "TUZLA/4",
+        "kimlikNo": 796612370
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/5 (Sokak)",
+        "adi": "TUZLA/5",
+        "kimlikNo": 321997210
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/6 (Sokak)",
+        "adi": "TUZLA/6",
+        "kimlikNo": 488216310
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/7 (Sokak)",
+        "adi": "TUZLA/7",
+        "kimlikNo": 249991120
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/8 (Sokak)",
+        "adi": "TUZLA/8",
+        "kimlikNo": 782715330
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "TUZLA/9 (Sokak)",
+        "adi": "TUZLA/9",
+        "kimlikNo": 738509840
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 1. (Sokak)",
+        "adi": "YAYLA YOLU 1.",
+        "kimlikNo": 32286
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 1./1 (Sokak)",
+        "adi": "YAYLA YOLU 1./1",
+        "kimlikNo": 388860990
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 1./2 (Sokak)",
+        "adi": "YAYLA YOLU 1./2",
+        "kimlikNo": 101434100
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 1./3 (Sokak)",
+        "adi": "YAYLA YOLU 1./3",
+        "kimlikNo": 919158350
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 2. (Sokak)",
+        "adi": "YAYLA YOLU 2.",
+        "kimlikNo": 33575
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YAYLA YOLU 2._1 (Sokak)",
+        "adi": "YAYLA YOLU 2._1",
+        "kimlikNo": 727555070
+    },
+    {
+        "mahalleKayitNo": 60790,
+        "turKod": 4,
+        "bilesenAdi": "YENİ YOL (Sokak)",
+        "adi": "YENİ YOL",
+        "kimlikNo": 669010590
+    }
+]

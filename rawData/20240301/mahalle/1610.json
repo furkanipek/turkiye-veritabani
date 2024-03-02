@@ -1,0 +1,875 @@
+[
+    {
+        "koyAdi": "ALPAGUT",
+        "koyKayitNo": 7033,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "ALPAGUT KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19171
+    },
+    {
+        "koyAdi": "ALPAGUT",
+        "koyKayitNo": 7033,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "ALPAGUT KÖYÜ, KOÇCEVAZ YAYLASI YAYLA EVLERİ",
+        "adi": "KOÇCEVAZ YAYLASI",
+        "kimlikNo": 19169
+    },
+    {
+        "koyAdi": "ALPAGUT",
+        "koyKayitNo": 7033,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "ALPAGUT KÖYÜ, YUKARI YAYLA YAYLA EVLERİ",
+        "adi": "YUKARI YAYLA",
+        "kimlikNo": 19170
+    },
+    {
+        "koyAdi": "BAKIRLI",
+        "koyKayitNo": 7034,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "BAKIRLI KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19174
+    },
+    {
+        "koyAdi": "BAKIRLI",
+        "koyKayitNo": 7034,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "BAKIRLI KÖYÜ, DİKENLİ YAYLA YAYLA EVLERİ",
+        "adi": "DİKENLİ YAYLA",
+        "kimlikNo": 19175
+    },
+    {
+        "koyAdi": "BAKIRLI",
+        "koyKayitNo": 7034,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "BAKIRLI KÖYÜ, ORTA YAYLA YAYLA EVLERİ",
+        "adi": "ORTA YAYLA",
+        "kimlikNo": 19173
+    },
+    {
+        "koyAdi": "BOZYER",
+        "koyKayitNo": 7035,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "BOZYER KÖYÜ, ÇATAK YAYLA EVLERİ",
+        "adi": "ÇATAK",
+        "kimlikNo": 19178
+    },
+    {
+        "koyAdi": "BOZYER",
+        "koyKayitNo": 7035,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "BOZYER KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19176
+    },
+    {
+        "koyAdi": "BOZYER",
+        "koyKayitNo": 7035,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "BOZYER KÖYÜ, YUKARI YAYLA EVLERİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19177
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 7032,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "ÇARŞI MAHALLESİ",
+        "adi": "ÇARŞI",
+        "kimlikNo": 10937
+    },
+    {
+        "koyAdi": "ÇELTİKDERE",
+        "koyKayitNo": 7036,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇELTİKDERE KÖYÜ, KINIKÇI MEVKİİ",
+        "adi": "KINIKÇI",
+        "kimlikNo": 19179
+    },
+    {
+        "koyAdi": "ÇELTİKDERE",
+        "koyKayitNo": 7036,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "ÇELTİKDERE KÖYÜ, KINIKÇI YAYLA YAYLA EVLERİ",
+        "adi": "KINIKÇI YAYLA",
+        "kimlikNo": 19181
+    },
+    {
+        "koyAdi": "ÇELTİKDERE",
+        "koyKayitNo": 7036,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "ÇELTİKDERE KÖYÜ, TEPECİK MEVKİİ",
+        "adi": "TEPECİK",
+        "kimlikNo": 19180
+    },
+    {
+        "koyAdi": "ÇELTİKDERE",
+        "koyKayitNo": 7036,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "ÇELTİKDERE KÖYÜ, TEPECİK YAYLA YAYLA EVLERİ",
+        "adi": "TEPECİK YAYLA",
+        "kimlikNo": 19182
+    },
+    {
+        "koyAdi": "DEDELER",
+        "koyKayitNo": 7037,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEDELER KÖYÜ, GÜNEŞLER MEVKİİ",
+        "adi": "GÜNEŞLER",
+        "kimlikNo": 19184
+    },
+    {
+        "koyAdi": "DEDELER",
+        "koyKayitNo": 7037,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEDELER KÖYÜ, ŞIHLAR MEVKİİ",
+        "adi": "ŞIHLAR",
+        "kimlikNo": 19183
+    },
+    {
+        "koyAdi": "DEĞİRMENKAYA",
+        "koyKayitNo": 7038,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEĞİRMENKAYA KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 19187
+    },
+    {
+        "koyAdi": "DEĞİRMENKAYA",
+        "koyKayitNo": 7038,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEĞİRMENKAYA KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 19188
+    },
+    {
+        "koyAdi": "DEĞİRMENKAYA",
+        "koyKayitNo": 7038,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEĞİRMENKAYA KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19189
+    },
+    {
+        "koyAdi": "DEREBOY",
+        "koyKayitNo": 7039,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREBOY KÖYÜ, ÇİRKİNLER MEVKİİ",
+        "adi": "ÇİRKİNLER",
+        "kimlikNo": 19193
+    },
+    {
+        "koyAdi": "DEREBOY",
+        "koyKayitNo": 7039,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "DEREBOY KÖYÜ, ÇİRKİNLER YAYLA YAYLA EVLERİ",
+        "adi": "ÇİRKİNLER YAYLA",
+        "kimlikNo": 19195
+    },
+    {
+        "koyAdi": "DEREBOY",
+        "koyKayitNo": 7039,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREBOY KÖYÜ, GÜNEY MEVKİİ",
+        "adi": "GÜNEY",
+        "kimlikNo": 19192
+    },
+    {
+        "koyAdi": "DEREBOY",
+        "koyKayitNo": 7039,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "DEREBOY KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19191
+    },
+    {
+        "koyAdi": "EKİCİLER",
+        "koyKayitNo": 7040,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "EKİCİLER KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19197
+    },
+    {
+        "koyAdi": "EKİCİLER",
+        "koyKayitNo": 7040,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "EKİCİLER KÖYÜ, YAYLA YAYLA EVLERİ",
+        "adi": "YAYLA",
+        "kimlikNo": 19196
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, DİKMEN YAYLA EVLERİ",
+        "adi": "DİKMEN",
+        "kimlikNo": 19201
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, KARABUNAR YAYLA EVLERİ",
+        "adi": "KARABUNAR",
+        "kimlikNo": 19203
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 19198
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, ŞAHMANLAR MEVKİİ",
+        "adi": "ŞAHMANLAR",
+        "kimlikNo": 19200
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, YUKARI KUCAK YAYLA EVLERİ",
+        "adi": "YUKARI KUCAK",
+        "kimlikNo": 19204
+    },
+    {
+        "koyAdi": "GERENÖZÜ",
+        "koyKayitNo": 7041,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "GERENÖZÜ KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19199
+    },
+    {
+        "koyAdi": "GÖKHALİLLER",
+        "koyKayitNo": 7042,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÖKHALİLLER KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19205
+    },
+    {
+        "koyAdi": "GÖKHALİLLER",
+        "koyKayitNo": 7042,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "GÖKHALİLLER KÖYÜ, KALINCAK YAYLA YAYLA EVLERİ",
+        "adi": "KALINCAK YAYLA",
+        "kimlikNo": 19208
+    },
+    {
+        "koyAdi": "GÖKHALİLLER",
+        "koyKayitNo": 7042,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "GÖKHALİLLER KÖYÜ, KANDUZLA YAYLA YAYLA EVLERİ",
+        "adi": "KANDUZLA YAYLA",
+        "kimlikNo": 19207
+    },
+    {
+        "koyAdi": "GÜNEYCE",
+        "koyKayitNo": 7043,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "GÜNEYCE KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19210
+    },
+    {
+        "koyAdi": "HACCAĞIZ",
+        "koyKayitNo": 7044,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "HACCAĞIZ KÖYÜ, BEYLİK MEVKİİ",
+        "adi": "BEYLİK",
+        "kimlikNo": 19211
+    },
+    {
+        "koyAdi": "HACCAĞIZ",
+        "koyKayitNo": 7044,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "HACCAĞIZ KÖYÜ, HACCAĞIZ  YAYLA MEVKİİ",
+        "adi": "HACCAĞIZ  YAYLA",
+        "kimlikNo": 19213
+    },
+    {
+        "koyAdi": "HACCAĞIZ",
+        "koyKayitNo": 7044,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "HACCAĞIZ KÖYÜ, HACCAĞIZ MEVKİİ",
+        "adi": "HACCAĞIZ",
+        "kimlikNo": 19212
+    },
+    {
+        "koyAdi": "HACCAĞIZ",
+        "koyKayitNo": 7044,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "HACCAĞIZ KÖYÜ, HAYDAR YAYLA YAYLA EVLERİ",
+        "adi": "HAYDAR YAYLA",
+        "kimlikNo": 19214
+    },
+    {
+        "koyAdi": "HOÇAŞ",
+        "koyKayitNo": 7045,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "HOÇAŞ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19216
+    },
+    {
+        "koyAdi": "KABAK",
+        "koyKayitNo": 7046,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KABAK KÖYÜ, GÖLCÜK MEVKİİ",
+        "adi": "GÖLCÜK",
+        "kimlikNo": 19219
+    },
+    {
+        "koyAdi": "KABAK",
+        "koyKayitNo": 7046,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KABAK KÖYÜ, KABAK YAYLA YAYLA EVLERİ",
+        "adi": "KABAK YAYLA",
+        "kimlikNo": 19220
+    },
+    {
+        "koyAdi": "KABAK",
+        "koyKayitNo": 7046,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KABAK KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 19217
+    },
+    {
+        "koyAdi": "KABAK",
+        "koyKayitNo": 7046,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KABAK KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19218
+    },
+    {
+        "koyAdi": "KARAAĞAÇ",
+        "koyKayitNo": 7047,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KARAAĞAÇ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19221
+    },
+    {
+        "koyAdi": "KAŞBIYIKLAR",
+        "koyKayitNo": 7048,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAŞBIYIKLAR KÖYÜ, BIYIKLAR MEVKİİ",
+        "adi": "BIYIKLAR",
+        "kimlikNo": 19222
+    },
+    {
+        "koyAdi": "KAŞBIYIKLAR",
+        "koyKayitNo": 7048,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAŞBIYIKLAR KÖYÜ, KAŞ  MEVKİİ",
+        "adi": "KAŞ ",
+        "kimlikNo": 19225
+    },
+    {
+        "koyAdi": "KAŞBIYIKLAR",
+        "koyKayitNo": 7048,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAŞBIYIKLAR KÖYÜ, MUSLAR MEVKİİ",
+        "adi": "MUSLAR",
+        "kimlikNo": 19223
+    },
+    {
+        "koyAdi": "KAŞBIYIKLAR",
+        "koyKayitNo": 7048,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KAŞBIYIKLAR KÖYÜ, YENİ MEVKİİ",
+        "adi": "YENİ",
+        "kimlikNo": 19224
+    },
+    {
+        "koyAdi": "KESENÖZÜ",
+        "koyKayitNo": 7049,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "KESENÖZÜ KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19228
+    },
+    {
+        "koyAdi": "MERKEZ",
+        "koyKayitNo": 7032,
+        "koyKurumBelediyeTur": 3,
+        "mahalleTur": 1,
+        "bilesenAdi": "KESKİNLİ MAHALLESİ",
+        "adi": "KESKİNLİ",
+        "kimlikNo": 10938
+    },
+    {
+        "koyAdi": "KIZIK",
+        "koyKayitNo": 7050,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KIZIK KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 19230
+    },
+    {
+        "koyAdi": "KIZIK",
+        "koyKayitNo": 7050,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KIZIK KÖYÜ, GÜNEY MEVKİİ",
+        "adi": "GÜNEY",
+        "kimlikNo": 19231
+    },
+    {
+        "koyAdi": "KIZIK",
+        "koyKayitNo": 7050,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KIZIK KÖYÜ, KIZIK YAYLA YAYLA EVLERİ",
+        "adi": "KIZIK YAYLA",
+        "kimlikNo": 19232
+    },
+    {
+        "koyAdi": "KIZIK",
+        "koyKayitNo": 7050,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KIZIK KÖYÜ, KÖYÜN KENDİSİ MEVKİİ",
+        "adi": "KÖYÜN KENDİSİ",
+        "kimlikNo": 139518
+    },
+    {
+        "koyAdi": "KIZIK",
+        "koyKayitNo": 7050,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KIZIK KÖYÜ, KUZ MEVKİİ",
+        "adi": "KUZ",
+        "kimlikNo": 19229
+    },
+    {
+        "koyAdi": "KORUCUK",
+        "koyKayitNo": 7051,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KORUCUK KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 19233
+    },
+    {
+        "koyAdi": "KORUCUK",
+        "koyKayitNo": 7051,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KORUCUK KÖYÜ, KORUCUK YAYLA YAYLA EVLERİ",
+        "adi": "KORUCUK YAYLA",
+        "kimlikNo": 19236
+    },
+    {
+        "koyAdi": "KORUCUK",
+        "koyKayitNo": 7051,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KORUCUK KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 19234
+    },
+    {
+        "koyAdi": "KORUCUK",
+        "koyKayitNo": 7051,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KORUCUK KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19235
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KOZYAKA KÖYÜ, AVUDAN DEMİRCİLER YAYLA YAYLA EVLERİ",
+        "adi": "AVUDAN DEMİRCİLER YAYLA",
+        "kimlikNo": 19244
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KOZYAKA KÖYÜ, ÇAVUŞLAR MEVKİİ",
+        "adi": "ÇAVUŞLAR",
+        "kimlikNo": 19237
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KOZYAKA KÖYÜ, ÇAVUŞLAR YAYLA YAYLA EVLERİ",
+        "adi": "ÇAVUŞLAR YAYLA",
+        "kimlikNo": 19241
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KOZYAKA KÖYÜ, DEMİRCİLER MEVKİİ",
+        "adi": "DEMİRCİLER",
+        "kimlikNo": 19240
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KOZYAKA KÖYÜ, DEMİRCİLER YAYLA YAYLA EVLERİ",
+        "adi": "DEMİRCİLER YAYLA",
+        "kimlikNo": 19242
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KOZYAKA KÖYÜ, EYVAZLAR MEVKİİ",
+        "adi": "EYVAZLAR",
+        "kimlikNo": 19238
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KOZYAKA KÖYÜ, KIVRI MEVKİİ",
+        "adi": "KIVRI",
+        "kimlikNo": 19239
+    },
+    {
+        "koyAdi": "KOZYAKA",
+        "koyKayitNo": 7052,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KOZYAKA KÖYÜ, KÖYÜN KENDİSİ MEVKİİ",
+        "adi": "KÖYÜN KENDİSİ",
+        "kimlikNo": 139519
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, AŞAĞI MEVKİİ",
+        "adi": "AŞAĞI",
+        "kimlikNo": 19247
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, AŞAĞI YAYLA YAYLA EVLERİ",
+        "adi": "AŞAĞI YAYLA",
+        "kimlikNo": 19250
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, DERECEVİRAN MEVKİİ",
+        "adi": "DERECEVİRAN",
+        "kimlikNo": 19248
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, ORTA MEVKİİ",
+        "adi": "ORTA",
+        "kimlikNo": 19246
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, YUKARI MEVKİİ",
+        "adi": "YUKARI",
+        "kimlikNo": 19245
+    },
+    {
+        "koyAdi": "KUZGÖLCÜK",
+        "koyKayitNo": 7053,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "KUZGÖLCÜK KÖYÜ, YUKARI YAYLA YAYLA EVLERİ",
+        "adi": "YUKARI YAYLA",
+        "kimlikNo": 19249
+    },
+    {
+        "koyAdi": "MUSASOFULAR",
+        "koyKayitNo": 7054,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "MUSASOFULAR KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19252
+    },
+    {
+        "koyAdi": "NİMETLİ",
+        "koyKayitNo": 7055,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "NİMETLİ KÖYÜ, BEKİRFAKILAR MEVKİİ",
+        "adi": "BEKİRFAKILAR",
+        "kimlikNo": 19255
+    },
+    {
+        "koyAdi": "NİMETLİ",
+        "koyKayitNo": 7055,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "NİMETLİ KÖYÜ, DENİZLER MEVKİİ",
+        "adi": "DENİZLER",
+        "kimlikNo": 19254
+    },
+    {
+        "koyAdi": "NİMETLİ",
+        "koyKayitNo": 7055,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "NİMETLİ KÖYÜ, DENİZLER YAYLA YAYLA EVLERİ",
+        "adi": "DENİZLER YAYLA",
+        "kimlikNo": 19257
+    },
+    {
+        "koyAdi": "NİMETLİ",
+        "koyKayitNo": 7055,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "NİMETLİ KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19253
+    },
+    {
+        "koyAdi": "NİMETLİ",
+        "koyKayitNo": 7055,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "NİMETLİ KÖYÜ, NİMETLİ YAYLA YAYLA EVLERİ",
+        "adi": "NİMETLİ YAYLA",
+        "kimlikNo": 19256
+    },
+    {
+        "koyAdi": "SOLAKLAR",
+        "koyKayitNo": 7056,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOLAKLAR KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19260
+    },
+    {
+        "koyAdi": "SOLAKLAR",
+        "koyKayitNo": 7056,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SOLAKLAR KÖYÜ, TAŞOLUK MEVKİİ",
+        "adi": "TAŞOLUK",
+        "kimlikNo": 19259
+    },
+    {
+        "koyAdi": "SUSUZ",
+        "koyKayitNo": 7057,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 6,
+        "bilesenAdi": "SUSUZ KÖYÜ, BAĞ EVLERİ MEVKİİ",
+        "adi": "BAĞ EVLERİ",
+        "kimlikNo": 19265
+    },
+    {
+        "koyAdi": "SUSUZ",
+        "koyKayitNo": 7057,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SUSUZ KÖYÜ, ÇATAK MEVKİİ",
+        "adi": "ÇATAK",
+        "kimlikNo": 19262
+    },
+    {
+        "koyAdi": "SUSUZ",
+        "koyKayitNo": 7057,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "SUSUZ KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19263
+    },
+    {
+        "koyAdi": "SUSUZ",
+        "koyKayitNo": 7057,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "SUSUZ KÖYÜ, YAYLA YAYLA EVLERİ",
+        "adi": "YAYLA",
+        "kimlikNo": 19264
+    },
+    {
+        "koyAdi": "TAZILAR",
+        "koyKayitNo": 7058,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "TAZILAR KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19267
+    },
+    {
+        "koyAdi": "TAZILAR",
+        "koyKayitNo": 7058,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "TAZILAR KÖYÜ, YAYLA YAYLA EVLERİ",
+        "adi": "YAYLA",
+        "kimlikNo": 19266
+    },
+    {
+        "koyAdi": "TEPE",
+        "koyKayitNo": 7059,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "TEPE KÖYÜ, DİKENLİ YAYLA EVLERİ",
+        "adi": "DİKENLİ",
+        "kimlikNo": 19269
+    },
+    {
+        "koyAdi": "TEPE",
+        "koyKayitNo": 7059,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "TEPE KÖYÜ, İNEKLİKURUK YAYLA EVLERİ",
+        "adi": "İNEKLİKURUK",
+        "kimlikNo": 19271
+    },
+    {
+        "koyAdi": "TEPE",
+        "koyKayitNo": 7059,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "TEPE KÖYÜ, KALINCAK YAYLA EVLERİ",
+        "adi": "KALINCAK",
+        "kimlikNo": 19270
+    },
+    {
+        "koyAdi": "TEPE",
+        "koyKayitNo": 7059,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "TEPE KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19268
+    },
+    {
+        "koyAdi": "YAĞMA",
+        "koyKayitNo": 7060,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YAĞMA KÖYÜ, HIDIRLAR MEVKİİ",
+        "adi": "HIDIRLAR",
+        "kimlikNo": 19273
+    },
+    {
+        "koyAdi": "YAĞMA",
+        "koyKayitNo": 7060,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YAĞMA KÖYÜ, MERKEZ MEVKİİ",
+        "adi": "MERKEZ",
+        "kimlikNo": 19274
+    },
+    {
+        "koyAdi": "YAĞMA",
+        "koyKayitNo": 7060,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 4,
+        "bilesenAdi": "YAĞMA KÖYÜ, SÖĞÜT  MEVKİİ",
+        "adi": "SÖĞÜT ",
+        "kimlikNo": 19272
+    },
+    {
+        "koyAdi": "YUVA",
+        "koyKayitNo": 7061,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 0,
+        "bilesenAdi": "YUVA KÖYÜ",
+        "adi": null,
+        "kimlikNo": 19276
+    },
+    {
+        "koyAdi": "YUVA",
+        "koyKayitNo": 7061,
+        "koyKurumBelediyeTur": null,
+        "mahalleTur": 5,
+        "bilesenAdi": "YUVA KÖYÜ, YAYLA YAYLA EVLERİ",
+        "adi": "YAYLA",
+        "kimlikNo": 19275
+    }
+]

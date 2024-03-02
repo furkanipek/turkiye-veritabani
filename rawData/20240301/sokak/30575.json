@@ -1,0 +1,933 @@
+[
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "1 NOLU CADDE (Cadde)",
+        "adi": "1 NOLU CADDE",
+        "kimlikNo": 834295
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "1001 (Sokak)",
+        "adi": "1001",
+        "kimlikNo": 311465820
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "274 (Sokak)",
+        "adi": "274",
+        "kimlikNo": 722609790
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27400 (Sokak)",
+        "adi": "27400",
+        "kimlikNo": 227961630
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27401 (Cadde)",
+        "adi": "27401",
+        "kimlikNo": 486800600
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27402 (Cadde)",
+        "adi": "27402",
+        "kimlikNo": 639664360
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27404 (Sokak)",
+        "adi": "27404",
+        "kimlikNo": 509279040
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27405 (Sokak)",
+        "adi": "27405",
+        "kimlikNo": 380887120
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27406 (Cadde)",
+        "adi": "27406",
+        "kimlikNo": 579277330
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27408 (Sokak)",
+        "adi": "27408",
+        "kimlikNo": 610097670
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27409 (Sokak)",
+        "adi": "27409",
+        "kimlikNo": 263924310
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27410 (Cadde)",
+        "adi": "27410",
+        "kimlikNo": 815311050
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27411 (Cadde)",
+        "adi": "27411",
+        "kimlikNo": 813971920
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27412 (Sokak)",
+        "adi": "27412",
+        "kimlikNo": 335808530
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27413 (Sokak)",
+        "adi": "27413",
+        "kimlikNo": 449705800
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27414 (Sokak)",
+        "adi": "27414",
+        "kimlikNo": 559911520
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27415 (Sokak)",
+        "adi": "27415",
+        "kimlikNo": 630981150
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27416 (Sokak)",
+        "adi": "27416",
+        "kimlikNo": 423105320
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27417 (Sokak)",
+        "adi": "27417",
+        "kimlikNo": 536861270
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27418 (Sokak)",
+        "adi": "27418",
+        "kimlikNo": 859935580
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27420 (Sokak)",
+        "adi": "27420",
+        "kimlikNo": 404643980
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27421 (Sokak)",
+        "adi": "27421",
+        "kimlikNo": 814191110
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27422 (Sokak)",
+        "adi": "27422",
+        "kimlikNo": 282783560
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27423 (Sokak)",
+        "adi": "27423",
+        "kimlikNo": 205072400
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27424 (Sokak)",
+        "adi": "27424",
+        "kimlikNo": 205178920
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27425 (Sokak)",
+        "adi": "27425",
+        "kimlikNo": 417445170
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27426 (Sokak)",
+        "adi": "27426",
+        "kimlikNo": 630824570
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27427 (Sokak)",
+        "adi": "27427",
+        "kimlikNo": 161758120
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27428 (Cadde)",
+        "adi": "27428",
+        "kimlikNo": 335478520
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27429 (Sokak)",
+        "adi": "27429",
+        "kimlikNo": 417307970
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27430 (Sokak)",
+        "adi": "27430",
+        "kimlikNo": 483319950
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27431 (Sokak)",
+        "adi": "27431",
+        "kimlikNo": 637063290
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27432 (Sokak)",
+        "adi": "27432",
+        "kimlikNo": 578935880
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27433 (Sokak)",
+        "adi": "27433",
+        "kimlikNo": 268271210
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27434 (Sokak)",
+        "adi": "27434",
+        "kimlikNo": 747097260
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27435 (Sokak)",
+        "adi": "27435",
+        "kimlikNo": 859371000
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27436 (Cadde)",
+        "adi": "27436",
+        "kimlikNo": 598184920
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27437 (Cadde)",
+        "adi": "27437",
+        "kimlikNo": 334955400
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27438 (Sokak)",
+        "adi": "27438",
+        "kimlikNo": 360450450
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27440 (Sokak)",
+        "adi": "27440",
+        "kimlikNo": 560312220
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27441 (Sokak)",
+        "adi": "27441",
+        "kimlikNo": 230634720
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27442 (Sokak)",
+        "adi": "27442",
+        "kimlikNo": 263669300
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27443 (Sokak)",
+        "adi": "27443",
+        "kimlikNo": 379906290
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27445 (Sokak)",
+        "adi": "27445",
+        "kimlikNo": 449930380
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27446 (Sokak)",
+        "adi": "27446",
+        "kimlikNo": 559588390
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27447 (Sokak)",
+        "adi": "27447",
+        "kimlikNo": 187670380
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27448 (Sokak)",
+        "adi": "27448",
+        "kimlikNo": 761189420
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27449 (Sokak)",
+        "adi": "27449",
+        "kimlikNo": 794849290
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27450 (Sokak)",
+        "adi": "27450",
+        "kimlikNo": 790943220
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27451 (Sokak)",
+        "adi": "27451",
+        "kimlikNo": 823162410
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27452 (Sokak)",
+        "adi": "27452",
+        "kimlikNo": 397970970
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27453 (Sokak)",
+        "adi": "27453",
+        "kimlikNo": 631246220
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27454 (Sokak)",
+        "adi": "27454",
+        "kimlikNo": 284006120
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27455 (Sokak)",
+        "adi": "27455",
+        "kimlikNo": 272128510
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27456 (Sokak)",
+        "adi": "27456",
+        "kimlikNo": 360684010
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27458 (Sokak)",
+        "adi": "27458",
+        "kimlikNo": 398550280
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27459 (Sokak)",
+        "adi": "27459",
+        "kimlikNo": 483131260
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27462 (Sokak)",
+        "adi": "27462",
+        "kimlikNo": 609982420
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27463 (Sokak)",
+        "adi": "27463",
+        "kimlikNo": 698648740
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27464 (Sokak)",
+        "adi": "27464",
+        "kimlikNo": 722311110
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27465 (Sokak)",
+        "adi": "27465",
+        "kimlikNo": 768273100
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27466 (Sokak)",
+        "adi": "27466",
+        "kimlikNo": 860052950
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27467 (Sokak)",
+        "adi": "27467",
+        "kimlikNo": 860185610
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27468 (Sokak)",
+        "adi": "27468",
+        "kimlikNo": 837559000
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27469 (Sokak)",
+        "adi": "27469",
+        "kimlikNo": 354248600
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27470 (Cadde)",
+        "adi": "27470",
+        "kimlikNo": 627909440
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27471 (Cadde)",
+        "adi": "27471",
+        "kimlikNo": 631892290
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27472 (Sokak)",
+        "adi": "27472",
+        "kimlikNo": 721878750
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27473 (Sokak)",
+        "adi": "27473",
+        "kimlikNo": 134277450
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27474 (Sokak)",
+        "adi": "27474",
+        "kimlikNo": 661714890
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27475 (Sokak)",
+        "adi": "27475",
+        "kimlikNo": 263851200
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27476 (Sokak)",
+        "adi": "27476",
+        "kimlikNo": 379554810
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27477 (Sokak)",
+        "adi": "27477",
+        "kimlikNo": 398656880
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27478 (Sokak)",
+        "adi": "27478",
+        "kimlikNo": 435265730
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27479 (Sokak)",
+        "adi": "27479",
+        "kimlikNo": 859466060
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27480 (Cadde)",
+        "adi": "27480",
+        "kimlikNo": 562564720
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27481 (Sokak)",
+        "adi": "27481",
+        "kimlikNo": 896828760
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27482 (Sokak)",
+        "adi": "27482",
+        "kimlikNo": 610819490
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27483 (Sokak)",
+        "adi": "27483",
+        "kimlikNo": 540100040
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27484 (Cadde)",
+        "adi": "27484",
+        "kimlikNo": 578847690
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "27485 (Cadde)",
+        "adi": "27485",
+        "kimlikNo": 722514320
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27486 (Sokak)",
+        "adi": "27486",
+        "kimlikNo": 398444440
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27487 (Sokak)",
+        "adi": "27487",
+        "kimlikNo": 610606040
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27488 (Sokak)",
+        "adi": "27488",
+        "kimlikNo": 917431040
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27489 (Sokak)",
+        "adi": "27489",
+        "kimlikNo": 700288570
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27490 (Sokak)",
+        "adi": "27490",
+        "kimlikNo": 858989220
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27491 (Sokak)",
+        "adi": "27491",
+        "kimlikNo": 130606600
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27492 (Sokak)",
+        "adi": "27492",
+        "kimlikNo": 363990380
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27493 (Sokak)",
+        "adi": "27493",
+        "kimlikNo": 111693720
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27494 (Sokak)",
+        "adi": "27494",
+        "kimlikNo": 839196880
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27495 (Sokak)",
+        "adi": "27495",
+        "kimlikNo": 204515970
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27496 (Sokak)",
+        "adi": "27496",
+        "kimlikNo": 418084600
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27499 (Sokak)",
+        "adi": "27499",
+        "kimlikNo": 510543100
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27500 (Sokak)",
+        "adi": "27500",
+        "kimlikNo": 361078520
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27501 (Sokak)",
+        "adi": "27501",
+        "kimlikNo": 630814340
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27502 (Sokak)",
+        "adi": "27502",
+        "kimlikNo": 768494540
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27503 (Sokak)",
+        "adi": "27503",
+        "kimlikNo": 309143780
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27505 (Sokak)",
+        "adi": "27505",
+        "kimlikNo": 181832280
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "27506 (Sokak)",
+        "adi": "27506",
+        "kimlikNo": 316580570
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "47403 (Sokak)",
+        "adi": "47403",
+        "kimlikNo": 418020180
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "AKASYA (Sokak)",
+        "adi": "AKASYA",
+        "kimlikNo": 598824
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "ASLAN (Sokak)",
+        "adi": "ASLAN",
+        "kimlikNo": 605619
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 2,
+        "bilesenAdi": "BABUŞOĞLU (Bulvar)",
+        "adi": "BABUŞOĞLU",
+        "kimlikNo": 540935050
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "CAM (Sokak)",
+        "adi": "CAM",
+        "kimlikNo": 32239
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "CAMİ (Sokak)",
+        "adi": "CAMİ",
+        "kimlikNo": 585308
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "CEZAEVİ (Cadde)",
+        "adi": "CEZAEVİ",
+        "kimlikNo": 177215
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "ÇANAKKALE (Cadde)",
+        "adi": "ÇANAKKALE",
+        "kimlikNo": 359769430
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "ÇUKOBİRLİK (Sokak)",
+        "adi": "ÇUKOBİRLİK",
+        "kimlikNo": 611936
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "DEFNE (Sokak)",
+        "adi": "DEFNE",
+        "kimlikNo": 177977
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "DİCLE (Sokak)",
+        "adi": "DİCLE",
+        "kimlikNo": 751933670
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "ELİF (Sokak)",
+        "adi": "ELİF",
+        "kimlikNo": 1062587
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "GAZİANTEP (Cadde)",
+        "adi": "GAZİANTEP",
+        "kimlikNo": 177216
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "GÜMÜŞ (Sokak)",
+        "adi": "GÜMÜŞ",
+        "kimlikNo": 177980
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "GÜNEY (Sokak)",
+        "adi": "GÜNEY",
+        "kimlikNo": 603939
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "GÜRSEL (Cadde)",
+        "adi": "GÜRSEL",
+        "kimlikNo": 34582056
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "GÜVEN (Sokak)",
+        "adi": "GÜVEN",
+        "kimlikNo": 438495040
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "IHLAMUR (Sokak)",
+        "adi": "IHLAMUR",
+        "kimlikNo": 507850960
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "İLİM (Sokak)",
+        "adi": "İLİM",
+        "kimlikNo": 774303380
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "KARANFİL (Sokak)",
+        "adi": "KARANFİL",
+        "kimlikNo": 939611000
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "KARATEPE (Cadde)",
+        "adi": "KARATEPE",
+        "kimlikNo": 177218
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "KIBRIS (Cadde)",
+        "adi": "KIBRIS",
+        "kimlikNo": 326135310
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "KURTULUŞ (Sokak)",
+        "adi": "KURTULUŞ",
+        "kimlikNo": 235239050
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "KUŞÇULAR (Sokak)",
+        "adi": "KUŞÇULAR",
+        "kimlikNo": 596026
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "MUHTAR FEVZİ ÖZKAN (Cadde)",
+        "adi": "MUHTAR FEVZİ ÖZKAN",
+        "kimlikNo": 975051
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "NİLÜFER (Sokak)",
+        "adi": "NİLÜFER",
+        "kimlikNo": 601913
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "PANSİYON (Sokak)",
+        "adi": "PANSİYON",
+        "kimlikNo": 177985
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "REYHAN (Sokak)",
+        "adi": "REYHAN",
+        "kimlikNo": 601912
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "SARIKAMIS (Cadde)",
+        "adi": "SARIKAMIS",
+        "kimlikNo": 23133200
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 2,
+        "bilesenAdi": "ŞEHİT UZMAN ÇAVUŞ SAİT DEMİREL (Bulvar)",
+        "adi": "ŞEHİT UZMAN ÇAVUŞ SAİT DEMİREL",
+        "kimlikNo": 67965376
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "TAŞ (Sokak)",
+        "adi": "TAŞ",
+        "kimlikNo": 369497
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 3,
+        "bilesenAdi": "TUZCULAR (Cadde)",
+        "adi": "TUZCULAR",
+        "kimlikNo": 177225
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "ZAFER (Sokak)",
+        "adi": "ZAFER",
+        "kimlikNo": 399453160
+    },
+    {
+        "mahalleKayitNo": 30575,
+        "turKod": 4,
+        "bilesenAdi": "ZÜMRÜT (Sokak)",
+        "adi": "ZÜMRÜT",
+        "kimlikNo": 882424900
+    }
+]

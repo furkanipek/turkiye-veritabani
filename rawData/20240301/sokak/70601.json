@@ -1,0 +1,660 @@
+[
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 2,
+        "bilesenAdi": "ATATÜRK (Bulvar)",
+        "adi": "ATATÜRK",
+        "kimlikNo": 656995
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK 1. (Sokak)",
+        "adi": "ATATÜRK 1.",
+        "kimlikNo": 654485
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK 2. (Sokak)",
+        "adi": "ATATÜRK 2.",
+        "kimlikNo": 659785
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK 3. (Sokak)",
+        "adi": "ATATÜRK 3.",
+        "kimlikNo": 659189
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK 4. (Sokak)",
+        "adi": "ATATÜRK 4.",
+        "kimlikNo": 659190
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATATÜRK 5. (Sokak)",
+        "adi": "ATATÜRK 5.",
+        "kimlikNo": 393415
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ATMACA (Sokak)",
+        "adi": "ATMACA",
+        "kimlikNo": 658043
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "AYCAN (Sokak)",
+        "adi": "AYCAN",
+        "kimlikNo": 960305
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 2,
+        "bilesenAdi": "BÜLENT ECEVİT (Bulvar)",
+        "adi": "BÜLENT ECEVİT",
+        "kimlikNo": 657506
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "CUMHURİYET MEYDANI (Sokak)",
+        "adi": "CUMHURİYET MEYDANI",
+        "kimlikNo": 896732630
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "DETAY (Sokak)",
+        "adi": "DETAY",
+        "kimlikNo": 960078
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "DOĞA (Sokak)",
+        "adi": "DOĞA",
+        "kimlikNo": 960541
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "ESKİ TEKİRDAĞ (Cadde)",
+        "adi": "ESKİ TEKİRDAĞ",
+        "kimlikNo": 654080
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "FEVZİ ÇAKMAK (Cadde)",
+        "adi": "FEVZİ ÇAKMAK",
+        "kimlikNo": 656347
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "GÖLCÜK MEYDANI (Sokak)",
+        "adi": "GÖLCÜK MEYDANI",
+        "kimlikNo": 656411
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "GÖLCÜK MEYDANI ARALIĞI (Sokak)",
+        "adi": "GÖLCÜK MEYDANI ARALIĞI",
+        "kimlikNo": 656412
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "GÜLER (Sokak)",
+        "adi": "GÜLER",
+        "kimlikNo": 657003
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "HAYAT (Sokak)",
+        "adi": "HAYAT",
+        "kimlikNo": 959736
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "İLKBAHAR (Sokak)",
+        "adi": "İLKBAHAR",
+        "kimlikNo": 1521855
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "İMARET (Sokak)",
+        "adi": "İMARET",
+        "kimlikNo": 656410
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KAHRAMAN (Sokak)",
+        "adi": "KAHRAMAN",
+        "kimlikNo": 1521857
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KAMER (Sokak)",
+        "adi": "KAMER",
+        "kimlikNo": 655456
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KAPTAN (Sokak)",
+        "adi": "KAPTAN",
+        "kimlikNo": 1405925
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KIDEM (Sokak)",
+        "adi": "KIDEM",
+        "kimlikNo": 1522149
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KORKMAZ (Sokak)",
+        "adi": "KORKMAZ",
+        "kimlikNo": 654073
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "KUMYOL (Cadde)",
+        "adi": "KUMYOL",
+        "kimlikNo": 656409
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KURŞUN (Sokak)",
+        "adi": "KURŞUN",
+        "kimlikNo": 960203
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "KURT MUSTAFA (Sokak)",
+        "adi": "KURT MUSTAFA",
+        "kimlikNo": 656414
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "MANDIRACI (Cadde)",
+        "adi": "MANDIRACI",
+        "kimlikNo": 656417
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 1. (Sokak)",
+        "adi": "MANDIRACI 1.",
+        "kimlikNo": 648998
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. (Sokak)",
+        "adi": "MANDIRACI 2.",
+        "kimlikNo": 658966
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. 1. ARALIK (Sokak)",
+        "adi": "MANDIRACI 2. 1. ARALIK",
+        "kimlikNo": 657467
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. 2. ARALIK (Sokak)",
+        "adi": "MANDIRACI 2. 2. ARALIK",
+        "kimlikNo": 656989
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. 3. ARALIK (Sokak)",
+        "adi": "MANDIRACI 2. 3. ARALIK",
+        "kimlikNo": 658488
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. 4. ARALIK (Sokak)",
+        "adi": "MANDIRACI 2. 4. ARALIK",
+        "kimlikNo": 655455
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 2. 5. ARALIK (Sokak)",
+        "adi": "MANDIRACI 2. 5. ARALIK",
+        "kimlikNo": 648999
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MANDIRACI 3. (Sokak)",
+        "adi": "MANDIRACI 3.",
+        "kimlikNo": 659537
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AĞA (Sokak)",
+        "adi": "MEHMET AĞA",
+        "kimlikNo": 656145
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AĞA 1. (Sokak)",
+        "adi": "MEHMET AĞA 1.",
+        "kimlikNo": 959277
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "MEHMET AĞA ARALIĞI (Sokak)",
+        "adi": "MEHMET AĞA ARALIĞI",
+        "kimlikNo": 959142
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "MUSTAFA KEMAL (Cadde)",
+        "adi": "MUSTAFA KEMAL",
+        "kimlikNo": 658972
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ORTA (Sokak)",
+        "adi": "ORTA",
+        "kimlikNo": 960259
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ÖMÜR (Sokak)",
+        "adi": "ÖMÜR",
+        "kimlikNo": 960563
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ÖZYUVA (Sokak)",
+        "adi": "ÖZYUVA",
+        "kimlikNo": 1521975
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "SALİH OMURTAK (Cadde)",
+        "adi": "SALİH OMURTAK",
+        "kimlikNo": 656407
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "SEFA (Sokak)",
+        "adi": "SEFA",
+        "kimlikNo": 1405809
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "SELİM KAHYA (Sokak)",
+        "adi": "SELİM KAHYA",
+        "kimlikNo": 656413
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "SEVİNÇ (Sokak)",
+        "adi": "SEVİNÇ",
+        "kimlikNo": 656349
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "SİTE ÖZER (Sokak)",
+        "adi": "SİTE ÖZER",
+        "kimlikNo": 656415
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "SONBAHAR (Sokak)",
+        "adi": "SONBAHAR",
+        "kimlikNo": 1521853
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU",
+        "kimlikNo": 654069
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU 1. (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU 1.",
+        "kimlikNo": 959455
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU 1. ARALIK (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU 1. ARALIK",
+        "kimlikNo": 654075
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU 2. ARALIK (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU 2. ARALIK",
+        "kimlikNo": 659791
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU 3. ARALIK (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU 3. ARALIK",
+        "kimlikNo": 659792
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT AHMET ÇELEKOĞLU 4. ARALIK (Sokak)",
+        "adi": "ŞEHİT AHMET ÇELEKOĞLU 4. ARALIK",
+        "kimlikNo": 655458
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT İSMAİL GÜLER (Sokak)",
+        "adi": "ŞEHİT İSMAİL GÜLER",
+        "kimlikNo": 657000
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT PİLOT ULAŞ TÜRK (Cadde)",
+        "adi": "ŞEHİT PİLOT ULAŞ TÜRK",
+        "kimlikNo": 286190
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞEHİT TEĞMEN EROĞLU (Sokak)",
+        "adi": "ŞEHİT TEĞMEN EROĞLU",
+        "kimlikNo": 654066
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "ŞEHİT TEĞMEN YAVUZER (Cadde)",
+        "adi": "ŞEHİT TEĞMEN YAVUZER",
+        "kimlikNo": 656408
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "ŞİNASİ KURŞUN (Cadde)",
+        "adi": "ŞİNASİ KURŞUN",
+        "kimlikNo": 656416
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 1. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 1.",
+        "kimlikNo": 654067
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 10. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 10.",
+        "kimlikNo": 655463
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 11. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 11.",
+        "kimlikNo": 655464
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 12. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 12.",
+        "kimlikNo": 654491
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 13. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 13.",
+        "kimlikNo": 656132
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 14. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 14.",
+        "kimlikNo": 659793
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 14.ARALIĞI (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 14.ARALIĞI",
+        "kimlikNo": 655467
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 15. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 15.",
+        "kimlikNo": 657013
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 16. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 16.",
+        "kimlikNo": 657017
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 17. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 17.",
+        "kimlikNo": 656359
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 18. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 18.",
+        "kimlikNo": 657020
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 2. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 2.",
+        "kimlikNo": 654587
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 3. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 3.",
+        "kimlikNo": 657474
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 5. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 5.",
+        "kimlikNo": 656121
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 6. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 6.",
+        "kimlikNo": 657682
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ŞİNASİ KURŞUN 7. (Sokak)",
+        "adi": "ŞİNASİ KURŞUN 7.",
+        "kimlikNo": 393822
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "ÜSTÜN (Sokak)",
+        "adi": "ÜSTÜN",
+        "kimlikNo": 1405801
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "VEDA (Sokak)",
+        "adi": "VEDA",
+        "kimlikNo": 1405811
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YENİ (Sokak)",
+        "adi": "YENİ",
+        "kimlikNo": 286167
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YENİ EVLER 1. (Sokak)",
+        "adi": "YENİ EVLER 1.",
+        "kimlikNo": 658491
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YENİ EVLER 2. (Sokak)",
+        "adi": "YENİ EVLER 2.",
+        "kimlikNo": 656351
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YENİ EVLER 3. (Sokak)",
+        "adi": "YENİ EVLER 3.",
+        "kimlikNo": 657004
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YENİ EVLER 4. (Sokak)",
+        "adi": "YENİ EVLER 4.",
+        "kimlikNo": 656353
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YILDIRIM (Sokak)",
+        "adi": "YILDIRIM",
+        "kimlikNo": 658047
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 3,
+        "bilesenAdi": "YUNUS EMRE (Cadde)",
+        "adi": "YUNUS EMRE",
+        "kimlikNo": 657296
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 1. (Sokak)",
+        "adi": "YUNUS EMRE 1.",
+        "kimlikNo": 657508
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 2. (Sokak)",
+        "adi": "YUNUS EMRE 2.",
+        "kimlikNo": 657716
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 3. (Sokak)",
+        "adi": "YUNUS EMRE 3.",
+        "kimlikNo": 658498
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 4. (Sokak)",
+        "adi": "YUNUS EMRE 4.",
+        "kimlikNo": 657509
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 5. (Sokak)",
+        "adi": "YUNUS EMRE 5.",
+        "kimlikNo": 654107
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 6. (Sokak)",
+        "adi": "YUNUS EMRE 6.",
+        "kimlikNo": 658045
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE 7. (Sokak)",
+        "adi": "YUNUS EMRE 7.",
+        "kimlikNo": 654109
+    },
+    {
+        "mahalleKayitNo": 70601,
+        "turKod": 4,
+        "bilesenAdi": "YUNUS EMRE ARALIĞI (Sokak)",
+        "adi": "YUNUS EMRE ARALIĞI",
+        "kimlikNo": 657002
+    }
+]
