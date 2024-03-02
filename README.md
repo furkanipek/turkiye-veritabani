@@ -1,10 +1,40 @@
 # Türkiye Veritabanı
 Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer aldığı bir veritabanı oluşturmaya çalışıyorum. Burada işlenmemiş ve işlenmiş verileri paylaşacağım.
 
-|Tablo/Klasör|İl|İlçe|Belediye|Köy|Mahalle|Sokak|Posta Kodu
-|-|-|-|-|-|-|-|-|
-|Veri Sayısı|81|973|1.363|19.605|73.819|1.251.158|-
-|Dosya Sayısı|1|81|<td colspan=2>973|73819|973
+<table>
+    <thead>
+        <tr>
+            <th>Tablo/Klasör</th>
+            <th>İl</th>
+            <th>İlçe</th>
+            <th>Belediye</th>
+            <th>Köy</th>
+            <th>Mahalle</th>
+            <th>Sokak</th>
+            <th>Posta Kodu</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Veri Sayısı</td>
+            <td><p align="center">81</p></td>
+            <td><p align="center">973</p></td>
+            <td><p align="center">1.363</p></td>
+            <td><p align="center">19.605</p></td>
+            <td><p align="center">73.819</p></td>
+            <td><p align="center">1.251.158</p></td>
+            <td><p align="center">-</p></td>
+        </tr>
+        <tr>
+            <td>Dosya Sayısı</td>
+            <td><p align="center">1</p></td>
+            <td><p align="center">81</p></td>
+            <td colspan=3><p align="center">973</p></td>
+            <td><p align="center">73.819</p></td>
+            <td><p align="center">973</p></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Sokak Türleri
 Sokak verisi içerisinde tür bulunmaktadır, tür aşağıdaki anlama gelmektedir.
