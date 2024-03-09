@@ -40,6 +40,11 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
             <td><p align="center">32.245</p></td>
             <td colspan=2><p align="center">-</p></td>
         </tr>
+        <tr>
+            <td><p align="left">Sokak Sayısı</p></td>
+            <td><p align="center">-</p></td>
+            <td colspan=2><p align="center">1.251.158</p></td>
+        </tr>
     </tbody>
 </table>
 
@@ -81,6 +86,19 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
     </tbody>
 </table>
 
+### Nüfus Verileri
+|Tür|Mevcut Veri|Nüfus Verisi Olan| Nüfus Verisi Olmayan|
+|-|:-:|:-:|:-:|
+|İl|81|81|0
+|İlçe|973|973|0
+|Köy|18.633|18.171|462
+|Mahalle|32.408|32.183|225
+
+### Yüzölçümü Verileri
+|Tür|Mevcut Veri|Nüfus Verisi Olan| Nüfus Verisi Olmayan|
+|-|:-:|:-:|:-:|
+|İl|81|81|0
+|İlçe|973|973|0
 
 ### Ham Veri Sayıları
 <table>
@@ -157,7 +175,7 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
 |4|Sokak
 |5|Küme Evler
 
-### Verilerin Güncelliği
+## Verilerin Güncelliği
 |Veri|Güncelleme Tarihi|Veri Tarihi|
 |-|-|-|
 |İl/İlçe/Belediye/Köy/Mahalle/Sokak|01 Mart 2024|2024
@@ -172,3 +190,5 @@ Türkiye İl,İlçe,Köy,Mahalle,Sokak,Posta Kodu ve Nüfus gibi verilerin yer a
 - [Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü - Adres Sorgu](https://adres.nvi.gov.tr/VatandasIslemleri/AdresSorgu)
 - [PTT - Posta Kodu Sorgulama](https://postakodu.ptt.gov.tr/)
 - [Türkiye İstatistik Kurumu (TÜİK)](https://data.tuik.gov.tr/)
+- [HGM | Harita Genel Müdürlüğü - Ulusal Haritacılık Kurumu](https://www.harita.gov.tr/il-ve-ilce-yuzolcumleri)
+- [Türk Telekom Beyaz/Sarı Sayfalar](http://www.ttrehber.turktelekom.com.tr/AreaCodes)
