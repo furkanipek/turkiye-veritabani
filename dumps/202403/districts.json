@@ -1,0 +1,8759 @@
+[
+  {
+    "districtID": 1101,
+    "name": "ABANA",
+    "population": 4461,
+    "area": 28,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:59"
+  },
+  {
+    "districtID": 1102,
+    "name": "ACIPAYAM",
+    "population": 55406,
+    "area": 1772,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1103,
+    "name": "ADALAR",
+    "population": 16325,
+    "area": 11,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 1104,
+    "name": "SEYHAN",
+    "population": 787771,
+    "area": 444,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1105,
+    "name": "MERKEZ",
+    "population": 284839,
+    "area": 1814,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1106,
+    "name": "ADİLCEVAZ",
+    "population": 29697,
+    "area": 1586,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1107,
+    "name": "AFŞİN",
+    "population": 78152,
+    "area": 1502,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1108,
+    "name": "MERKEZ",
+    "population": 324685,
+    "area": 1261,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1109,
+    "name": "AĞLASUN",
+    "population": 7929,
+    "area": 305,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1110,
+    "name": "AĞIN",
+    "population": 2834,
+    "area": 242,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1111,
+    "name": "MERKEZ",
+    "population": 153709,
+    "area": 1695,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1112,
+    "name": "AHLAT",
+    "population": 44475,
+    "area": 1153,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1113,
+    "name": "AKÇAABAT",
+    "population": 129628,
+    "area": 375,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1114,
+    "name": "AKÇADAĞ",
+    "population": 34322,
+    "area": 1118,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1115,
+    "name": "AKÇAKALE",
+    "population": 127277,
+    "area": 1038,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:44"
+  },
+  {
+    "districtID": 1116,
+    "name": "AKÇAKOCA",
+    "population": 41363,
+    "area": 380,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1117,
+    "name": "AKDAĞMADENİ",
+    "population": 40842,
+    "area": 1810,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 1118,
+    "name": "AKHİSAR",
+    "population": 178812,
+    "area": 1645,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1119,
+    "name": "AKKUŞ",
+    "population": 22456,
+    "area": 697,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1120,
+    "name": "MERKEZ",
+    "population": 321160,
+    "area": 3540,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1121,
+    "name": "AKSEKİ",
+    "population": 11896,
+    "area": 1544,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1122,
+    "name": "AKŞEHİR",
+    "population": 92946,
+    "area": 895,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1123,
+    "name": "AKYAZI",
+    "population": 96605,
+    "area": 628,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1124,
+    "name": "ALACA",
+    "population": 29952,
+    "area": 1296,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1125,
+    "name": "ALAÇAM",
+    "population": 25148,
+    "area": 598,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 1126,
+    "name": "ALANYA",
+    "population": 359891,
+    "area": 1577,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1127,
+    "name": "ALAŞEHİR",
+    "population": 105397,
+    "area": 971,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1128,
+    "name": "ALİAĞA",
+    "population": 106168,
+    "area": 379,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1129,
+    "name": "ALMUS",
+    "population": 25116,
+    "area": 1033,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1130,
+    "name": "ALTINDAĞ",
+    "population": 412267,
+    "area": 123,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1131,
+    "name": "ALTINÖZÜ",
+    "population": 66533,
+    "area": 392,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:41"
+  },
+  {
+    "districtID": 1132,
+    "name": "ALTINTAŞ",
+    "population": 15446,
+    "area": 941,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1133,
+    "name": "ALUCRA",
+    "population": 10514,
+    "area": 1138,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:35"
+  },
+  {
+    "districtID": 1134,
+    "name": "MERKEZ",
+    "population": 148908,
+    "area": 1889,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1135,
+    "name": "ANAMUR",
+    "population": 66940,
+    "area": 1430,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1136,
+    "name": "ANDIRIN",
+    "population": 32581,
+    "area": 1202,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1139,
+    "name": "ARABAN",
+    "population": 33196,
+    "area": 592,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:32"
+  },
+  {
+    "districtID": 1140,
+    "name": "ARAÇ",
+    "population": 18676,
+    "area": 1446,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1141,
+    "name": "ARAKLI",
+    "population": 51124,
+    "area": 464,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1142,
+    "name": "ARALIK",
+    "population": 19495,
+    "area": 852,
+    "provinceID": 76,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1143,
+    "name": "ARAPGİR",
+    "population": 10641,
+    "area": 987,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1144,
+    "name": "MERKEZ",
+    "population": 42209,
+    "area": 1261,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1145,
+    "name": "ARDANUÇ",
+    "population": 11157,
+    "area": 958,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1146,
+    "name": "ARDEŞEN",
+    "population": 42467,
+    "area": 376,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1147,
+    "name": "ARHAVİ",
+    "population": 21746,
+    "area": 407,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1148,
+    "name": "ARGUVAN",
+    "population": 7708,
+    "area": 1096,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1149,
+    "name": "ARPAÇAY",
+    "population": 14670,
+    "area": 1165,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1150,
+    "name": "ARSİN",
+    "population": 32717,
+    "area": 157,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1151,
+    "name": "ARTOVA",
+    "population": 7469,
+    "area": 444,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1152,
+    "name": "MERKEZ",
+    "population": 35929,
+    "area": 1141,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1153,
+    "name": "AŞKALE",
+    "population": 21410,
+    "area": 1507,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1154,
+    "name": "ATABEY",
+    "population": 6103,
+    "area": 223,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:44"
+  },
+  {
+    "districtID": 1155,
+    "name": "AVANOS",
+    "population": 32682,
+    "area": 995,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1156,
+    "name": "AYANCIK",
+    "population": 24473,
+    "area": 862,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1157,
+    "name": "AYAŞ",
+    "population": 15581,
+    "area": 1041,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1158,
+    "name": "AYBASTI",
+    "population": 20966,
+    "area": 250,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1160,
+    "name": "AYVACIK",
+    "population": 35141,
+    "area": 880,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1161,
+    "name": "AYVALIK",
+    "population": 74643,
+    "area": 305,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1162,
+    "name": "AZDAVAY",
+    "population": 8031,
+    "area": 759,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1163,
+    "name": "BABAESKİ",
+    "population": 46595,
+    "area": 670,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:06"
+  },
+  {
+    "districtID": 1164,
+    "name": "BAFRA",
+    "population": 143109,
+    "area": 1503,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 1165,
+    "name": "BAHÇE",
+    "population": 23218,
+    "area": 208,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1166,
+    "name": "BAKIRKÖY",
+    "population": 220476,
+    "area": 29,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 1167,
+    "name": "BALA",
+    "population": 28704,
+    "area": 1851,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:49"
+  },
+  {
+    "districtID": 1169,
+    "name": "BALYA",
+    "population": 13000,
+    "area": 797,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1170,
+    "name": "BANAZ",
+    "population": 35313,
+    "area": 1114,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1171,
+    "name": "BANDIRMA",
+    "population": 166836,
+    "area": 755,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1172,
+    "name": "MERKEZ",
+    "population": 163196,
+    "area": 1091,
+    "provinceID": 74,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1173,
+    "name": "BASKİL",
+    "population": 16578,
+    "area": 1318,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1174,
+    "name": "MERKEZ",
+    "population": 491811,
+    "area": 653,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1175,
+    "name": "BAŞKALE",
+    "population": 42922,
+    "area": 2727,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1176,
+    "name": "MERKEZ",
+    "population": 70905,
+    "area": 2705,
+    "provinceID": 69,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1177,
+    "name": "BAYAT",
+    "population": 15047,
+    "area": 717,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1178,
+    "name": "BAYINDIR",
+    "population": 40618,
+    "area": 548,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1179,
+    "name": "BAYKAN",
+    "population": 26338,
+    "area": 488,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1180,
+    "name": "BAYRAMİÇ",
+    "population": 29160,
+    "area": 1204,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1181,
+    "name": "BERGAMA",
+    "population": 107133,
+    "area": 1544,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1182,
+    "name": "BESNİ",
+    "population": 76415,
+    "area": 1235,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1183,
+    "name": "BEŞİKTAŞ",
+    "population": 169022,
+    "area": 18,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1184,
+    "name": "BEŞİRİ",
+    "population": 32378,
+    "area": 809,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1185,
+    "name": "BEYKOZ",
+    "population": 245647,
+    "area": 310,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1186,
+    "name": "BEYOĞLU",
+    "population": 218589,
+    "area": 9,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1187,
+    "name": "BEYPAZARI",
+    "population": 48558,
+    "area": 1697,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:49"
+  },
+  {
+    "districtID": 1188,
+    "name": "BEYŞEHİR",
+    "population": 79030,
+    "area": 2054,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1189,
+    "name": "BEYTÜŞŞEBAP",
+    "population": 16056,
+    "area": 1647,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1190,
+    "name": "BİGA",
+    "population": 93778,
+    "area": 1310,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1191,
+    "name": "BİGADİÇ",
+    "population": 49177,
+    "area": 1108,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1192,
+    "name": "MERKEZ",
+    "population": 82416,
+    "area": 793,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1193,
+    "name": "MERKEZ",
+    "population": 172007,
+    "area": 1814,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:06"
+  },
+  {
+    "districtID": 1194,
+    "name": "BİRECİK",
+    "population": 93866,
+    "area": 912,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:44"
+  },
+  {
+    "districtID": 1195,
+    "name": "BİSMİL",
+    "population": 119972,
+    "area": 1679,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1196,
+    "name": "MERKEZ",
+    "population": 73264,
+    "area": 1064,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1197,
+    "name": "BODRUM",
+    "population": 198335,
+    "area": 650,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1198,
+    "name": "BOĞAZLIYAN",
+    "population": 35075,
+    "area": 1515,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 1199,
+    "name": "MERKEZ",
+    "population": 219913,
+    "area": 1616,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1200,
+    "name": "BOLVADİN",
+    "population": 45073,
+    "area": 944,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1201,
+    "name": "BOR",
+    "population": 62553,
+    "area": 1522,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1202,
+    "name": "BORÇKA",
+    "population": 24622,
+    "area": 805,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1203,
+    "name": "BORNOVA",
+    "population": 447553,
+    "area": 220,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 1204,
+    "name": "BOYABAT",
+    "population": 45833,
+    "area": 1512,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1205,
+    "name": "BOZCAADA",
+    "population": 3243,
+    "area": 37,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1206,
+    "name": "BOZDOĞAN",
+    "population": 32528,
+    "area": 859,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1207,
+    "name": "BOZKIR",
+    "population": 25885,
+    "area": 1105,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1208,
+    "name": "BOZKURT",
+    "population": 9738,
+    "area": 308,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1209,
+    "name": "BOZOVA",
+    "population": 55553,
+    "area": 1329,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:44"
+  },
+  {
+    "districtID": 1210,
+    "name": "BOZÜYÜK",
+    "population": 79853,
+    "area": 860,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1211,
+    "name": "BUCAK",
+    "population": 68290,
+    "area": 1511,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1212,
+    "name": "BULANCAK",
+    "population": 70092,
+    "area": 721,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:36"
+  },
+  {
+    "districtID": 1213,
+    "name": "BULANIK",
+    "population": 72714,
+    "area": 1948,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1214,
+    "name": "BULDAN",
+    "population": 26542,
+    "area": 523,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1215,
+    "name": "MERKEZ",
+    "population": 117537,
+    "area": 1567,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1216,
+    "name": "BURHANİYE",
+    "population": 65790,
+    "area": 420,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1218,
+    "name": "BÜNYAN",
+    "population": 30834,
+    "area": 1210,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1219,
+    "name": "CEYHAN",
+    "population": 156610,
+    "area": 1426,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 1220,
+    "name": "CEYLANPINAR",
+    "population": 92147,
+    "area": 1589,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:44"
+  },
+  {
+    "districtID": 1221,
+    "name": "CİDE",
+    "population": 22965,
+    "area": 652,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1222,
+    "name": "CİHANBEYLİ",
+    "population": 50922,
+    "area": 3702,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1223,
+    "name": "CİZRE",
+    "population": 161135,
+    "area": 444,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1224,
+    "name": "ÇAL",
+    "population": 17919,
+    "area": 860,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1225,
+    "name": "ÇAMARDI",
+    "population": 13614,
+    "area": 1163,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1226,
+    "name": "ÇAMELİ",
+    "population": 17814,
+    "area": 758,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1227,
+    "name": "ÇAMLIDERE",
+    "population": 13971,
+    "area": 782,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:49"
+  },
+  {
+    "districtID": 1228,
+    "name": "ÇAMLIHEMŞİN",
+    "population": 7799,
+    "area": 897,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1229,
+    "name": "ÇAN",
+    "population": 47624,
+    "area": 905,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1230,
+    "name": "MERKEZ",
+    "population": 203523,
+    "area": 1016,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1231,
+    "name": "ÇANKAYA",
+    "population": 937546,
+    "area": 483,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:49"
+  },
+  {
+    "districtID": 1232,
+    "name": "MERKEZ",
+    "population": 98574,
+    "area": 1440,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1233,
+    "name": "ÇARDAK",
+    "population": 8781,
+    "area": 423,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1234,
+    "name": "ÇARŞAMBA",
+    "population": 141199,
+    "area": 774,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 1235,
+    "name": "ÇAT",
+    "population": 15457,
+    "area": 1448,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1236,
+    "name": "ÇATAK",
+    "population": 18825,
+    "area": 1952,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1237,
+    "name": "ÇATALCA",
+    "population": 80007,
+    "area": 1142,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1238,
+    "name": "ÇATALZEYTİN",
+    "population": 8127,
+    "area": 272,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1239,
+    "name": "ÇAY",
+    "population": 29935,
+    "area": 803,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1240,
+    "name": "ÇAYCUMA",
+    "population": 91968,
+    "area": 492,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1241,
+    "name": "ÇAYELİ",
+    "population": 43075,
+    "area": 442,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1242,
+    "name": "ÇAYIRALAN",
+    "population": 12461,
+    "area": 995,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1243,
+    "name": "ÇAYIRLI",
+    "population": 8415,
+    "area": 1062,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1244,
+    "name": "ÇAYKARA",
+    "population": 15180,
+    "area": 574,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1245,
+    "name": "ÇEKEREK",
+    "population": 18781,
+    "area": 790,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1246,
+    "name": "ÇELİKHAN",
+    "population": 14856,
+    "area": 444,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1247,
+    "name": "ÇEMİŞGEZEK",
+    "population": 8066,
+    "area": 851,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1248,
+    "name": "ÇERKEŞ",
+    "population": 16909,
+    "area": 947,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1249,
+    "name": "ÇERMİK",
+    "population": 49900,
+    "area": 948,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1250,
+    "name": "ÇERKEZKÖY",
+    "population": 213243,
+    "area": 86,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 1251,
+    "name": "ÇEŞME",
+    "population": 50028,
+    "area": 285,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 1252,
+    "name": "ÇILDIR",
+    "population": 8745,
+    "area": 988,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1253,
+    "name": "ÇINAR",
+    "population": 78351,
+    "area": 1934,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1254,
+    "name": "ÇİÇEKDAĞI",
+    "population": 14480,
+    "area": 891,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1255,
+    "name": "ÇİFTELER",
+    "population": 14926,
+    "area": 858,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1256,
+    "name": "ÇİNE",
+    "population": 48585,
+    "area": 820,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1257,
+    "name": "ÇİVRİL",
+    "population": 59912,
+    "area": 1570,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1258,
+    "name": "ÇORLU",
+    "population": 294020,
+    "area": 531,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 1259,
+    "name": "MERKEZ",
+    "population": 294321,
+    "area": 2436,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1260,
+    "name": "ÇUBUK",
+    "population": 99096,
+    "area": 1198,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:50"
+  },
+  {
+    "districtID": 1261,
+    "name": "ÇUKURCA",
+    "population": 17734,
+    "area": 725,
+    "provinceID": 30,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1262,
+    "name": "ÇUMRA",
+    "population": 68543,
+    "area": 2089,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1263,
+    "name": "ÇÜNGÜŞ",
+    "population": 10771,
+    "area": 512,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1264,
+    "name": "DADAY",
+    "population": 8456,
+    "area": 843,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:00"
+  },
+  {
+    "districtID": 1265,
+    "name": "DARENDE",
+    "population": 26318,
+    "area": 1482,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1266,
+    "name": "DATÇA",
+    "population": 25649,
+    "area": 436,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1267,
+    "name": "DAZKIRI",
+    "population": 11642,
+    "area": 408,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1268,
+    "name": "DELİCE",
+    "population": 11227,
+    "area": 970,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:05"
+  },
+  {
+    "districtID": 1269,
+    "name": "DEMİRCİ",
+    "population": 35868,
+    "area": 1321,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1270,
+    "name": "DEMİRKÖY",
+    "population": 9656,
+    "area": 893,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:06"
+  },
+  {
+    "districtID": 1272,
+    "name": "DERELİ",
+    "population": 19308,
+    "area": 849,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:37"
+  },
+  {
+    "districtID": 1273,
+    "name": "DERİK",
+    "population": 62475,
+    "area": 1381,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1274,
+    "name": "DERİNKUYU",
+    "population": 20767,
+    "area": 473,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1275,
+    "name": "DEVELİ",
+    "population": 67918,
+    "area": 1892,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1276,
+    "name": "DEVREK",
+    "population": 57562,
+    "area": 953,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1277,
+    "name": "DEVREKANİ",
+    "population": 13886,
+    "area": 715,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:01"
+  },
+  {
+    "districtID": 1278,
+    "name": "DİCLE",
+    "population": 38533,
+    "area": 738,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1279,
+    "name": "DİGOR",
+    "population": 19403,
+    "area": 1092,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1280,
+    "name": "DİKİLİ",
+    "population": 48379,
+    "area": 534,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 1281,
+    "name": "DİNAR",
+    "population": 47492,
+    "area": 1254,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1282,
+    "name": "DİVRİĞİ",
+    "population": 16893,
+    "area": 2632,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:39"
+  },
+  {
+    "districtID": 1283,
+    "name": "DİYADİN",
+    "population": 37687,
+    "area": 1351,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1285,
+    "name": "DOĞANHİSAR",
+    "population": 14815,
+    "area": 482,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1286,
+    "name": "DOĞANŞEHİR",
+    "population": 35936,
+    "area": 1364,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1287,
+    "name": "DOĞUBAYAZIT",
+    "population": 114727,
+    "area": 2250,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1288,
+    "name": "DOMANİÇ",
+    "population": 14206,
+    "area": 539,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1289,
+    "name": "DÖRTYOL",
+    "population": 129276,
+    "area": 342,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1290,
+    "name": "DURAĞAN",
+    "population": 17900,
+    "area": 995,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1291,
+    "name": "DURSUNBEY",
+    "population": 33621,
+    "area": 1719,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1292,
+    "name": "MERKEZ",
+    "population": 259527,
+    "area": 710,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1293,
+    "name": "ECEABAT",
+    "population": 8780,
+    "area": 430,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1294,
+    "name": "EDREMİT",
+    "population": 171700,
+    "area": 682,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1295,
+    "name": "MERKEZ",
+    "population": 194991,
+    "area": 844,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:23"
+  },
+  {
+    "districtID": 1296,
+    "name": "EFLANİ",
+    "population": 10101,
+    "area": 674,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1297,
+    "name": "EĞİRDİR",
+    "population": 30988,
+    "area": 1315,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:44"
+  },
+  {
+    "districtID": 1298,
+    "name": "MERKEZ",
+    "population": 443448,
+    "area": 2243,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1299,
+    "name": "ELBİSTAN",
+    "population": 127755,
+    "area": 2201,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1300,
+    "name": "ELDİVAN",
+    "population": 7331,
+    "area": 350,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1301,
+    "name": "ELEŞKİRT",
+    "population": 30103,
+    "area": 1307,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1302,
+    "name": "ELMADAĞ",
+    "population": 45034,
+    "area": 647,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:50"
+  },
+  {
+    "districtID": 1303,
+    "name": "ELMALI",
+    "population": 41240,
+    "area": 1433,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1304,
+    "name": "EMET",
+    "population": 18264,
+    "area": 951,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1306,
+    "name": "EMİRDAĞ",
+    "population": 43603,
+    "area": 2103,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1307,
+    "name": "ENEZ",
+    "population": 10625,
+    "area": 455,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1308,
+    "name": "ERBAA",
+    "population": 100323,
+    "area": 1173,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1309,
+    "name": "ERCİŞ",
+    "population": 171035,
+    "area": 2133,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1310,
+    "name": "ERDEK",
+    "population": 32268,
+    "area": 307,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1311,
+    "name": "ERDEMLİ",
+    "population": 153967,
+    "area": 2279,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1312,
+    "name": "EREĞLİ",
+    "population": 153849,
+    "area": 2214,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1313,
+    "name": "EREĞLİ",
+    "population": 175294,
+    "area": 736,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1314,
+    "name": "ERFELEK",
+    "population": 13123,
+    "area": 412,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1315,
+    "name": "ERGANİ",
+    "population": 137492,
+    "area": 1510,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1316,
+    "name": "ERMENEK",
+    "population": 28103,
+    "area": 1242,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1317,
+    "name": "ERUH",
+    "population": 20011,
+    "area": 1061,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1318,
+    "name": "MERKEZ",
+    "population": 165860,
+    "area": 1521,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1320,
+    "name": "ESPİYE",
+    "population": 38130,
+    "area": 248,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:38"
+  },
+  {
+    "districtID": 1321,
+    "name": "ESKİPAZAR",
+    "population": 14343,
+    "area": 754,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1323,
+    "name": "EŞME",
+    "population": 34692,
+    "area": 1156,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1324,
+    "name": "EYNESİL",
+    "population": 13237,
+    "area": 51,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:38"
+  },
+  {
+    "districtID": 1325,
+    "name": "EYÜPSULTAN",
+    "population": 420194,
+    "area": 228,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 1326,
+    "name": "EZİNE",
+    "population": 33413,
+    "area": 727,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1327,
+    "name": "FATİH",
+    "population": 356025,
+    "area": 15,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 1328,
+    "name": "FATSA",
+    "population": 125399,
+    "area": 363,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1329,
+    "name": "FEKE",
+    "population": 17304,
+    "area": 1218,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 1330,
+    "name": "FELAHİYE",
+    "population": 6550,
+    "area": 444,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1331,
+    "name": "FETHİYE",
+    "population": 177569,
+    "area": 875,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1332,
+    "name": "FINDIKLI",
+    "population": 17385,
+    "area": 383,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1333,
+    "name": "FİNİKE",
+    "population": 50688,
+    "area": 768,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1334,
+    "name": "FOÇA",
+    "population": 36000,
+    "area": 251,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 1336,
+    "name": "GAZİOSMANPAŞA",
+    "population": 483830,
+    "area": 12,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 1337,
+    "name": "GAZİPAŞA",
+    "population": 55185,
+    "area": 1111,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1338,
+    "name": "GEBZE",
+    "population": 407436,
+    "area": 418,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 1339,
+    "name": "GEDİZ",
+    "population": 49915,
+    "area": 1193,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1340,
+    "name": "GELİBOLU",
+    "population": 44461,
+    "area": 823,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:14"
+  },
+  {
+    "districtID": 1341,
+    "name": "GELENDOST",
+    "population": 14471,
+    "area": 610,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:44"
+  },
+  {
+    "districtID": 1342,
+    "name": "GEMEREK",
+    "population": 22717,
+    "area": 1131,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:40"
+  },
+  {
+    "districtID": 1343,
+    "name": "GEMLİK",
+    "population": 122171,
+    "area": 401,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1344,
+    "name": "GENÇ",
+    "population": 34178,
+    "area": 1443,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:06"
+  },
+  {
+    "districtID": 1345,
+    "name": "GERCÜŞ",
+    "population": 21958,
+    "area": 914,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:03"
+  },
+  {
+    "districtID": 1346,
+    "name": "GEREDE",
+    "population": 36177,
+    "area": 1060,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:09"
+  },
+  {
+    "districtID": 1347,
+    "name": "GERGER",
+    "population": 15679,
+    "area": 668,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1348,
+    "name": "GERMENCİK",
+    "population": 44793,
+    "area": 394,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1349,
+    "name": "GERZE",
+    "population": 29534,
+    "area": 487,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1350,
+    "name": "GEVAŞ",
+    "population": 27437,
+    "area": 1544,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1351,
+    "name": "GEYVE",
+    "population": 51676,
+    "area": 662,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 1352,
+    "name": "MERKEZ",
+    "population": 143890,
+    "area": 376,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:38"
+  },
+  {
+    "districtID": 1353,
+    "name": "GÖKSUN",
+    "population": 49119,
+    "area": 1942,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1354,
+    "name": "GÖLBAŞI",
+    "population": 47876,
+    "area": 800,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1355,
+    "name": "GÖLCÜK",
+    "population": 177441,
+    "area": 217,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 1356,
+    "name": "GÖLE",
+    "population": 22735,
+    "area": 1290,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1357,
+    "name": "GÖLHİSAR",
+    "population": 23920,
+    "area": 494,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1358,
+    "name": "GÖLKÖY",
+    "population": 26970,
+    "area": 421,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1359,
+    "name": "GÖLPAZARI",
+    "population": 9831,
+    "area": 670,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1360,
+    "name": "GÖNEN",
+    "population": 75572,
+    "area": 1162,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1361,
+    "name": "GÖRELE",
+    "population": 32192,
+    "area": 237,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:39"
+  },
+  {
+    "districtID": 1362,
+    "name": "GÖRDES",
+    "population": 26240,
+    "area": 902,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1363,
+    "name": "GÖYNÜCEK",
+    "population": 10363,
+    "area": 591,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1364,
+    "name": "GÖYNÜK",
+    "population": 14711,
+    "area": 1407,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:09"
+  },
+  {
+    "districtID": 1365,
+    "name": "GÜDÜL",
+    "population": 10014,
+    "area": 540,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1366,
+    "name": "GÜLNAR",
+    "population": 33986,
+    "area": 1416,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1367,
+    "name": "GÜLŞEHİR",
+    "population": 21806,
+    "area": 879,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1368,
+    "name": "GÜMÜŞHACIKÖY",
+    "population": 22121,
+    "area": 629,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1369,
+    "name": "MERKEZ",
+    "population": 54503,
+    "area": 1889,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1370,
+    "name": "GÜNDOĞMUŞ",
+    "population": 8259,
+    "area": 1175,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1371,
+    "name": "GÜNEY",
+    "population": 9573,
+    "area": 362,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1372,
+    "name": "GÜRPINAR",
+    "population": 31816,
+    "area": 4028,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1373,
+    "name": "GÜRÜN",
+    "population": 18118,
+    "area": 2632,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:40"
+  },
+  {
+    "districtID": 1374,
+    "name": "HACIBEKTAŞ",
+    "population": 11352,
+    "area": 750,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1375,
+    "name": "HADİM",
+    "population": 11459,
+    "area": 1165,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1376,
+    "name": "HAFİK",
+    "population": 10944,
+    "area": 1765,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:40"
+  },
+  {
+    "districtID": 1377,
+    "name": "MERKEZ",
+    "population": 77273,
+    "area": 2179,
+    "provinceID": 30,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:41"
+  },
+  {
+    "districtID": 1378,
+    "name": "HALFETİ",
+    "population": 46312,
+    "area": 609,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:45"
+  },
+  {
+    "districtID": 1379,
+    "name": "HAMUR",
+    "population": 16097,
+    "area": 873,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1380,
+    "name": "HANAK",
+    "population": 8033,
+    "area": 647,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1381,
+    "name": "HANİ",
+    "population": 32777,
+    "area": 436,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1382,
+    "name": "HASSA",
+    "population": 55604,
+    "area": 520,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1384,
+    "name": "HAVRAN",
+    "population": 28287,
+    "area": 565,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1385,
+    "name": "HAVSA",
+    "population": 18077,
+    "area": 545,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1386,
+    "name": "HAVZA",
+    "population": 38824,
+    "area": 865,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1387,
+    "name": "HAYMANA",
+    "population": 33494,
+    "area": 2164,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1388,
+    "name": "HAYRABOLU",
+    "population": 30930,
+    "area": 1009,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 1389,
+    "name": "HAZRO",
+    "population": 17772,
+    "area": 426,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1390,
+    "name": "HEKİMHAN",
+    "population": 20106,
+    "area": 1514,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1391,
+    "name": "HENDEK",
+    "population": 91486,
+    "area": 646,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 1392,
+    "name": "HINIS",
+    "population": 24419,
+    "area": 1367,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1393,
+    "name": "HİLVAN",
+    "population": 43448,
+    "area": 1111,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 1394,
+    "name": "HİZAN",
+    "population": 31911,
+    "area": 1021,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1395,
+    "name": "HOPA",
+    "population": 27176,
+    "area": 130,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1396,
+    "name": "HORASAN",
+    "population": 36359,
+    "area": 1740,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1397,
+    "name": "HOZAT",
+    "population": 5952,
+    "area": 663,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1398,
+    "name": "MERKEZ",
+    "population": 153543,
+    "area": 1273,
+    "provinceID": 76,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1399,
+    "name": "ILGAZ",
+    "population": 14271,
+    "area": 845,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1400,
+    "name": "ILGIN",
+    "population": 53707,
+    "area": 1636,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1401,
+    "name": "MERKEZ",
+    "population": 271396,
+    "area": 773,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:45"
+  },
+  {
+    "districtID": 1403,
+    "name": "İDİL",
+    "population": 77159,
+    "area": 1148,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1404,
+    "name": "İHSANİYE",
+    "population": 29044,
+    "area": 849,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1405,
+    "name": "İKİZDERE",
+    "population": 8676,
+    "area": 855,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1406,
+    "name": "İLİÇ",
+    "population": 10044,
+    "area": 1382,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1407,
+    "name": "İMRANLI",
+    "population": 9091,
+    "area": 1292,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:41"
+  },
+  {
+    "districtID": 1408,
+    "name": "GÖKÇEADA",
+    "population": 10721,
+    "area": 282,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1409,
+    "name": "İNCESU",
+    "population": 30477,
+    "area": 874,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1410,
+    "name": "İNEBOLU",
+    "population": 20480,
+    "area": 417,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:01"
+  },
+  {
+    "districtID": 1411,
+    "name": "İNEGÖL",
+    "population": 299203,
+    "area": 1118,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1412,
+    "name": "İPSALA",
+    "population": 26155,
+    "area": 741,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1413,
+    "name": "İSKENDERUN",
+    "population": 227498,
+    "area": 247,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1414,
+    "name": "İSKİLİP",
+    "population": 29270,
+    "area": 1170,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1415,
+    "name": "İSLAHİYE",
+    "population": 64013,
+    "area": 865,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:32"
+  },
+  {
+    "districtID": 1416,
+    "name": "İSPİR",
+    "population": 15914,
+    "area": 2129,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1418,
+    "name": "İVRİNDİ",
+    "population": 31626,
+    "area": 818,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1420,
+    "name": "İZNİK",
+    "population": 44988,
+    "area": 753,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1421,
+    "name": "KADIKÖY",
+    "population": 467919,
+    "area": 25,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 1422,
+    "name": "KADINHANI",
+    "population": 31852,
+    "area": 1568,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1423,
+    "name": "KADİRLİ",
+    "population": 127513,
+    "area": 1021,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:30"
+  },
+  {
+    "districtID": 1424,
+    "name": "KAĞIZMAN",
+    "population": 44162,
+    "area": 1871,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1425,
+    "name": "KAHTA",
+    "population": 132303,
+    "area": 1274,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1426,
+    "name": "KALE",
+    "population": 19388,
+    "area": 684,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1427,
+    "name": "KALECİK",
+    "population": 13296,
+    "area": 1110,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1428,
+    "name": "KALKANDERE",
+    "population": 15042,
+    "area": 107,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1429,
+    "name": "KAMAN",
+    "population": 34285,
+    "area": 1284,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1430,
+    "name": "KANDIRA",
+    "population": 53845,
+    "area": 840,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 1431,
+    "name": "KANGAL",
+    "population": 21629,
+    "area": 3342,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:41"
+  },
+  {
+    "districtID": 1432,
+    "name": "KARABURUN",
+    "population": 13379,
+    "area": 421,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 1433,
+    "name": "MERKEZ",
+    "population": 134486,
+    "area": 790,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1434,
+    "name": "KARACABEY",
+    "population": 85765,
+    "area": 1158,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1435,
+    "name": "KARACASU",
+    "population": 17880,
+    "area": 727,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1436,
+    "name": "KARAHALLI",
+    "population": 9884,
+    "area": 330,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1437,
+    "name": "KARAİSALI",
+    "population": 23105,
+    "area": 1165,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 1438,
+    "name": "KARAKOÇAN",
+    "population": 29612,
+    "area": 1049,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1439,
+    "name": "MERKEZ",
+    "population": 208199,
+    "area": 4036,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1440,
+    "name": "KARAMÜRSEL",
+    "population": 59952,
+    "area": 262,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 1441,
+    "name": "KARAPINAR",
+    "population": 51166,
+    "area": 2623,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1442,
+    "name": "KARASU",
+    "population": 73738,
+    "area": 411,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 1443,
+    "name": "KARATAŞ",
+    "population": 25245,
+    "area": 862,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1444,
+    "name": "KARAYAZI",
+    "population": 24559,
+    "area": 1953,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1445,
+    "name": "KARGI",
+    "population": 16040,
+    "area": 1174,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1446,
+    "name": "KARLIOVA",
+    "population": 26819,
+    "area": 1566,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1447,
+    "name": "MERKEZ",
+    "population": 122524,
+    "area": 2048,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1448,
+    "name": "KARŞIYAKA",
+    "population": 341857,
+    "area": 51,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 1449,
+    "name": "KARTAL",
+    "population": 475042,
+    "area": 38,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1450,
+    "name": "MERKEZ",
+    "population": 155011,
+    "area": 1847,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1451,
+    "name": "KAŞ",
+    "population": 64014,
+    "area": 1750,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 1452,
+    "name": "KAVAK",
+    "population": 26346,
+    "area": 697,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1453,
+    "name": "KAYNARCA",
+    "population": 25137,
+    "area": 343,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1455,
+    "name": "KEBAN",
+    "population": 7964,
+    "area": 641,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1456,
+    "name": "KEÇİBORLU",
+    "population": 14646,
+    "area": 494,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:45"
+  },
+  {
+    "districtID": 1457,
+    "name": "KELES",
+    "population": 11321,
+    "area": 617,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1458,
+    "name": "KELKİT",
+    "population": 40875,
+    "area": 1571,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1459,
+    "name": "KEMAH",
+    "population": 7517,
+    "area": 2311,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1460,
+    "name": "KEMALİYE",
+    "population": 5066,
+    "area": 1207,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1461,
+    "name": "KEMALPAŞA",
+    "population": 117956,
+    "area": 681,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 1462,
+    "name": "KEPSUT",
+    "population": 21804,
+    "area": 889,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1463,
+    "name": "KESKİN",
+    "population": 16938,
+    "area": 1129,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:05"
+  },
+  {
+    "districtID": 1464,
+    "name": "KEŞAN",
+    "population": 84846,
+    "area": 1098,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1465,
+    "name": "KEŞAP",
+    "population": 20763,
+    "area": 197,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:39"
+  },
+  {
+    "districtID": 1466,
+    "name": "KIBRISCIK",
+    "population": 2980,
+    "area": 562,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:09"
+  },
+  {
+    "districtID": 1467,
+    "name": "KINIK",
+    "population": 29205,
+    "area": 479,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 1468,
+    "name": "KIRIKHAN",
+    "population": 106975,
+    "area": 715,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1469,
+    "name": "MERKEZ",
+    "population": 188419,
+    "area": 432,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:06"
+  },
+  {
+    "districtID": 1470,
+    "name": "KIRKAĞAÇ",
+    "population": 37823,
+    "area": 541,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1471,
+    "name": "MERKEZ",
+    "population": 112323,
+    "area": 1623,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:07"
+  },
+  {
+    "districtID": 1472,
+    "name": "MERKEZ",
+    "population": 162989,
+    "area": 1719,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 1473,
+    "name": "KIZILCAHAMAM",
+    "population": 31800,
+    "area": 1623,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1474,
+    "name": "KIZILTEPE",
+    "population": 271307,
+    "area": 1236,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1475,
+    "name": "KİĞI",
+    "population": 5035,
+    "area": 483,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1476,
+    "name": "MERKEZ",
+    "population": 130665,
+    "area": 610,
+    "provinceID": 79,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 1477,
+    "name": "KİRAZ",
+    "population": 43572,
+    "area": 573,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1479,
+    "name": "KOÇARLI",
+    "population": 22599,
+    "area": 455,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1480,
+    "name": "KOFÇAZ",
+    "population": 2308,
+    "area": 545,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:07"
+  },
+  {
+    "districtID": 1482,
+    "name": "KORGAN",
+    "population": 28144,
+    "area": 254,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1483,
+    "name": "KORKUTELİ",
+    "population": 59295,
+    "area": 2433,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 1484,
+    "name": "KOYULHİSAR",
+    "population": 12959,
+    "area": 891,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:41"
+  },
+  {
+    "districtID": 1485,
+    "name": "KOZAKLI",
+    "population": 13412,
+    "area": 772,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1486,
+    "name": "KOZAN",
+    "population": 132642,
+    "area": 1903,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1487,
+    "name": "KOZLUK",
+    "population": 61297,
+    "area": 1101,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:03"
+  },
+  {
+    "districtID": 1488,
+    "name": "KÖYCEĞİZ",
+    "population": 40665,
+    "area": 1329,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1489,
+    "name": "KULA",
+    "population": 43361,
+    "area": 981,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1490,
+    "name": "KULP",
+    "population": 37576,
+    "area": 1493,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1491,
+    "name": "KULU",
+    "population": 52447,
+    "area": 2234,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1492,
+    "name": "KUMLUCA",
+    "population": 74353,
+    "area": 1225,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 1493,
+    "name": "KUMRU",
+    "population": 29704,
+    "area": 296,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1494,
+    "name": "KURŞUNLU",
+    "population": 9947,
+    "area": 609,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1495,
+    "name": "KURTALAN",
+    "population": 62232,
+    "area": 811,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1496,
+    "name": "KURUCAŞİLE",
+    "population": 6681,
+    "area": 152,
+    "provinceID": 74,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1497,
+    "name": "KUŞADASI",
+    "population": 133177,
+    "area": 265,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1498,
+    "name": "KUYUCAK",
+    "population": 26047,
+    "area": 544,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1499,
+    "name": "KÜRE",
+    "population": 5644,
+    "area": 406,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1500,
+    "name": "MERKEZ",
+    "population": 276427,
+    "area": 2470,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1501,
+    "name": "LADİK",
+    "population": 16907,
+    "area": 541,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1502,
+    "name": "LALAPAŞA",
+    "population": 6198,
+    "area": 497,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1503,
+    "name": "LAPSEKİ",
+    "population": 30259,
+    "area": 821,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1504,
+    "name": "LİCE",
+    "population": 26168,
+    "area": 982,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1505,
+    "name": "LÜLEBURGAZ",
+    "population": 155670,
+    "area": 1016,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:07"
+  },
+  {
+    "districtID": 1506,
+    "name": "MADEN",
+    "population": 13320,
+    "area": 819,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1507,
+    "name": "MAÇKA",
+    "population": 27322,
+    "area": 925,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1508,
+    "name": "MAHMUDİYE",
+    "population": 7715,
+    "area": 659,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 1510,
+    "name": "MALAZGİRT",
+    "population": 44442,
+    "area": 1595,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1511,
+    "name": "MALKARA",
+    "population": 51406,
+    "area": 1243,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 1512,
+    "name": "MANAVGAT",
+    "population": 258367,
+    "area": 2351,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 1514,
+    "name": "MANYAS",
+    "population": 18190,
+    "area": 634,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1517,
+    "name": "MARMARİS",
+    "population": 96778,
+    "area": 906,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1518,
+    "name": "MAZGİRT",
+    "population": 7827,
+    "area": 702,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1519,
+    "name": "MAZIDAĞI",
+    "population": 37399,
+    "area": 850,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1520,
+    "name": "MECİTÖZÜ",
+    "population": 14441,
+    "area": 825,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1521,
+    "name": "MENEMEN",
+    "population": 207748,
+    "area": 573,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1522,
+    "name": "MENGEN",
+    "population": 14113,
+    "area": 874,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:09"
+  },
+  {
+    "districtID": 1523,
+    "name": "MERİÇ",
+    "population": 12897,
+    "area": 438,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1524,
+    "name": "MERZİFON",
+    "population": 76266,
+    "area": 888,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1525,
+    "name": "MESUDİYE",
+    "population": 15357,
+    "area": 1046,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1526,
+    "name": "MİDYAT",
+    "population": 122308,
+    "area": 1241,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1527,
+    "name": "MİHALIÇÇIK",
+    "population": 8576,
+    "area": 1809,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 1528,
+    "name": "MİLAS",
+    "population": 149691,
+    "area": 2067,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1529,
+    "name": "MUCUR",
+    "population": 18559,
+    "area": 992,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 1530,
+    "name": "MUDANYA",
+    "population": 109964,
+    "area": 369,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1531,
+    "name": "MUDURNU",
+    "population": 18576,
+    "area": 1314,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:09"
+  },
+  {
+    "districtID": 1533,
+    "name": "MURADİYE",
+    "population": 44322,
+    "area": 912,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1534,
+    "name": "MERKEZ",
+    "population": 201717,
+    "area": 2818,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1535,
+    "name": "MUSTAFAKEMALPAŞA",
+    "population": 103944,
+    "area": 1641,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1536,
+    "name": "MUT",
+    "population": 63516,
+    "area": 2718,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1537,
+    "name": "MUTKİ",
+    "population": 29203,
+    "area": 1069,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1538,
+    "name": "MURATLI",
+    "population": 30411,
+    "area": 388,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1539,
+    "name": "NALLIHAN",
+    "population": 26831,
+    "area": 2079,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1540,
+    "name": "NARMAN",
+    "population": 11959,
+    "area": 799,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1541,
+    "name": "NAZIMİYE",
+    "population": 3437,
+    "area": 543,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1542,
+    "name": "NAZİLLİ",
+    "population": 162074,
+    "area": 691,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1543,
+    "name": "MERKEZ",
+    "population": 159195,
+    "area": 574,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1544,
+    "name": "MERKEZ",
+    "population": 236864,
+    "area": 2223,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1545,
+    "name": "NİKSAR",
+    "population": 62287,
+    "area": 889,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1546,
+    "name": "NİZİP",
+    "population": 150037,
+    "area": 944,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:33"
+  },
+  {
+    "districtID": 1547,
+    "name": "NUSAYBİN",
+    "population": 118640,
+    "area": 1079,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1548,
+    "name": "OF",
+    "population": 44527,
+    "area": 258,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1549,
+    "name": "OĞUZELİ",
+    "population": 37170,
+    "area": 689,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:34"
+  },
+  {
+    "districtID": 1550,
+    "name": "OLTU",
+    "population": 30296,
+    "area": 1441,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1551,
+    "name": "OLUR",
+    "population": 6737,
+    "area": 893,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1553,
+    "name": "ORHANELİ",
+    "population": 19527,
+    "area": 838,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1554,
+    "name": "ORHANGAZİ",
+    "population": 81862,
+    "area": 506,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1555,
+    "name": "ORTA",
+    "population": 16921,
+    "area": 706,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1556,
+    "name": "ORTAKÖY",
+    "population": 8496,
+    "area": 300,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1557,
+    "name": "ORTAKÖY",
+    "population": 31613,
+    "area": 727,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1558,
+    "name": "OSMANCIK",
+    "population": 43388,
+    "area": 1273,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1559,
+    "name": "OSMANELİ",
+    "population": 21875,
+    "area": 490,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:05"
+  },
+  {
+    "districtID": 1560,
+    "name": "MERKEZ",
+    "population": 280068,
+    "area": 859,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:30"
+  },
+  {
+    "districtID": 1561,
+    "name": "OVACIK",
+    "population": 5677,
+    "area": 398,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1562,
+    "name": "OVACIK",
+    "population": 7173,
+    "area": 1401,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1563,
+    "name": "ÖDEMİŞ",
+    "population": 132650,
+    "area": 1019,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1564,
+    "name": "ÖMERLİ",
+    "population": 14571,
+    "area": 458,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1565,
+    "name": "ÖZALP",
+    "population": 57829,
+    "area": 1430,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1566,
+    "name": "PALU",
+    "population": 20215,
+    "area": 730,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1567,
+    "name": "PASİNLER",
+    "population": 26833,
+    "area": 1134,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1568,
+    "name": "PATNOS",
+    "population": 112515,
+    "area": 1394,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1569,
+    "name": "PAZAR",
+    "population": 32516,
+    "area": 173,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1570,
+    "name": "PAZARCIK",
+    "population": 67262,
+    "area": 1253,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1571,
+    "name": "PAZARYERİ",
+    "population": 9967,
+    "area": 324,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:05"
+  },
+  {
+    "districtID": 1572,
+    "name": "PEHLİVANKÖY",
+    "population": 3400,
+    "area": 104,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:07"
+  },
+  {
+    "districtID": 1573,
+    "name": "PERŞEMBE",
+    "population": 31278,
+    "area": 217,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1574,
+    "name": "PERTEK",
+    "population": 11463,
+    "area": 858,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1575,
+    "name": "PERVARİ",
+    "population": 29448,
+    "area": 1651,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1576,
+    "name": "PINARBAŞI",
+    "population": 24172,
+    "area": 3418,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1577,
+    "name": "PINARHİSAR",
+    "population": 17738,
+    "area": 518,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1578,
+    "name": "POLATLI",
+    "population": 128895,
+    "area": 3618,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1579,
+    "name": "POSOF",
+    "population": 6340,
+    "area": 583,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1580,
+    "name": "POZANTI",
+    "population": 20733,
+    "area": 899,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1581,
+    "name": "PÜLÜMÜR",
+    "population": 4010,
+    "area": 1437,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1582,
+    "name": "PÜTÜRGE",
+    "population": 15779,
+    "area": 1086,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1583,
+    "name": "REFAHİYE",
+    "population": 12984,
+    "area": 1808,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1584,
+    "name": "REŞADİYE",
+    "population": 36727,
+    "area": 1102,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1585,
+    "name": "REYHANLI",
+    "population": 113615,
+    "area": 367,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1586,
+    "name": "MERKEZ",
+    "population": 147996,
+    "area": 253,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1587,
+    "name": "SAFRANBOLU",
+    "population": 70043,
+    "area": 750,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1588,
+    "name": "SAİMBEYLİ",
+    "population": 13857,
+    "area": 989,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1590,
+    "name": "SALİHLİ",
+    "population": 165182,
+    "area": 1359,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1591,
+    "name": "SAMANDAĞ",
+    "population": 120600,
+    "area": 384,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1592,
+    "name": "SAMSAT",
+    "population": 6898,
+    "area": 319,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1594,
+    "name": "SANDIKLI",
+    "population": 55413,
+    "area": 1238,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1595,
+    "name": "SAPANCA",
+    "population": 46080,
+    "area": 173,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1596,
+    "name": "SARAY",
+    "population": 51224,
+    "area": 620,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1597,
+    "name": "SARAYKÖY",
+    "population": 31047,
+    "area": 379,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1598,
+    "name": "SARAYÖNÜ",
+    "population": 28967,
+    "area": 1620,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1599,
+    "name": "SARICAKAYA",
+    "population": 4651,
+    "area": 382,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 1600,
+    "name": "SARIGÖL",
+    "population": 35519,
+    "area": 432,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1601,
+    "name": "SARIKAMIŞ",
+    "population": 37348,
+    "area": 2038,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1602,
+    "name": "SARIKAYA",
+    "population": 31866,
+    "area": 1018,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1603,
+    "name": "SARIOĞLAN",
+    "population": 15394,
+    "area": 642,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1604,
+    "name": "SARIYER",
+    "population": 344250,
+    "area": 177,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1605,
+    "name": "SARIZ",
+    "population": 11278,
+    "area": 1173,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1606,
+    "name": "SARUHANLI",
+    "population": 57452,
+    "area": 771,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1607,
+    "name": "SASON",
+    "population": 31792,
+    "area": 706,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:03"
+  },
+  {
+    "districtID": 1608,
+    "name": "SAVAŞTEPE",
+    "population": 16787,
+    "area": 427,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1609,
+    "name": "SAVUR",
+    "population": 26173,
+    "area": 962,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1610,
+    "name": "SEBEN",
+    "population": 4807,
+    "area": 683,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1611,
+    "name": "SEFERİHİSAR",
+    "population": 58570,
+    "area": 375,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1612,
+    "name": "SELÇUK",
+    "population": 38467,
+    "area": 317,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1613,
+    "name": "SELENDİ",
+    "population": 19115,
+    "area": 726,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1614,
+    "name": "SELİM",
+    "population": 21178,
+    "area": 982,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:59"
+  },
+  {
+    "districtID": 1615,
+    "name": "SENİRKENT",
+    "population": 11196,
+    "area": 521,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:46"
+  },
+  {
+    "districtID": 1616,
+    "name": "SERİK",
+    "population": 141569,
+    "area": 1263,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 1617,
+    "name": "SEYDİŞEHİR",
+    "population": 65928,
+    "area": 1458,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1618,
+    "name": "SEYİTGAZİ",
+    "population": 13481,
+    "area": 1578,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 1619,
+    "name": "SINDIRGI",
+    "population": 32879,
+    "area": 1387,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1620,
+    "name": "MERKEZ",
+    "population": 184163,
+    "area": 633,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1621,
+    "name": "SİLİFKE",
+    "population": 137047,
+    "area": 2692,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1622,
+    "name": "SİLİVRİ",
+    "population": 221723,
+    "area": 858,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1623,
+    "name": "SİLOPİ",
+    "population": 148126,
+    "area": 831,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1624,
+    "name": "SİLVAN",
+    "population": 87707,
+    "area": 1252,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1625,
+    "name": "SİMAV",
+    "population": 61346,
+    "area": 1515,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1626,
+    "name": "SİNANPAŞA",
+    "population": 39566,
+    "area": 889,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1627,
+    "name": "MERKEZ",
+    "population": 69844,
+    "area": 442,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1628,
+    "name": "MERKEZ",
+    "population": 389719,
+    "area": 3488,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:42"
+  },
+  {
+    "districtID": 1629,
+    "name": "SİVASLI",
+    "population": 19939,
+    "area": 473,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1630,
+    "name": "SİVEREK",
+    "population": 271832,
+    "area": 3936,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 1631,
+    "name": "SİVRİCE",
+    "population": 10325,
+    "area": 710,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:26"
+  },
+  {
+    "districtID": 1632,
+    "name": "SİVRİHİSAR",
+    "population": 20478,
+    "area": 2748,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:32"
+  },
+  {
+    "districtID": 1633,
+    "name": "SOLHAN",
+    "population": 33651,
+    "area": 1032,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1634,
+    "name": "SOMA",
+    "population": 111276,
+    "area": 820,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1635,
+    "name": "SORGUN",
+    "population": 80618,
+    "area": 1768,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1636,
+    "name": "SÖĞÜT",
+    "population": 18844,
+    "area": 523,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:05"
+  },
+  {
+    "districtID": 1637,
+    "name": "SÖKE",
+    "population": 124217,
+    "area": 1064,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1638,
+    "name": "SULAKYURT",
+    "population": 6762,
+    "area": 708,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:06"
+  },
+  {
+    "districtID": 1639,
+    "name": "SULTANDAĞI",
+    "population": 14229,
+    "area": 928,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1640,
+    "name": "SULTANHİSAR",
+    "population": 20399,
+    "area": 220,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1641,
+    "name": "SULUOVA",
+    "population": 46986,
+    "area": 456,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1642,
+    "name": "SUNGURLU",
+    "population": 49086,
+    "area": 1999,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1643,
+    "name": "SURUÇ",
+    "population": 103621,
+    "area": 744,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 1644,
+    "name": "SUSURLUK",
+    "population": 38025,
+    "area": 652,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1645,
+    "name": "SUSUZ",
+    "population": 9052,
+    "area": 578,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:59"
+  },
+  {
+    "districtID": 1646,
+    "name": "SUŞEHRİ",
+    "population": 25295,
+    "area": 939,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:42"
+  },
+  {
+    "districtID": 1647,
+    "name": "SÜRMENE",
+    "population": 26127,
+    "area": 166,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1648,
+    "name": "SÜTÇÜLER",
+    "population": 10143,
+    "area": 1235,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:46"
+  },
+  {
+    "districtID": 1649,
+    "name": "ŞABANÖZÜ",
+    "population": 13192,
+    "area": 467,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1650,
+    "name": "ŞARKIŞLA",
+    "population": 37758,
+    "area": 2073,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:43"
+  },
+  {
+    "districtID": 1651,
+    "name": "ŞARKİKARAAĞAÇ",
+    "population": 24990,
+    "area": 1068,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:46"
+  },
+  {
+    "districtID": 1652,
+    "name": "ŞARKÖY",
+    "population": 34047,
+    "area": 487,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1653,
+    "name": "ŞAVŞAT",
+    "population": 16917,
+    "area": 1316,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1654,
+    "name": "ŞEBİNKARAHİSAR",
+    "population": 19948,
+    "area": 1396,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1655,
+    "name": "ŞEFAATLİ",
+    "population": 14594,
+    "area": 882,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1656,
+    "name": "ŞEMDİNLİ",
+    "population": 44742,
+    "area": 1209,
+    "provinceID": 30,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:41"
+  },
+  {
+    "districtID": 1657,
+    "name": "ŞENKAYA",
+    "population": 16112,
+    "area": 1381,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1658,
+    "name": "ŞEREFLİKOÇHİSAR",
+    "population": 34122,
+    "area": 2155,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1659,
+    "name": "ŞİLE",
+    "population": 48537,
+    "area": 800,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1660,
+    "name": "ŞİRAN",
+    "population": 20202,
+    "area": 965,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1661,
+    "name": "MERKEZ",
+    "population": 108699,
+    "area": 1701,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1662,
+    "name": "ŞİRVAN",
+    "population": 20779,
+    "area": 936,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1663,
+    "name": "ŞİŞLİ",
+    "population": 264736,
+    "area": 10,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1664,
+    "name": "ŞUHUT",
+    "population": 36071,
+    "area": 1044,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:45"
+  },
+  {
+    "districtID": 1665,
+    "name": "TARSUS",
+    "population": 353469,
+    "area": 2029,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 1666,
+    "name": "TAŞKÖPRÜ",
+    "population": 38372,
+    "area": 1758,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1667,
+    "name": "TAŞLIÇAY",
+    "population": 18781,
+    "area": 822,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1668,
+    "name": "TAŞOVA",
+    "population": 30882,
+    "area": 971,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1669,
+    "name": "TATVAN",
+    "population": 102036,
+    "area": 1885,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1670,
+    "name": "TAVAS",
+    "population": 41447,
+    "area": 1432,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1671,
+    "name": "TAVŞANLI",
+    "population": 100651,
+    "area": 1899,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1672,
+    "name": "TEFENNİ",
+    "population": 10546,
+    "area": 582,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1674,
+    "name": "TEKMAN",
+    "population": 22686,
+    "area": 2102,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1675,
+    "name": "TERCAN",
+    "population": 16573,
+    "area": 1614,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1676,
+    "name": "TERME",
+    "population": 73120,
+    "area": 548,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1677,
+    "name": "TİRE",
+    "population": 87935,
+    "area": 716,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1678,
+    "name": "TİREBOLU",
+    "population": 33459,
+    "area": 259,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1679,
+    "name": "MERKEZ",
+    "population": 207741,
+    "area": 2003,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1680,
+    "name": "TOMARZA",
+    "population": 22041,
+    "area": 1405,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1681,
+    "name": "TONYA",
+    "population": 14315,
+    "area": 176,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1682,
+    "name": "TORBALI",
+    "population": 214059,
+    "area": 577,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1683,
+    "name": "TORTUM",
+    "population": 17418,
+    "area": 1463,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1684,
+    "name": "TORUL",
+    "population": 12292,
+    "area": 973,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1685,
+    "name": "TOSYA",
+    "population": 39949,
+    "area": 1302,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1687,
+    "name": "TUFANBEYLİ",
+    "population": 17258,
+    "area": 851,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1688,
+    "name": "MERKEZ",
+    "population": 41389,
+    "area": 1128,
+    "provinceID": 62,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:54"
+  },
+  {
+    "districtID": 1689,
+    "name": "TURGUTLU",
+    "population": 177071,
+    "area": 549,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1690,
+    "name": "TURHAL",
+    "population": 78827,
+    "area": 940,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1691,
+    "name": "TUTAK",
+    "population": 27619,
+    "area": 1407,
+    "provinceID": 4,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1692,
+    "name": "TUZLUCA",
+    "population": 23584,
+    "area": 1270,
+    "provinceID": 76,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1693,
+    "name": "TÜRKELİ",
+    "population": 17211,
+    "area": 263,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:39"
+  },
+  {
+    "districtID": 1694,
+    "name": "TÜRKOĞLU",
+    "population": 74255,
+    "area": 660,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1695,
+    "name": "ULA",
+    "population": 27282,
+    "area": 479,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1696,
+    "name": "ULUBEY",
+    "population": 23033,
+    "area": 295,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1697,
+    "name": "ULUBEY",
+    "population": 12025,
+    "area": 828,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1698,
+    "name": "ULUDERE",
+    "population": 46740,
+    "area": 841,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1699,
+    "name": "ULUBORLU",
+    "population": 6426,
+    "area": 240,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:46"
+  },
+  {
+    "districtID": 1700,
+    "name": "ULUKIŞLA",
+    "population": 21044,
+    "area": 1375,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1701,
+    "name": "ULUS",
+    "population": 22809,
+    "area": 909,
+    "provinceID": 74,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1703,
+    "name": "URLA",
+    "population": 77599,
+    "area": 727,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1704,
+    "name": "MERKEZ",
+    "population": 265148,
+    "area": 1655,
+    "provinceID": 64,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1705,
+    "name": "UZUNKÖPRÜ",
+    "population": 59719,
+    "area": 1185,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1706,
+    "name": "ÜNYE",
+    "population": 132915,
+    "area": 569,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1707,
+    "name": "ÜRGÜP",
+    "population": 37215,
+    "area": 587,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1708,
+    "name": "ÜSKÜDAR",
+    "population": 517348,
+    "area": 35,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1709,
+    "name": "VAKFIKEBİR",
+    "population": 27339,
+    "area": 141,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1711,
+    "name": "VARTO",
+    "population": 30183,
+    "area": 1318,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1712,
+    "name": "VEZİRKÖPRÜ",
+    "population": 90388,
+    "area": 1674,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1713,
+    "name": "VİRANŞEHİR",
+    "population": 211065,
+    "area": 2297,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 1714,
+    "name": "VİZE",
+    "population": 29466,
+    "area": 1090,
+    "provinceID": 39,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1715,
+    "name": "YAHYALI",
+    "population": 36078,
+    "area": 1587,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1716,
+    "name": "MERKEZ",
+    "population": 155863,
+    "area": 139,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 1717,
+    "name": "YALVAÇ",
+    "population": 45694,
+    "area": 1402,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:46"
+  },
+  {
+    "districtID": 1718,
+    "name": "YAPRAKLI",
+    "population": 8608,
+    "area": 741,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1719,
+    "name": "YATAĞAN",
+    "population": 45614,
+    "area": 851,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1720,
+    "name": "YAVUZELİ",
+    "population": 23298,
+    "area": 468,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:35"
+  },
+  {
+    "districtID": 1721,
+    "name": "YAYLADAĞI",
+    "population": 41698,
+    "area": 445,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 1722,
+    "name": "YENİCE",
+    "population": 30396,
+    "area": 1381,
+    "provinceID": 17,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1723,
+    "name": "YENİMAHALLE",
+    "population": 701638,
+    "area": 219,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1724,
+    "name": "YENİPAZAR",
+    "population": 11998,
+    "area": 245,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 1725,
+    "name": "YENİŞEHİR",
+    "population": 55745,
+    "area": 720,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1726,
+    "name": "YERKÖY",
+    "population": 33377,
+    "area": 1164,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1727,
+    "name": "YEŞİLHİSAR",
+    "population": 15938,
+    "area": 913,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1728,
+    "name": "YEŞİLOVA",
+    "population": 14437,
+    "area": 1108,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1729,
+    "name": "YEŞİLYURT",
+    "population": 286918,
+    "area": 953,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1730,
+    "name": "YIĞILCA",
+    "population": 14948,
+    "area": 636,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:23"
+  },
+  {
+    "districtID": 1731,
+    "name": "YILDIZELİ",
+    "population": 31719,
+    "area": 2529,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:43"
+  },
+  {
+    "districtID": 1732,
+    "name": "YOMRA",
+    "population": 49721,
+    "area": 200,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1733,
+    "name": "MERKEZ",
+    "population": 110620,
+    "area": 2024,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1734,
+    "name": "YUMURTALIK",
+    "population": 18630,
+    "area": 447,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 1735,
+    "name": "YUNAK",
+    "population": 21290,
+    "area": 2101,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1736,
+    "name": "YUSUFELİ",
+    "population": 18802,
+    "area": 2261,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1737,
+    "name": "YÜKSEKOVA",
+    "population": 121969,
+    "area": 2547,
+    "provinceID": 30,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:41"
+  },
+  {
+    "districtID": 1738,
+    "name": "ZARA",
+    "population": 23873,
+    "area": 2616,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:43"
+  },
+  {
+    "districtID": 1739,
+    "name": "ZEYTİNBURNU",
+    "population": 280896,
+    "area": 12,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1740,
+    "name": "ZİLE",
+    "population": 53755,
+    "area": 1480,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1741,
+    "name": "MERKEZ",
+    "population": 117360,
+    "area": 272,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:28:00"
+  },
+  {
+    "districtID": 1742,
+    "name": "DALAMAN",
+    "population": 49044,
+    "area": 608,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1743,
+    "name": "DÜZİÇİ",
+    "population": 86616,
+    "area": 595,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 1744,
+    "name": "GÖLBAŞI",
+    "population": 157605,
+    "area": 1364,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1745,
+    "name": "KEÇİÖREN",
+    "population": 923404,
+    "area": 159,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1746,
+    "name": "MAMAK",
+    "population": 682279,
+    "area": 321,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1747,
+    "name": "SİNCAN",
+    "population": 571889,
+    "area": 880,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 1748,
+    "name": "YÜREĞİR",
+    "population": 402345,
+    "area": 835,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1749,
+    "name": "ACIGÖL",
+    "population": 19565,
+    "area": 456,
+    "provinceID": 50,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:25"
+  },
+  {
+    "districtID": 1750,
+    "name": "ADAKLI",
+    "population": 8863,
+    "area": 825,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:06"
+  },
+  {
+    "districtID": 1751,
+    "name": "AHMETLİ",
+    "population": 17370,
+    "area": 227,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1752,
+    "name": "AKKIŞLA",
+    "population": 6246,
+    "area": 371,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1753,
+    "name": "AKÖREN",
+    "population": 5902,
+    "area": 640,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1754,
+    "name": "AKPINAR",
+    "population": 7535,
+    "area": 582,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1755,
+    "name": "AKSU",
+    "population": 4135,
+    "area": 544,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:44"
+  },
+  {
+    "districtID": 1756,
+    "name": "AKYAKA",
+    "population": 9998,
+    "area": 417,
+    "provinceID": 36,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:58"
+  },
+  {
+    "districtID": 1757,
+    "name": "ALADAĞ",
+    "population": 16954,
+    "area": 1340,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 1758,
+    "name": "ALAPLI",
+    "population": 43417,
+    "area": 383,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1759,
+    "name": "ALPU",
+    "population": 10678,
+    "area": 1028,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1760,
+    "name": "ALTINEKİN",
+    "population": 14851,
+    "area": 1312,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1761,
+    "name": "AMASRA",
+    "population": 14552,
+    "area": 178,
+    "provinceID": 74,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:02"
+  },
+  {
+    "districtID": 1762,
+    "name": "ARICAK",
+    "population": 14970,
+    "area": 354,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1763,
+    "name": "ASARCIK",
+    "population": 16906,
+    "area": 253,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 1764,
+    "name": "ASLANAPA",
+    "population": 8485,
+    "area": 731,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1765,
+    "name": "ATKARACALAR",
+    "population": 5079,
+    "area": 234,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1766,
+    "name": "AYDINCIK",
+    "population": 11662,
+    "area": 352,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1767,
+    "name": "AYDINTEPE",
+    "population": 7070,
+    "area": 446,
+    "provinceID": 69,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:03"
+  },
+  {
+    "districtID": 1768,
+    "name": "AYRANCI",
+    "population": 7630,
+    "area": 2245,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1769,
+    "name": "BABADAĞ",
+    "population": 6424,
+    "area": 124,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1770,
+    "name": "BAHÇESARAY",
+    "population": 12983,
+    "area": 426,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1771,
+    "name": "BAŞMAKÇI",
+    "population": 9378,
+    "area": 361,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1772,
+    "name": "BATTALGAZİ",
+    "population": 269150,
+    "area": 947,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1773,
+    "name": "BAYAT",
+    "population": 7852,
+    "area": 411,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1774,
+    "name": "BEKİLLİ",
+    "population": 6565,
+    "area": 304,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1775,
+    "name": "BEŞİKDÜZÜ",
+    "population": 23568,
+    "area": 84,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1776,
+    "name": "BEYDAĞ",
+    "population": 12094,
+    "area": 172,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 1777,
+    "name": "BEYLİKOVA",
+    "population": 6016,
+    "area": 715,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1778,
+    "name": "BOĞAZKALE",
+    "population": 4068,
+    "area": 264,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1779,
+    "name": "BOZYAZI",
+    "population": 26985,
+    "area": 642,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1780,
+    "name": "BUCA",
+    "population": 523487,
+    "area": 178,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 1781,
+    "name": "BUHARKENT",
+    "population": 13187,
+    "area": 124,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1782,
+    "name": "BÜYÜKÇEKMECE",
+    "population": 276572,
+    "area": 173,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1783,
+    "name": "BÜYÜKORHAN",
+    "population": 10325,
+    "area": 505,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1784,
+    "name": "CUMAYERİ",
+    "population": 16091,
+    "area": 113,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1785,
+    "name": "ÇAĞLAYANCERİT",
+    "population": 23159,
+    "area": 470,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1786,
+    "name": "ÇALDIRAN",
+    "population": 56901,
+    "area": 1478,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1787,
+    "name": "DARGEÇİT",
+    "population": 28434,
+    "area": 519,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 1788,
+    "name": "DEMİRÖZÜ",
+    "population": 8072,
+    "area": 594,
+    "provinceID": 69,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1789,
+    "name": "DEREBUCAK",
+    "population": 5790,
+    "area": 451,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1790,
+    "name": "DUMLUPINAR",
+    "population": 2957,
+    "area": 250,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1791,
+    "name": "EĞİL",
+    "population": 23712,
+    "area": 449,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1792,
+    "name": "ERZİN",
+    "population": 42425,
+    "area": 258,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1793,
+    "name": "GÖLMARMARA",
+    "population": 15211,
+    "area": 310,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1794,
+    "name": "GÖLYAKA",
+    "population": 20962,
+    "area": 228,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1795,
+    "name": "GÜLYALI",
+    "population": 9243,
+    "area": 62,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1796,
+    "name": "GÜNEYSU",
+    "population": 15953,
+    "area": 159,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1797,
+    "name": "GÜRGENTEPE",
+    "population": 15543,
+    "area": 185,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1798,
+    "name": "GÜROYMAK",
+    "population": 49161,
+    "area": 515,
+    "provinceID": 13,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1799,
+    "name": "HARMANCIK",
+    "population": 6334,
+    "area": 400,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1800,
+    "name": "HARRAN",
+    "population": 98999,
+    "area": 904,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 1801,
+    "name": "HASKÖY",
+    "population": 27630,
+    "area": 264,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1802,
+    "name": "HİSARCIK",
+    "population": 10996,
+    "area": 370,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1803,
+    "name": "HONAZ",
+    "population": 34237,
+    "area": 449,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1804,
+    "name": "HÜYÜK",
+    "population": 15431,
+    "area": 443,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1805,
+    "name": "İHSANGAZİ",
+    "population": 5235,
+    "area": 445,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:01"
+  },
+  {
+    "districtID": 1806,
+    "name": "İMAMOĞLU",
+    "population": 27341,
+    "area": 445,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 1807,
+    "name": "İNCİRLİOVA",
+    "population": 56934,
+    "area": 188,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 1808,
+    "name": "İNÖNÜ",
+    "population": 6244,
+    "area": 345,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1809,
+    "name": "İSCEHİSAR",
+    "population": 25033,
+    "area": 489,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1810,
+    "name": "KAĞITHANE",
+    "population": 445672,
+    "area": 15,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 1811,
+    "name": "DEMRE",
+    "population": 27762,
+    "area": 329,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1812,
+    "name": "KARAÇOBAN",
+    "population": 21961,
+    "area": 571,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1813,
+    "name": "KARAMANLI",
+    "population": 8249,
+    "area": 372,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1814,
+    "name": "KARATAY",
+    "population": 375919,
+    "area": 2832,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1815,
+    "name": "KAHRAMANKAZAN",
+    "population": 60804,
+    "area": 547,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:51"
+  },
+  {
+    "districtID": 1816,
+    "name": "KEMER",
+    "population": 2888,
+    "area": 373,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1817,
+    "name": "KIZILIRMAK",
+    "population": 7703,
+    "area": 514,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1818,
+    "name": "KOCAALİ",
+    "population": 26523,
+    "area": 254,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1819,
+    "name": "KONAK",
+    "population": 327300,
+    "area": 24,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1820,
+    "name": "KOVANCILAR",
+    "population": 38988,
+    "area": 960,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1821,
+    "name": "KÖRFEZ",
+    "population": 180131,
+    "area": 301,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 1822,
+    "name": "KÖSE",
+    "population": 7261,
+    "area": 353,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1823,
+    "name": "KÜÇÜKÇEKMECE",
+    "population": 792030,
+    "area": 44,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1824,
+    "name": "MARMARA",
+    "population": 11454,
+    "area": 134,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:01"
+  },
+  {
+    "districtID": 1825,
+    "name": "MARMARAEREĞLİSİ",
+    "population": 31191,
+    "area": 175,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1826,
+    "name": "MENDERES",
+    "population": 109356,
+    "area": 777,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 1827,
+    "name": "MERAM",
+    "population": 347341,
+    "area": 1822,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1828,
+    "name": "MURGUL",
+    "population": 6319,
+    "area": 301,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 1829,
+    "name": "NİLÜFER",
+    "population": 543934,
+    "area": 552,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1830,
+    "name": "19 MAYIS",
+    "population": 27910,
+    "area": 234,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1831,
+    "name": "ORTACA",
+    "population": 56056,
+    "area": 285,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1832,
+    "name": "OSMANGAZİ",
+    "population": 885273,
+    "area": 621,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1833,
+    "name": "PAMUKOVA",
+    "population": 31205,
+    "area": 289,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1834,
+    "name": "PAZAR",
+    "population": 13419,
+    "area": 188,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1835,
+    "name": "PENDİK",
+    "population": 743774,
+    "area": 190,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 1836,
+    "name": "PINARBAŞI",
+    "population": 6970,
+    "area": 546,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1837,
+    "name": "PİRAZİZ",
+    "population": 15151,
+    "area": 127,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:39"
+  },
+  {
+    "districtID": 1838,
+    "name": "SALIPAZARI",
+    "population": 21243,
+    "area": 356,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1839,
+    "name": "SELÇUKLU",
+    "population": 695771,
+    "area": 1931,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1840,
+    "name": "SERİNHİSAR",
+    "population": 14591,
+    "area": 256,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1841,
+    "name": "ŞAHİNBEY",
+    "population": 939497,
+    "area": 960,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:34"
+  },
+  {
+    "districtID": 1842,
+    "name": "ŞALPAZARI",
+    "population": 11780,
+    "area": 161,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 1843,
+    "name": "ŞAPHANE",
+    "population": 5844,
+    "area": 229,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:16"
+  },
+  {
+    "districtID": 1844,
+    "name": "ŞEHİTKAMİL",
+    "population": 867193,
+    "area": 1290,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:35"
+  },
+  {
+    "districtID": 1845,
+    "name": "ŞENPAZAR",
+    "population": 4844,
+    "area": 252,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1846,
+    "name": "TALAS",
+    "population": 168172,
+    "area": 444,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1847,
+    "name": "TARAKLI",
+    "population": 7058,
+    "area": 292,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1848,
+    "name": "TAŞKENT",
+    "population": 6976,
+    "area": 457,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1849,
+    "name": "TEKKEKÖY",
+    "population": 58615,
+    "area": 326,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 1850,
+    "name": "UĞURLUDAĞ",
+    "population": 8333,
+    "area": 428,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1851,
+    "name": "UZUNDERE",
+    "population": 7973,
+    "area": 505,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1852,
+    "name": "ÜMRANİYE",
+    "population": 723760,
+    "area": 46,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 1853,
+    "name": "ÜZÜMLÜ",
+    "population": 14517,
+    "area": 591,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1854,
+    "name": "YAĞLIDERE",
+    "population": 15744,
+    "area": 327,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1855,
+    "name": "YAYLADERE",
+    "population": 2304,
+    "area": 417,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1856,
+    "name": "YENİCE",
+    "population": 20592,
+    "area": 777,
+    "provinceID": 78,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1857,
+    "name": "YENİPAZAR",
+    "population": 2895,
+    "area": 273,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:06"
+  },
+  {
+    "districtID": 1858,
+    "name": "YEŞİLYURT",
+    "population": 8356,
+    "area": 280,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1859,
+    "name": "YILDIRIM",
+    "population": 654491,
+    "area": 110,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:13"
+  },
+  {
+    "districtID": 1860,
+    "name": "AĞAÇÖREN",
+    "population": 7971,
+    "area": 407,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1861,
+    "name": "GÜZELYURT",
+    "population": 11675,
+    "area": 285,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1862,
+    "name": "KAZIMKARABEKİR",
+    "population": 4710,
+    "area": 423,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1863,
+    "name": "KOCASİNAN",
+    "population": 407600,
+    "area": 1471,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1864,
+    "name": "MELİKGAZİ",
+    "population": 585483,
+    "area": 668,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1865,
+    "name": "PAZARYOLU",
+    "population": 4290,
+    "area": 654,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 1866,
+    "name": "SARIYAHŞİ",
+    "population": 5804,
+    "area": 210,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1867,
+    "name": "AĞLI",
+    "population": 3521,
+    "area": 225,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:59"
+  },
+  {
+    "districtID": 1868,
+    "name": "AHIRLI",
+    "population": 5027,
+    "area": 325,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:11"
+  },
+  {
+    "districtID": 1869,
+    "name": "AKÇAKENT",
+    "population": 3792,
+    "area": 370,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1870,
+    "name": "AKINCILAR",
+    "population": 5111,
+    "area": 432,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:39"
+  },
+  {
+    "districtID": 1871,
+    "name": "PAMUKKALE",
+    "population": 346047,
+    "area": 823,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 1872,
+    "name": "AKYURT",
+    "population": 43918,
+    "area": 369,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1873,
+    "name": "ALACAKAYA",
+    "population": 6157,
+    "area": 318,
+    "provinceID": 23,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:25"
+  },
+  {
+    "districtID": 1874,
+    "name": "ALTINYAYLA",
+    "population": 5224,
+    "area": 221,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1875,
+    "name": "ALTINYAYLA",
+    "population": 8866,
+    "area": 654,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:39"
+  },
+  {
+    "districtID": 1876,
+    "name": "ALTUNHİSAR",
+    "population": 14225,
+    "area": 552,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1877,
+    "name": "AYDINCIK",
+    "population": 10208,
+    "area": 338,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 1878,
+    "name": "TİLLO",
+    "population": 4441,
+    "area": 138,
+    "provinceID": 56,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1879,
+    "name": "AYVACIK",
+    "population": 21090,
+    "area": 382,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 1880,
+    "name": "BAHŞILI",
+    "population": 8038,
+    "area": 266,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:04"
+  },
+  {
+    "districtID": 1881,
+    "name": "BAKLAN",
+    "population": 5457,
+    "area": 283,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1882,
+    "name": "BALIŞEYH",
+    "population": 7016,
+    "area": 623,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:05"
+  },
+  {
+    "districtID": 1883,
+    "name": "BAŞÇİFTLİK",
+    "population": 6216,
+    "area": 246,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 1884,
+    "name": "BAŞYAYLA",
+    "population": 3434,
+    "area": 141,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1885,
+    "name": "BAYRAMÖREN",
+    "population": 2740,
+    "area": 310,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:15"
+  },
+  {
+    "districtID": 1886,
+    "name": "BAYRAMPAŞA",
+    "population": 268850,
+    "area": 9,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 1887,
+    "name": "BELEN",
+    "population": 34430,
+    "area": 184,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1888,
+    "name": "BEYAĞAÇ",
+    "population": 6532,
+    "area": 333,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1889,
+    "name": "BOZKURT",
+    "population": 11000,
+    "area": 462,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:19"
+  },
+  {
+    "districtID": 1890,
+    "name": "BOZTEPE",
+    "population": 5539,
+    "area": 747,
+    "provinceID": 40,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:08"
+  },
+  {
+    "districtID": 1891,
+    "name": "ÇAMAŞ",
+    "population": 10232,
+    "area": 81,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1892,
+    "name": "ÇAMLIYAYLA",
+    "population": 8692,
+    "area": 602,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 1893,
+    "name": "ÇAMOLUK",
+    "population": 7254,
+    "area": 444,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:36"
+  },
+  {
+    "districtID": 1894,
+    "name": "ÇANAKÇI",
+    "population": 6917,
+    "area": 142,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:37"
+  },
+  {
+    "districtID": 1895,
+    "name": "ÇANDIR",
+    "population": 4434,
+    "area": 205,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1896,
+    "name": "ÇARŞIBAŞI",
+    "population": 15753,
+    "area": 66,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:51"
+  },
+  {
+    "districtID": 1897,
+    "name": "ÇATALPINAR",
+    "population": 14014,
+    "area": 101,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1898,
+    "name": "ÇAVDARHİSAR",
+    "population": 6073,
+    "area": 429,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1899,
+    "name": "ÇAVDIR",
+    "population": 13095,
+    "area": 482,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1900,
+    "name": "ÇAYBAŞI",
+    "population": 12625,
+    "area": 102,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 1901,
+    "name": "ÇELEBİ",
+    "population": 3954,
+    "area": 223,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:05"
+  },
+  {
+    "districtID": 1902,
+    "name": "ÇELTİK",
+    "population": 10324,
+    "area": 640,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1903,
+    "name": "ÇELTİKÇİ",
+    "population": 5337,
+    "area": 161,
+    "provinceID": 15,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:11"
+  },
+  {
+    "districtID": 1904,
+    "name": "ÇİFTLİK",
+    "population": 28780,
+    "area": 400,
+    "provinceID": 51,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:26"
+  },
+  {
+    "districtID": 1905,
+    "name": "ÇİLİMLİ",
+    "population": 19097,
+    "area": 85,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 1906,
+    "name": "ÇOBANLAR",
+    "population": 14404,
+    "area": 165,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1907,
+    "name": "DERBENT",
+    "population": 4160,
+    "area": 359,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1908,
+    "name": "DEREPAZARI",
+    "population": 7732,
+    "area": 28,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:31"
+  },
+  {
+    "districtID": 1909,
+    "name": "DERNEKPAZARI",
+    "population": 4294,
+    "area": 89,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1910,
+    "name": "DİKMEN",
+    "population": 5156,
+    "area": 411,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1911,
+    "name": "DODURGA",
+    "population": 5786,
+    "area": 229,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1912,
+    "name": "DOĞANKENT",
+    "population": 6539,
+    "area": 110,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:37"
+  },
+  {
+    "districtID": 1913,
+    "name": "DOĞANŞAR",
+    "population": 3216,
+    "area": 370,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:39"
+  },
+  {
+    "districtID": 1914,
+    "name": "DOĞANYOL",
+    "population": 4436,
+    "area": 177,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1915,
+    "name": "DOĞANYURT",
+    "population": 5433,
+    "area": 193,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:01"
+  },
+  {
+    "districtID": 1916,
+    "name": "DÖRTDİVAN",
+    "population": 6703,
+    "area": 634,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:08"
+  },
+  {
+    "districtID": 1917,
+    "name": "DÜZKÖY",
+    "population": 14142,
+    "area": 125,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1918,
+    "name": "EDREMİT",
+    "population": 129604,
+    "area": 515,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:55"
+  },
+  {
+    "districtID": 1919,
+    "name": "EKİNÖZÜ",
+    "population": 10471,
+    "area": 656,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 1920,
+    "name": "EMİRGAZİ",
+    "population": 7945,
+    "area": 798,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1921,
+    "name": "ESKİL",
+    "population": 27795,
+    "area": 1701,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:46"
+  },
+  {
+    "districtID": 1922,
+    "name": "ETİMESGUT",
+    "population": 617229,
+    "area": 273,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:50"
+  },
+  {
+    "districtID": 1923,
+    "name": "EVCİLER",
+    "population": 7173,
+    "area": 252,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1924,
+    "name": "EVREN",
+    "population": 3581,
+    "area": 222,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:50"
+  },
+  {
+    "districtID": 1925,
+    "name": "FERİZLİ",
+    "population": 32752,
+    "area": 173,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 1926,
+    "name": "GÖKÇEBEY",
+    "population": 21344,
+    "area": 183,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 1927,
+    "name": "GÖLOVA",
+    "population": 3614,
+    "area": 286,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:40"
+  },
+  {
+    "districtID": 1928,
+    "name": "GÖMEÇ",
+    "population": 17556,
+    "area": 171,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 1929,
+    "name": "GÖNEN",
+    "population": 7094,
+    "area": 285,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:45"
+  },
+  {
+    "districtID": 1930,
+    "name": "GÜCE",
+    "population": 8574,
+    "area": 351,
+    "provinceID": 28,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:39"
+  },
+  {
+    "districtID": 1931,
+    "name": "GÜÇLÜKONAK",
+    "population": 12830,
+    "area": 466,
+    "provinceID": 73,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:47"
+  },
+  {
+    "districtID": 1932,
+    "name": "GÜLAĞAÇ",
+    "population": 20120,
+    "area": 326,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 1933,
+    "name": "GÜNEYSINIR",
+    "population": 9415,
+    "area": 482,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:12"
+  },
+  {
+    "districtID": 1934,
+    "name": "GÜNYÜZÜ",
+    "population": 5679,
+    "area": 828,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1935,
+    "name": "GÜRSU",
+    "population": 103770,
+    "area": 106,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1936,
+    "name": "HACILAR",
+    "population": 12979,
+    "area": 187,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1937,
+    "name": "HALKAPINAR",
+    "population": 4183,
+    "area": 605,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:13"
+  },
+  {
+    "districtID": 1938,
+    "name": "HAMAMÖZÜ",
+    "population": 4003,
+    "area": 204,
+    "provinceID": 5,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:48"
+  },
+  {
+    "districtID": 1939,
+    "name": "HAN",
+    "population": 2352,
+    "area": 378,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 1940,
+    "name": "HANÖNÜ",
+    "population": 4395,
+    "area": 417,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:01"
+  },
+  {
+    "districtID": 1941,
+    "name": "HASANKEYF",
+    "population": 7969,
+    "area": 293,
+    "provinceID": 72,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:03"
+  },
+  {
+    "districtID": 1942,
+    "name": "HAYRAT",
+    "population": 9337,
+    "area": 244,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1943,
+    "name": "HEMŞİN",
+    "population": 2499,
+    "area": 134,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1944,
+    "name": "HOCALAR",
+    "population": 8644,
+    "area": 506,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1945,
+    "name": "AZİZİYE",
+    "population": 68251,
+    "area": 1529,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1946,
+    "name": "İBRADI",
+    "population": 4243,
+    "area": 778,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 1947,
+    "name": "İKİZCE",
+    "population": 14013,
+    "area": 148,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1948,
+    "name": "İNHİSAR",
+    "population": 2377,
+    "area": 244,
+    "provinceID": 11,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:04"
+  },
+  {
+    "districtID": 1949,
+    "name": "İYİDERE",
+    "population": 9366,
+    "area": 28,
+    "provinceID": 53,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 1950,
+    "name": "KABADÜZ",
+    "population": 7548,
+    "area": 343,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1951,
+    "name": "KABATAŞ",
+    "population": 11011,
+    "area": 74,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:28"
+  },
+  {
+    "districtID": 1952,
+    "name": "KADIŞEHRİ",
+    "population": 10612,
+    "area": 472,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1953,
+    "name": "KALE",
+    "population": 6492,
+    "area": 237,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1954,
+    "name": "KARAKEÇİLİ",
+    "population": 3659,
+    "area": 137,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:05"
+  },
+  {
+    "districtID": 1955,
+    "name": "KARAPÜRÇEK",
+    "population": 13713,
+    "area": 142,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 1956,
+    "name": "KARKAMIŞ",
+    "population": 10265,
+    "area": 298,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:32"
+  },
+  {
+    "districtID": 1957,
+    "name": "KARPUZLU",
+    "population": 10616,
+    "area": 286,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1958,
+    "name": "KAVAKLIDERE",
+    "population": 10975,
+    "area": 302,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 1959,
+    "name": "KEMER",
+    "population": 49695,
+    "area": 412,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 1960,
+    "name": "KESTEL",
+    "population": 75954,
+    "area": 396,
+    "provinceID": 16,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:12"
+  },
+  {
+    "districtID": 1961,
+    "name": "KIZILÖREN",
+    "population": 2107,
+    "area": 111,
+    "provinceID": 3,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:44"
+  },
+  {
+    "districtID": 1962,
+    "name": "KOCAKÖY",
+    "population": 15537,
+    "area": 248,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 1963,
+    "name": "KORGUN",
+    "population": 4226,
+    "area": 378,
+    "provinceID": 18,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:16"
+  },
+  {
+    "districtID": 1964,
+    "name": "KORKUT",
+    "population": 23193,
+    "area": 775,
+    "provinceID": 49,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:24"
+  },
+  {
+    "districtID": 1965,
+    "name": "KÖPRÜBAŞI",
+    "population": 12752,
+    "area": 447,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:19"
+  },
+  {
+    "districtID": 1966,
+    "name": "KÖPRÜBAŞI",
+    "population": 4776,
+    "area": 189,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:52"
+  },
+  {
+    "districtID": 1967,
+    "name": "KÖPRÜKÖY",
+    "population": 14184,
+    "area": 777,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:28"
+  },
+  {
+    "districtID": 1968,
+    "name": "KÖŞK",
+    "population": 28440,
+    "area": 187,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:58"
+  },
+  {
+    "districtID": 1969,
+    "name": "KULUNCAK",
+    "population": 8549,
+    "area": 645,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:17"
+  },
+  {
+    "districtID": 1970,
+    "name": "KUMLU",
+    "population": 14971,
+    "area": 193,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 1971,
+    "name": "KÜRTÜN",
+    "population": 13406,
+    "area": 917,
+    "provinceID": 29,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:40"
+  },
+  {
+    "districtID": 1972,
+    "name": "LAÇİN",
+    "population": 4883,
+    "area": 196,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:17"
+  },
+  {
+    "districtID": 1973,
+    "name": "MİHALGAZİ",
+    "population": 3037,
+    "area": 109,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 1974,
+    "name": "NURDAĞI",
+    "population": 39465,
+    "area": 697,
+    "provinceID": 27,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:33"
+  },
+  {
+    "districtID": 1975,
+    "name": "NURHAK",
+    "population": 11984,
+    "area": 1028,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 1976,
+    "name": "OĞUZLAR",
+    "population": 5240,
+    "area": 121,
+    "provinceID": 19,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:18"
+  },
+  {
+    "districtID": 1977,
+    "name": "OTLUKBELİ",
+    "population": 2423,
+    "area": 320,
+    "provinceID": 24,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:27"
+  },
+  {
+    "districtID": 1978,
+    "name": "ÖZVATAN",
+    "population": 4523,
+    "area": 270,
+    "provinceID": 38,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:03"
+  },
+  {
+    "districtID": 1979,
+    "name": "PAZARLAR",
+    "population": 5064,
+    "area": 115,
+    "provinceID": 43,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:15"
+  },
+  {
+    "districtID": 1980,
+    "name": "SARAY",
+    "population": 18779,
+    "area": 872,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 1981,
+    "name": "SARAYDÜZÜ",
+    "population": 6642,
+    "area": 334,
+    "provinceID": 57,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:38"
+  },
+  {
+    "districtID": 1982,
+    "name": "SARAYKENT",
+    "population": 11828,
+    "area": 319,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:58"
+  },
+  {
+    "districtID": 1983,
+    "name": "SARIVELİLER",
+    "population": 11884,
+    "area": 590,
+    "provinceID": 70,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:57"
+  },
+  {
+    "districtID": 1984,
+    "name": "SEYDİLER",
+    "population": 4796,
+    "area": 233,
+    "provinceID": 37,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:02"
+  },
+  {
+    "districtID": 1985,
+    "name": "SİNCİK",
+    "population": 16477,
+    "area": 495,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:42"
+  },
+  {
+    "districtID": 1986,
+    "name": "SÖĞÜTLÜ",
+    "population": 15411,
+    "area": 145,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 1987,
+    "name": "SULUSARAY",
+    "population": 6698,
+    "area": 266,
+    "provinceID": 60,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:50"
+  },
+  {
+    "districtID": 1988,
+    "name": "SÜLOĞLU",
+    "population": 6405,
+    "area": 342,
+    "provinceID": 22,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:24"
+  },
+  {
+    "districtID": 1989,
+    "name": "TUT",
+    "population": 9635,
+    "area": 290,
+    "provinceID": 2,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:43"
+  },
+  {
+    "districtID": 1990,
+    "name": "TUZLUKÇU",
+    "population": 6546,
+    "area": 704,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1991,
+    "name": "ULAŞ",
+    "population": 8879,
+    "area": 1092,
+    "provinceID": 58,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:43"
+  },
+  {
+    "districtID": 1992,
+    "name": "YAHŞİHAN",
+    "population": 39731,
+    "area": 304,
+    "provinceID": 71,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:06"
+  },
+  {
+    "districtID": 1993,
+    "name": "YAKAKENT",
+    "population": 9145,
+    "area": 204,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:37"
+  },
+  {
+    "districtID": 1994,
+    "name": "YALIHÜYÜK",
+    "population": 1854,
+    "area": 94,
+    "provinceID": 42,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:14"
+  },
+  {
+    "districtID": 1995,
+    "name": "YAZIHAN",
+    "population": 16370,
+    "area": 653,
+    "provinceID": 44,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:18"
+  },
+  {
+    "districtID": 1996,
+    "name": "YEDİSU",
+    "population": 2798,
+    "area": 423,
+    "provinceID": 12,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:07"
+  },
+  {
+    "districtID": 1997,
+    "name": "YENİÇAĞA",
+    "population": 6809,
+    "area": 163,
+    "provinceID": 14,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:10"
+  },
+  {
+    "districtID": 1998,
+    "name": "YENİFAKILI",
+    "population": 5383,
+    "area": 390,
+    "provinceID": 66,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:59"
+  },
+  {
+    "districtID": 2000,
+    "name": "DİDİM",
+    "population": 100189,
+    "area": 424,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 2001,
+    "name": "YENİŞARBADEMLİ",
+    "population": 2495,
+    "area": 237,
+    "provinceID": 32,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2002,
+    "name": "YEŞİLLİ",
+    "population": 13494,
+    "area": 168,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 2003,
+    "name": "AVCILAR",
+    "population": 437221,
+    "area": 50,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2004,
+    "name": "BAĞCILAR",
+    "population": 719071,
+    "area": 23,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2005,
+    "name": "BAHÇELİEVLER",
+    "population": 567848,
+    "area": 17,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2006,
+    "name": "BALÇOVA",
+    "population": 77831,
+    "area": 16,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 2007,
+    "name": "ÇİĞLİ",
+    "population": 215172,
+    "area": 139,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:52"
+  },
+  {
+    "districtID": 2008,
+    "name": "DAMAL",
+    "population": 4757,
+    "area": 165,
+    "provinceID": 75,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 2009,
+    "name": "GAZİEMİR",
+    "population": 137768,
+    "area": 70,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 2010,
+    "name": "GÜNGÖREN",
+    "population": 269944,
+    "area": 7,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 2011,
+    "name": "KARAKOYUNLU",
+    "population": 13116,
+    "area": 269,
+    "provinceID": 76,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:43"
+  },
+  {
+    "districtID": 2012,
+    "name": "MALTEPE",
+    "population": 523137,
+    "area": 53,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 2013,
+    "name": "NARLIDERE",
+    "population": 62148,
+    "area": 50,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:54"
+  },
+  {
+    "districtID": 2014,
+    "name": "SULTANBEYLİ",
+    "population": 360702,
+    "area": 29,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 2015,
+    "name": "TUZLA",
+    "population": 293604,
+    "area": 138,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 2016,
+    "name": "ESENLER",
+    "population": 427901,
+    "area": 19,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 2017,
+    "name": "GÜMÜŞOVA",
+    "population": 17198,
+    "area": 103,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:23"
+  },
+  {
+    "districtID": 2018,
+    "name": "GÜZELBAHÇE",
+    "population": 38044,
+    "area": 77,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 2019,
+    "name": "ALTINOVA",
+    "population": 33680,
+    "area": 113,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 2020,
+    "name": "ARMUTLU",
+    "population": 11729,
+    "area": 166,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 2021,
+    "name": "ÇINARCIK",
+    "population": 42078,
+    "area": 178,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 2022,
+    "name": "ÇİFTLİKKÖY",
+    "population": 53858,
+    "area": 136,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 2023,
+    "name": "ELBEYLİ",
+    "population": 6252,
+    "area": 238,
+    "provinceID": 79,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2024,
+    "name": "MUSABEYLİ",
+    "population": 13108,
+    "area": 346,
+    "provinceID": 79,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2025,
+    "name": "POLATELİ",
+    "population": 5154,
+    "area": 218,
+    "provinceID": 79,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2026,
+    "name": "TERMAL",
+    "population": 7572,
+    "area": 67,
+    "provinceID": 77,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:57"
+  },
+  {
+    "districtID": 2027,
+    "name": "HASANBEYLİ",
+    "population": 5455,
+    "area": 168,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:29"
+  },
+  {
+    "districtID": 2028,
+    "name": "SUMBAS",
+    "population": 13375,
+    "area": 358,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:30"
+  },
+  {
+    "districtID": 2029,
+    "name": "TOPRAKKALE",
+    "population": 21421,
+    "area": 112,
+    "provinceID": 80,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:27:30"
+  },
+  {
+    "districtID": 2030,
+    "name": "DERİNCE",
+    "population": 146409,
+    "area": 198,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 2031,
+    "name": "KAYNAŞLI",
+    "population": 20679,
+    "area": 237,
+    "provinceID": 81,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:23"
+  },
+  {
+    "districtID": 2032,
+    "name": "SARIÇAM",
+    "population": 236298,
+    "area": 770,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:41"
+  },
+  {
+    "districtID": 2033,
+    "name": "ÇUKUROVA",
+    "population": 374205,
+    "area": 250,
+    "provinceID": 1,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:40"
+  },
+  {
+    "districtID": 2034,
+    "name": "PURSAKLAR",
+    "population": 161926,
+    "area": 169,
+    "provinceID": 6,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:52"
+  },
+  {
+    "districtID": 2035,
+    "name": "AKSU",
+    "population": 80350,
+    "area": 406,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 2036,
+    "name": "DÖŞEMEALTI",
+    "population": 86109,
+    "area": 687,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:53"
+  },
+  {
+    "districtID": 2037,
+    "name": "KEPEZ",
+    "population": 614135,
+    "area": 292,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 2038,
+    "name": "KONYAALTI",
+    "population": 196498,
+    "area": 546,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:54"
+  },
+  {
+    "districtID": 2039,
+    "name": "MURATPAŞA",
+    "population": 512700,
+    "area": 96,
+    "provinceID": 7,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:55"
+  },
+  {
+    "districtID": 2040,
+    "name": "BAĞLAR",
+    "population": 394338,
+    "area": 429,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 2041,
+    "name": "KAYAPINAR",
+    "population": 425143,
+    "area": 480,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:21"
+  },
+  {
+    "districtID": 2042,
+    "name": "SUR",
+    "population": 98938,
+    "area": 1227,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 2043,
+    "name": "YENİŞEHİR",
+    "population": 223446,
+    "area": 358,
+    "provinceID": 21,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:22"
+  },
+  {
+    "districtID": 2044,
+    "name": "PALANDÖKEN",
+    "population": 177109,
+    "area": 667,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:29"
+  },
+  {
+    "districtID": 2045,
+    "name": "YAKUTİYE",
+    "population": 186066,
+    "area": 945,
+    "provinceID": 25,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:30"
+  },
+  {
+    "districtID": 2046,
+    "name": "ODUNPAZARI",
+    "population": 421469,
+    "area": 1120,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:31"
+  },
+  {
+    "districtID": 2047,
+    "name": "TEPEBAŞI",
+    "population": 390116,
+    "area": 1403,
+    "provinceID": 26,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:32"
+  },
+  {
+    "districtID": 2048,
+    "name": "ARNAVUTKÖY",
+    "population": 336062,
+    "area": 453,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2049,
+    "name": "ATAŞEHİR",
+    "population": 416529,
+    "area": 25,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:47"
+  },
+  {
+    "districtID": 2050,
+    "name": "BAŞAKŞEHİR",
+    "population": 509915,
+    "area": 107,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 2051,
+    "name": "BEYLİKDÜZÜ",
+    "population": 409347,
+    "area": 39,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:48"
+  },
+  {
+    "districtID": 2052,
+    "name": "ÇEKMEKÖY",
+    "population": 299806,
+    "area": 152,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 2053,
+    "name": "ESENYURT",
+    "population": 978007,
+    "area": 43,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:49"
+  },
+  {
+    "districtID": 2054,
+    "name": "SANCAKTEPE",
+    "population": 492804,
+    "area": 63,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 2055,
+    "name": "SULTANGAZİ",
+    "population": 532802,
+    "area": 37,
+    "provinceID": 34,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:50"
+  },
+  {
+    "districtID": 2056,
+    "name": "BAYRAKLI",
+    "population": 300949,
+    "area": 30,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:51"
+  },
+  {
+    "districtID": 2057,
+    "name": "KARABAĞLAR",
+    "population": 476500,
+    "area": 89,
+    "provinceID": 35,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:53"
+  },
+  {
+    "districtID": 2058,
+    "name": "BAŞİSKELE",
+    "population": 121278,
+    "area": 209,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2059,
+    "name": "ÇAYIROVA",
+    "population": 153301,
+    "area": 23,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2060,
+    "name": "DARICA",
+    "population": 227892,
+    "area": 23,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:09"
+  },
+  {
+    "districtID": 2061,
+    "name": "DİLOVASI",
+    "population": 54391,
+    "area": 125,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 2062,
+    "name": "İZMİT",
+    "population": 378656,
+    "area": 480,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 2063,
+    "name": "KARTEPE",
+    "population": 142175,
+    "area": 301,
+    "provinceID": 41,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:10"
+  },
+  {
+    "districtID": 2064,
+    "name": "AKDENİZ",
+    "population": 260879,
+    "area": 265,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:21"
+  },
+  {
+    "districtID": 2065,
+    "name": "MEZİTLİ",
+    "population": 223424,
+    "area": 371,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 2066,
+    "name": "TOROSLAR",
+    "population": 320377,
+    "area": 1075,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 2067,
+    "name": "YENİŞEHİR",
+    "population": 277445,
+    "area": 139,
+    "provinceID": 33,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:22"
+  },
+  {
+    "districtID": 2068,
+    "name": "ADAPAZARI",
+    "population": 279431,
+    "area": 324,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:32"
+  },
+  {
+    "districtID": 2069,
+    "name": "ARİFİYE",
+    "population": 51467,
+    "area": 75,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 2070,
+    "name": "ERENLER",
+    "population": 91611,
+    "area": 136,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:33"
+  },
+  {
+    "districtID": 2071,
+    "name": "SERDİVAN",
+    "population": 164222,
+    "area": 130,
+    "provinceID": 54,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:34"
+  },
+  {
+    "districtID": 2072,
+    "name": "ATAKUM",
+    "population": 245328,
+    "area": 351,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 2073,
+    "name": "CANİK",
+    "population": 100040,
+    "area": 264,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:35"
+  },
+  {
+    "districtID": 2074,
+    "name": "İLKADIM",
+    "population": 322228,
+    "area": 155,
+    "provinceID": 55,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:36"
+  },
+  {
+    "districtID": 2076,
+    "name": "EFELER",
+    "population": 308039,
+    "area": 624,
+    "provinceID": 9,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:57"
+  },
+  {
+    "districtID": 2077,
+    "name": "ALTIEYLÜL",
+    "population": 185458,
+    "area": 956,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:25:59"
+  },
+  {
+    "districtID": 2078,
+    "name": "KARESİ",
+    "population": 188846,
+    "area": 695,
+    "provinceID": 10,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:00"
+  },
+  {
+    "districtID": 2079,
+    "name": "MERKEZEFENDİ",
+    "population": 340400,
+    "area": 336,
+    "provinceID": 20,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:20"
+  },
+  {
+    "districtID": 2080,
+    "name": "ANTAKYA",
+    "population": 298620,
+    "area": 703,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:41"
+  },
+  {
+    "districtID": 2081,
+    "name": "ARSUZ",
+    "population": 106118,
+    "area": 462,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 2082,
+    "name": "DEFNE",
+    "population": 142146,
+    "area": 155,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 2083,
+    "name": "PAYAS",
+    "population": 44131,
+    "area": 157,
+    "provinceID": 31,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:42"
+  },
+  {
+    "districtID": 2084,
+    "name": "DULKADİROĞLU",
+    "population": 214608,
+    "area": 1176,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:55"
+  },
+  {
+    "districtID": 2085,
+    "name": "ONİKİŞUBAT",
+    "population": 427272,
+    "area": 2429,
+    "provinceID": 46,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:26:56"
+  },
+  {
+    "districtID": 2086,
+    "name": "ŞEHZADELER",
+    "population": 166541,
+    "area": 515,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 2087,
+    "name": "YUNUSEMRE",
+    "population": 270726,
+    "area": 823,
+    "provinceID": 45,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 2088,
+    "name": "ARTUKLU",
+    "population": 194073,
+    "area": 885,
+    "provinceID": 47,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:20"
+  },
+  {
+    "districtID": 2089,
+    "name": "MENTEŞE",
+    "population": 123227,
+    "area": 1659,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 2090,
+    "name": "SEYDİKEMER",
+    "population": 65851,
+    "area": 2208,
+    "provinceID": 48,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:23"
+  },
+  {
+    "districtID": 2091,
+    "name": "EYYÜBİYE",
+    "population": 400084,
+    "area": 1626,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:45"
+  },
+  {
+    "districtID": 2092,
+    "name": "HALİLİYE",
+    "population": 392600,
+    "area": 1924,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:45"
+  },
+  {
+    "districtID": 2093,
+    "name": "KARAKÖPRÜ",
+    "population": 277160,
+    "area": 1222,
+    "provinceID": 63,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:46"
+  },
+  {
+    "districtID": 2094,
+    "name": "ERGENE",
+    "population": 68695,
+    "area": 418,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 2095,
+    "name": "KAPAKLI",
+    "population": 142662,
+    "area": 182,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:48"
+  },
+  {
+    "districtID": 2096,
+    "name": "SÜLEYMANPAŞA",
+    "population": 219230,
+    "area": 1053,
+    "provinceID": 59,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:49"
+  },
+  {
+    "districtID": 2097,
+    "name": "ORTAHİSAR",
+    "population": 322702,
+    "area": 235,
+    "provinceID": 61,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:53"
+  },
+  {
+    "districtID": 2098,
+    "name": "İPEKYOLU",
+    "population": 350708,
+    "area": 956,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 2099,
+    "name": "TUŞBA",
+    "population": 164451,
+    "area": 1948,
+    "provinceID": 65,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:56"
+  },
+  {
+    "districtID": 2100,
+    "name": "KİLİMLİ",
+    "population": 33639,
+    "area": 145,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:28:00"
+  },
+  {
+    "districtID": 2101,
+    "name": "KOZLU",
+    "population": 50908,
+    "area": 177,
+    "provinceID": 67,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:28:00"
+  },
+  {
+    "districtID": 2103,
+    "name": "ALTINORDU",
+    "population": 225349,
+    "area": 410,
+    "provinceID": 52,
+    "municipalityType": 1,
+    "last_updated": "2024-03-08 11:27:27"
+  },
+  {
+    "districtID": 2105,
+    "name": "KEMALPAŞA",
+    "population": 9688,
+    "area": 74,
+    "provinceID": 8,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:56"
+  },
+  {
+    "districtID": 2106,
+    "name": "SULTANHANI",
+    "population": 12366,
+    "area": 463,
+    "provinceID": 68,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:25:47"
+  },
+  {
+    "districtID": 2107,
+    "name": "DERECİK",
+    "population": 25907,
+    "area": 435,
+    "provinceID": 30,
+    "municipalityType": 0,
+    "last_updated": "2024-03-08 11:26:41"
+  }
+]
