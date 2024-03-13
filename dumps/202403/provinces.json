@@ -1,0 +1,650 @@
+[
+  {
+    "provinceID": 1,
+    "name": "ADANA",
+    "population": 2270298,
+    "area": 13844,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:54"
+  },
+  {
+    "provinceID": 2,
+    "name": "ADIYAMAN",
+    "population": 604978,
+    "area": 7337,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:54"
+  },
+  {
+    "provinceID": 3,
+    "name": "AFYONKARAHİSAR",
+    "population": 751344,
+    "area": 14016,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:54"
+  },
+  {
+    "provinceID": 4,
+    "name": "AĞRI",
+    "population": 511238,
+    "area": 11099,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:54"
+  },
+  {
+    "provinceID": 5,
+    "name": "AMASYA",
+    "population": 339529,
+    "area": 5628,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 6,
+    "name": "ANKARA",
+    "population": 5803482,
+    "area": 25632,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 7,
+    "name": "ANTALYA",
+    "population": 2696249,
+    "area": 20177,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 8,
+    "name": "ARTVİN",
+    "population": 172356,
+    "area": 7393,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 9,
+    "name": "AYDIN",
+    "population": 1161702,
+    "area": 8116,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 10,
+    "name": "BALIKESİR",
+    "population": 1273519,
+    "area": 14583,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 11,
+    "name": "BİLECİK",
+    "population": 228058,
+    "area": 4179,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 12,
+    "name": "BİNGÖL",
+    "population": 285655,
+    "area": 8003,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 13,
+    "name": "BİTLİS",
+    "population": 359747,
+    "area": 8294,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 14,
+    "name": "BOLU",
+    "population": 324789,
+    "area": 8313,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 15,
+    "name": "BURDUR",
+    "population": 277452,
+    "area": 7175,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 16,
+    "name": "BURSA",
+    "population": 3214571,
+    "area": 10813,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 17,
+    "name": "ÇANAKKALE",
+    "population": 570499,
+    "area": 9817,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 18,
+    "name": "ÇANKIRI",
+    "population": 205501,
+    "area": 7542,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 19,
+    "name": "ÇORUM",
+    "population": 528351,
+    "area": 12428,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 20,
+    "name": "DENİZLİ",
+    "population": 1059082,
+    "area": 12134,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 21,
+    "name": "DİYARBAKIR",
+    "population": 1818133,
+    "area": 15101,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 22,
+    "name": "EDİRNE",
+    "population": 419913,
+    "area": 6145,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 23,
+    "name": "ELAZIĞ",
+    "population": 604411,
+    "area": 9383,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 24,
+    "name": "ERZİNCAN",
+    "population": 243399,
+    "area": 11815,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:57"
+  },
+  {
+    "provinceID": 25,
+    "name": "ERZURUM",
+    "population": 749993,
+    "area": 25006,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 26,
+    "name": "ESKİŞEHİR",
+    "population": 915418,
+    "area": 13960,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 27,
+    "name": "GAZİANTEP",
+    "population": 2164134,
+    "area": 6803,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 28,
+    "name": "GİRESUN",
+    "population": 461712,
+    "area": 6972,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 29,
+    "name": "GÜMÜŞHANE",
+    "population": 148539,
+    "area": 6668,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 30,
+    "name": "HAKKARİ",
+    "population": 287625,
+    "area": 7095,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 31,
+    "name": "HATAY",
+    "population": 1544640,
+    "area": 5524,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 32,
+    "name": "ISPARTA",
+    "population": 449777,
+    "area": 8946,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 33,
+    "name": "MERSİN",
+    "population": 1938389,
+    "area": 16010,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 34,
+    "name": "İSTANBUL",
+    "population": 15655924,
+    "area": 5461,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 35,
+    "name": "İZMİR",
+    "population": 4479525,
+    "area": 11891,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 36,
+    "name": "KARS",
+    "population": 278335,
+    "area": 10193,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 37,
+    "name": "KASTAMONU",
+    "population": 388990,
+    "area": 13064,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 38,
+    "name": "KAYSERİ",
+    "population": 1445683,
+    "area": 16970,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 39,
+    "name": "KIRKLARELİ",
+    "population": 377156,
+    "area": 6459,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 40,
+    "name": "KIRŞEHİR",
+    "population": 247179,
+    "area": 6584,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 41,
+    "name": "KOCAELİ",
+    "population": 2102907,
+    "area": 3397,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 42,
+    "name": "KONYA",
+    "population": 2320241,
+    "area": 40838,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 43,
+    "name": "KÜTAHYA",
+    "population": 575674,
+    "area": 11634,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 44,
+    "name": "MALATYA",
+    "population": 742725,
+    "area": 12259,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 45,
+    "name": "MANİSA",
+    "population": 1475716,
+    "area": 13339,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 46,
+    "name": "KAHRAMANMARAŞ",
+    "population": 1116618,
+    "area": 14520,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 47,
+    "name": "MARDİN",
+    "population": 888874,
+    "area": 8780,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 48,
+    "name": "MUĞLA",
+    "population": 1066736,
+    "area": 12654,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 49,
+    "name": "MUŞ",
+    "population": 399879,
+    "area": 8718,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 50,
+    "name": "NEVŞEHİR",
+    "population": 315994,
+    "area": 5485,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 51,
+    "name": "NİĞDE",
+    "population": 377080,
+    "area": 7234,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 52,
+    "name": "ORDU",
+    "population": 775800,
+    "area": 5914,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 53,
+    "name": "RİZE",
+    "population": 350506,
+    "area": 3835,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 54,
+    "name": "SAKARYA",
+    "population": 1098115,
+    "area": 4824,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 55,
+    "name": "SAMSUN",
+    "population": 1377546,
+    "area": 9725,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 56,
+    "name": "SİİRT",
+    "population": 347412,
+    "area": 5717,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 57,
+    "name": "SİNOP",
+    "population": 229716,
+    "area": 5717,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 58,
+    "name": "SİVAS",
+    "population": 650401,
+    "area": 28164,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 59,
+    "name": "TEKİRDAĞ",
+    "population": 1167059,
+    "area": 6190,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 60,
+    "name": "TOKAT",
+    "population": 606934,
+    "area": 10042,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 61,
+    "name": "TRABZON",
+    "population": 824352,
+    "area": 4628,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 62,
+    "name": "TUNCELİ",
+    "population": 89317,
+    "area": 7582,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 63,
+    "name": "ŞANLIURFA",
+    "population": 2213964,
+    "area": 19242,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 64,
+    "name": "UŞAK",
+    "population": 377001,
+    "area": 5555,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 65,
+    "name": "VAN",
+    "population": 1127612,
+    "area": 20921,
+    "isMetropolitan": 1,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 66,
+    "name": "YOZGAT",
+    "population": 420699,
+    "area": 13690,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 67,
+    "name": "ZONGULDAK",
+    "population": 591492,
+    "area": 3342,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 68,
+    "name": "AKSARAY",
+    "population": 438504,
+    "area": 7659,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 69,
+    "name": "BAYBURT",
+    "population": 86047,
+    "area": 3746,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:56"
+  },
+  {
+    "provinceID": 70,
+    "name": "KARAMAN",
+    "population": 263960,
+    "area": 8678,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 71,
+    "name": "KIRIKKALE",
+    "population": 285744,
+    "area": 4791,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 72,
+    "name": "BATMAN",
+    "population": 647205,
+    "area": 4477,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 73,
+    "name": "ŞIRNAK",
+    "population": 570745,
+    "area": 7078,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:02"
+  },
+  {
+    "provinceID": 74,
+    "name": "BARTIN",
+    "population": 207238,
+    "area": 2330,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 75,
+    "name": "ARDAHAN",
+    "population": 92819,
+    "area": 4934,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:55"
+  },
+  {
+    "provinceID": 76,
+    "name": "IĞDIR",
+    "population": 209738,
+    "area": 3664,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:58"
+  },
+  {
+    "provinceID": 77,
+    "name": "YALOVA",
+    "population": 304780,
+    "area": 798,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:03"
+  },
+  {
+    "provinceID": 78,
+    "name": "KARABÜK",
+    "population": 255242,
+    "area": 4142,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:59"
+  },
+  {
+    "provinceID": 79,
+    "name": "KİLİS",
+    "population": 155179,
+    "area": 1412,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:00"
+  },
+  {
+    "provinceID": 80,
+    "name": "OSMANİYE",
+    "population": 557666,
+    "area": 3320,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:24:01"
+  },
+  {
+    "provinceID": 81,
+    "name": "DÜZCE",
+    "population": 409865,
+    "area": 2492,
+    "isMetropolitan": 0,
+    "last_updated": "2024-03-08 11:23:57"
+  }
+]
